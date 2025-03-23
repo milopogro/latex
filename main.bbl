@@ -1,0 +1,2648 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{agileManifesto}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=848fab37c071b402458fb871d0b9c12e}{%
+           family={{Agile Alliance}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{848fab37c071b402458fb871d0b9c12e}
+      \strng{fullhash}{848fab37c071b402458fb871d0b9c12e}
+      \strng{bibnamehash}{848fab37c071b402458fb871d0b9c12e}
+      \strng{authorbibnamehash}{848fab37c071b402458fb871d0b9c12e}
+      \strng{authornamehash}{848fab37c071b402458fb871d0b9c12e}
+      \strng{authorfullhash}{848fab37c071b402458fb871d0b9c12e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Manifesto for Agile Software Development}
+      \field{year}{2001}
+      \verb{urlraw}
+      \verb http://agilemanifesto.org/
+      \endverb
+      \verb{url}
+      \verb http://agilemanifesto.org/
+      \endverb
+    \endentry
+    \entry{alshamrani2015comparison}{article}{}
+      \name{author}{2}{}{%
+        {{hash=db1ce36be0b86e978364c60a666931c9}{%
+           family={Alshamrani},
+           familyi={A\bibinitperiod},
+           given={Adel},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1c5a95f1bfd711d332df61a56f54c58b}{%
+           family={Bahattab},
+           familyi={B\bibinitperiod},
+           given={Abdullah},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{5cb3e1b8d2c33a75456596c31c00e447}
+      \strng{fullhash}{5cb3e1b8d2c33a75456596c31c00e447}
+      \strng{bibnamehash}{5cb3e1b8d2c33a75456596c31c00e447}
+      \strng{authorbibnamehash}{5cb3e1b8d2c33a75456596c31c00e447}
+      \strng{authornamehash}{5cb3e1b8d2c33a75456596c31c00e447}
+      \strng{authorfullhash}{5cb3e1b8d2c33a75456596c31c00e447}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computer Science Issues (IJCSI)}
+      \field{number}{1}
+      \field{title}{A comparison between three SDLC models waterfall model, spiral model, and Incremental/Iterative model}
+      \field{volume}{12}
+      \field{year}{2015}
+      \field{pages}{106}
+      \range{pages}{1}
+    \endentry
+    \entry{Alvarenga}{article}{}
+      \name{author}{5}{}{%
+        {{hash=5fbe33e0c2cf17fb4ae42adc68b30bdd}{%
+           family={Alvarenga},
+           familyi={A\bibinitperiod},
+           given={Jeferson\bibnamedelima Carvalho},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=f455fe67dff9a2887d9e3362189730e0}{%
+           family={Branco},
+           familyi={B\bibinitperiod},
+           given={Robson\bibnamedelima Rosa},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=507b09830de80ef99f5a31472d924c97}{%
+           family={Guedes},
+           familyi={G\bibinitperiod},
+           given={André\bibnamedelimb Luis\bibnamedelima Azevedo},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c4209c61c085084edbcb7c42ecd7cd7d}{%
+           family={Soares},
+           familyi={S\bibinitperiod},
+           given={Carlos\bibnamedelimb Alberto\bibnamedelima Pereira},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=0db7db0fa1c74d15502bbe0945977b6c}{%
+           family={Silveira\bibnamedelimb e\bibnamedelima Silva},
+           familyi={S\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Wainer},
+           giveni={W\bibinitperiod},
+           prefix={da},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{296232306d7f5538f6f433a7c011d91c}
+      \strng{fullhash}{1cd5bc94915d3073ac2a15bee8519f07}
+      \strng{bibnamehash}{296232306d7f5538f6f433a7c011d91c}
+      \strng{authorbibnamehash}{296232306d7f5538f6f433a7c011d91c}
+      \strng{authornamehash}{296232306d7f5538f6f433a7c011d91c}
+      \strng{authorfullhash}{1cd5bc94915d3073ac2a15bee8519f07}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Managing Projects in Business}
+      \field{title}{The project manager core competencies to project success}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1108/IJMPB-12-2018-0274
+      \endverb
+    \endentry
+    \entry{arora2016analysis}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a4084127f08b227f5b1cda45bc07a190}{%
+           family={Arora},
+           familyi={A\bibinitperiod},
+           given={Ritika},
+           giveni={R\bibinitperiod}}}%
+        {{hash=1a8b930fe82f2db69deddf78d27fced1}{%
+           family={Arora},
+           familyi={A\bibinitperiod},
+           given={Neha},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Citeseer}%
+      }
+      \strng{namehash}{b1c8614f32f3dd0b2bac0271f5daa664}
+      \strng{fullhash}{b1c8614f32f3dd0b2bac0271f5daa664}
+      \strng{bibnamehash}{b1c8614f32f3dd0b2bac0271f5daa664}
+      \strng{authorbibnamehash}{b1c8614f32f3dd0b2bac0271f5daa664}
+      \strng{authornamehash}{b1c8614f32f3dd0b2bac0271f5daa664}
+      \strng{authorfullhash}{b1c8614f32f3dd0b2bac0271f5daa664}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Current Engineering and Technology}
+      \field{number}{1}
+      \field{title}{Analysis of SDLC models}
+      \field{volume}{6}
+      \field{year}{2016}
+      \field{pages}{268\bibrangedash 272}
+      \range{pages}{5}
+    \endentry
+    \entry{canada}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e8df936c4f541fe1f803893d440e9a0a}{%
+           family={Auditor\bibnamedelimb General\bibnamedelimb of\bibnamedelima Canada},
+           familyi={A\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Report},
+           giveni={R\bibinitperiod},
+           prefix={of\bibnamedelima the},
+           prefixi={o\bibinitperiod\bibinitdelim t\bibinitperiod}}}%
+      }
+      \strng{namehash}{e8df936c4f541fe1f803893d440e9a0a}
+      \strng{fullhash}{e8df936c4f541fe1f803893d440e9a0a}
+      \strng{bibnamehash}{e8df936c4f541fe1f803893d440e9a0a}
+      \strng{authorbibnamehash}{e8df936c4f541fe1f803893d440e9a0a}
+      \strng{authornamehash}{e8df936c4f541fe1f803893d440e9a0a}
+      \strng{authorfullhash}{e8df936c4f541fe1f803893d440e9a0a}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Systems under development: Managing the risks}
+      \field{year}{1995}
+    \endentry
+    \entry{barki}{article}{}
+      \name{author}{3}{}{%
+        {{hash=90dd73a22757d8ab3f338947a8fbc944}{%
+           family={Barki},
+           familyi={B\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8a6019756230686e4c16d35f7d9d9671}{%
+           family={Rivard},
+           familyi={R\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=79c3d80b2bab399ef97ee29a4744a3f9}{%
+           family={Talbot},
+           familyi={T\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{5e9fa3fdaa0b880365bd4cfa21d8cf5b}
+      \strng{fullhash}{5e9fa3fdaa0b880365bd4cfa21d8cf5b}
+      \strng{bibnamehash}{5e9fa3fdaa0b880365bd4cfa21d8cf5b}
+      \strng{authorbibnamehash}{5e9fa3fdaa0b880365bd4cfa21d8cf5b}
+      \strng{authornamehash}{5e9fa3fdaa0b880365bd4cfa21d8cf5b}
+      \strng{authorfullhash}{5e9fa3fdaa0b880365bd4cfa21d8cf5b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Management Information Systems}
+      \field{title}{Toward an assessment of software development risk.}
+      \field{year}{1993}
+    \endentry
+    \entry{BlackburnSarah}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fd9e54b4f36d36757a9cdaf6743ccd37}{%
+           family={Blackburn},
+           familyi={B\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{fd9e54b4f36d36757a9cdaf6743ccd37}
+      \strng{fullhash}{fd9e54b4f36d36757a9cdaf6743ccd37}
+      \strng{bibnamehash}{fd9e54b4f36d36757a9cdaf6743ccd37}
+      \strng{authorbibnamehash}{fd9e54b4f36d36757a9cdaf6743ccd37}
+      \strng{authornamehash}{fd9e54b4f36d36757a9cdaf6743ccd37}
+      \strng{authorfullhash}{fd9e54b4f36d36757a9cdaf6743ccd37}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Project Management}
+      \field{title}{The project manager and the project-network}
+      \field{year}{2002}
+      \verb{doi}
+      \verb 10.1016/S0263-7863(01)00069-2
+      \endverb
+    \endentry
+    \entry{boehm2002}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bb61ed6284936935e42923bc1edb1054}{%
+           family={Boehm},
+           familyi={B\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{bb61ed6284936935e42923bc1edb1054}
+      \strng{fullhash}{bb61ed6284936935e42923bc1edb1054}
+      \strng{bibnamehash}{bb61ed6284936935e42923bc1edb1054}
+      \strng{authorbibnamehash}{bb61ed6284936935e42923bc1edb1054}
+      \strng{authornamehash}{bb61ed6284936935e42923bc1edb1054}
+      \strng{authorfullhash}{bb61ed6284936935e42923bc1edb1054}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer}
+      \field{number}{1}
+      \field{title}{Get Ready for Agile Methods, with Care}
+      \field{volume}{35}
+      \field{year}{2002}
+      \field{pages}{64\bibrangedash 69}
+      \range{pages}{6}
+    \endentry
+    \entry{brill}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a257ef61cfa9b6b02531a91e87bccbc6}{%
+           family={Brill},
+           familyi={B\bibinitperiod},
+           given={Jennifer\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=44a65dc4bf67ba381ee68af5aa7b1b0a}{%
+           family={Bishop},
+           familyi={B\bibinitperiod},
+           given={M.\bibnamedelimi J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=323b4405329e0f534623350583b0647e}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={Andrew\bibnamedelima E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{aa2601be942d506a6bfbfdc57ab24338}
+      \strng{fullhash}{aa2601be942d506a6bfbfdc57ab24338}
+      \strng{bibnamehash}{aa2601be942d506a6bfbfdc57ab24338}
+      \strng{authorbibnamehash}{aa2601be942d506a6bfbfdc57ab24338}
+      \strng{authornamehash}{aa2601be942d506a6bfbfdc57ab24338}
+      \strng{authorfullhash}{aa2601be942d506a6bfbfdc57ab24338}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ITLS Faculty Publications}
+      \field{title}{The Competencies and Characteristics Required of an Effective Project Manager: A Web-Based Delphi Study}
+      \field{year}{2006}
+      \verb{doi}
+      \verb 10.1007/s11423-006-8251-y
+      \endverb
+    \endentry
+    \entry{burns}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=76a5777177346b98fca8e22a2282b555}{%
+           family={Burns},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{76a5777177346b98fca8e22a2282b555}
+      \strng{fullhash}{76a5777177346b98fca8e22a2282b555}
+      \strng{bibnamehash}{76a5777177346b98fca8e22a2282b555}
+      \strng{authorbibnamehash}{76a5777177346b98fca8e22a2282b555}
+      \strng{authornamehash}{76a5777177346b98fca8e22a2282b555}
+      \strng{authorfullhash}{76a5777177346b98fca8e22a2282b555}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Leadership. Harper \& Row.}
+      \field{year}{1978}
+    \endentry
+    \entry{komunikacja}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e99853c9488a03201b52414da14941c9}{%
+           family={Celestin},
+           familyi={C\bibinitperiod},
+           given={Mbonigaba},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f859895f8981d927403a730cf9f9a1df}{%
+           family={Paul},
+           familyi={P\bibinitperiod},
+           given={Hategekimana\bibnamedelima Jean},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=1408022b777f4ee6942c5cc6303fc61e}{%
+           family={Clementine},
+           familyi={C\bibinitperiod},
+           given={Niyigena},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{128675b6a5a6c8ac39d76b122b62e2a7}
+      \strng{fullhash}{128675b6a5a6c8ac39d76b122b62e2a7}
+      \strng{bibnamehash}{128675b6a5a6c8ac39d76b122b62e2a7}
+      \strng{authorbibnamehash}{128675b6a5a6c8ac39d76b122b62e2a7}
+      \strng{authornamehash}{128675b6a5a6c8ac39d76b122b62e2a7}
+      \strng{authorfullhash}{128675b6a5a6c8ac39d76b122b62e2a7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computational Research and Development}
+      \field{title}{Analysis of Effective Communication and Project Success: Survey on Electricity Access Roll Out Project at EDCL -EARP}
+      \field{year}{2023}
+    \endentry
+    \entry{analizaMulti}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d13eb67238bea61287354dfa3e39b875}{%
+           family={Chipulu},
+           familyi={C\bibinitperiod},
+           given={Maxwell},
+           giveni={M\bibinitperiod}}}%
+        {{hash=69e8c6f0634043e6391d9905b5e4b24c}{%
+           family={Neoh},
+           familyi={N\bibinitperiod},
+           given={Jun\bibnamedelima Guan},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=2b423a6227d973dc37fd8673188618a7}{%
+           family={Ojiako},
+           familyi={O\bibinitperiod},
+           given={Udechukwu\bibnamedelima (Udi)},
+           giveni={U\bibinitperiod\bibinitdelim (\bibinitperiod}}}%
+        {{hash=1179d6b0bc2104e7c0b29ad50789e9c6}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Terry},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{3c657222037545ba3ffdd9ff36b9da9c}
+      \strng{fullhash}{a990055dbe419c2c1baad6285e6ed395}
+      \strng{bibnamehash}{3c657222037545ba3ffdd9ff36b9da9c}
+      \strng{authorbibnamehash}{3c657222037545ba3ffdd9ff36b9da9c}
+      \strng{authornamehash}{3c657222037545ba3ffdd9ff36b9da9c}
+      \strng{authorfullhash}{a990055dbe419c2c1baad6285e6ed395}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Engineering Management}
+      \field{title}{A Multidimensional Analysis of Project Manager Competences}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.1109/TEM.2012.2215330
+      \endverb
+    \endentry
+    \entry{ITPMChmielarz}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ca760b93e76bbf21ce804174af3b0063}{%
+           family={Chmielarz},
+           familyi={C\bibinitperiod},
+           given={Witold},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wydawnictwo Naukowe Wydziału Zarządzania}%
+      }
+      \strng{namehash}{ca760b93e76bbf21ce804174af3b0063}
+      \strng{fullhash}{ca760b93e76bbf21ce804174af3b0063}
+      \strng{bibnamehash}{ca760b93e76bbf21ce804174af3b0063}
+      \strng{authorbibnamehash}{ca760b93e76bbf21ce804174af3b0063}
+      \strng{authornamehash}{ca760b93e76bbf21ce804174af3b0063}
+      \strng{authorfullhash}{ca760b93e76bbf21ce804174af3b0063}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Information Technology Project management}
+      \field{year}{2015}
+    \endentry
+    \entry{hobbs}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=ae0ac6bbdd7600542ada4c2b8f516e54}{%
+           family={Crawford},
+           familyi={C\bibinitperiod},
+           given={Lynn},
+           giveni={L\bibinitperiod}}}%
+        {{hash=9fc7221f3efa691a2087b7760046086f}{%
+           family={Hobbs},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi Brian},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=3ff39963b02ba27abb6b19a497668ff2}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={J.\bibnamedelimi Rodney},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{99cfa2f4d975b82d227c51556d3a7a71}
+      \strng{fullhash}{99cfa2f4d975b82d227c51556d3a7a71}
+      \strng{bibnamehash}{99cfa2f4d975b82d227c51556d3a7a71}
+      \strng{authorbibnamehash}{99cfa2f4d975b82d227c51556d3a7a71}
+      \strng{authornamehash}{99cfa2f4d975b82d227c51556d3a7a71}
+      \strng{authorfullhash}{99cfa2f4d975b82d227c51556d3a7a71}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Project Categorizations Systems: Aligning Capability with Strategy for Better Results}
+      \field{year}{2005}
+    \endentry
+    \entry{Currie1989}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ba47209cd347eb40c6e38c5f5bf1c996}{%
+           family={Currie},
+           familyi={C\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba47209cd347eb40c6e38c5f5bf1c996}
+      \strng{fullhash}{ba47209cd347eb40c6e38c5f5bf1c996}
+      \strng{bibnamehash}{ba47209cd347eb40c6e38c5f5bf1c996}
+      \strng{authorbibnamehash}{ba47209cd347eb40c6e38c5f5bf1c996}
+      \strng{authornamehash}{ba47209cd347eb40c6e38c5f5bf1c996}
+      \strng{authorfullhash}{ba47209cd347eb40c6e38c5f5bf1c996}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Omega}
+      \field{title}{The art of justifying new technology to top management}
+      \field{year}{1989}
+    \endentry
+    \entry{metodyka}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f8d8590fd8c2b26cb06f92f10da5e024}{%
+           family={Ćwiklicki},
+           familyi={Ć\bibinitperiod},
+           given={Marek},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f8d8590fd8c2b26cb06f92f10da5e024}
+      \strng{fullhash}{f8d8590fd8c2b26cb06f92f10da5e024}
+      \strng{bibnamehash}{f8d8590fd8c2b26cb06f92f10da5e024}
+      \strng{authorbibnamehash}{f8d8590fd8c2b26cb06f92f10da5e024}
+      \strng{authornamehash}{f8d8590fd8c2b26cb06f92f10da5e024}
+      \strng{authorfullhash}{f8d8590fd8c2b26cb06f92f10da5e024}
+      \field{sortinit}{Ć}
+      \field{sortinithash}{24c89956ea504ac7c9bf18e41be4d8b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Metodyka przeglądu zakresu literatury (scoping review)}
+      \field{year}{2020}
+    \endentry
+    \entry{dyba2009we}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3ebcff558cb954377ad064d0332b04b4}{%
+           family={Dyba},
+           familyi={D\bibinitperiod},
+           given={Tore},
+           giveni={T\bibinitperiod}}}%
+        {{hash=9cf053c2db64e1e48f8d3c2a686479c3}{%
+           family={Dingsoyr},
+           familyi={D\bibinitperiod},
+           given={Torgeir},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{53457ac6a4556ba18fc2db0fea6b798c}
+      \strng{fullhash}{53457ac6a4556ba18fc2db0fea6b798c}
+      \strng{bibnamehash}{53457ac6a4556ba18fc2db0fea6b798c}
+      \strng{authorbibnamehash}{53457ac6a4556ba18fc2db0fea6b798c}
+      \strng{authornamehash}{53457ac6a4556ba18fc2db0fea6b798c}
+      \strng{authorfullhash}{53457ac6a4556ba18fc2db0fea6b798c}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE software}
+      \field{number}{5}
+      \field{title}{What do we know about agile software development?}
+      \field{volume}{26}
+      \field{year}{2009}
+      \field{pages}{6\bibrangedash 9}
+      \range{pages}{4}
+    \endentry
+    \entry{dyba2000}{article}{}
+      \name{author}{1}{}{%
+        {{hash=59dc5504f86d3afa630791d994a1f5ca}{%
+           family={Dybå},
+           familyi={D\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{59dc5504f86d3afa630791d994a1f5ca}
+      \strng{fullhash}{59dc5504f86d3afa630791d994a1f5ca}
+      \strng{bibnamehash}{59dc5504f86d3afa630791d994a1f5ca}
+      \strng{authorbibnamehash}{59dc5504f86d3afa630791d994a1f5ca}
+      \strng{authornamehash}{59dc5504f86d3afa630791d994a1f5ca}
+      \strng{authorfullhash}{59dc5504f86d3afa630791d994a1f5ca}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Software}
+      \field{number}{5}
+      \field{title}{Improvisation in Small Software Organizations}
+      \field{volume}{17}
+      \field{year}{2000}
+      \field{pages}{82\bibrangedash 87}
+      \range{pages}{6}
+    \endentry
+    \entry{ebrahim2009virtual}{article}{}
+      \name{author}{3}{}{%
+        {{hash=22c4c605e6e8cfeb469727345cc01667}{%
+           family={Ebrahim},
+           familyi={E\bibinitperiod},
+           given={Nader\bibnamedelima Ale},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f7074ccbf4198604ba77abf44f71514c}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Shamsuddin},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7b88c8c0760d67f4ec2cff9460b4498f}{%
+           family={Taha},
+           familyi={T\bibinitperiod},
+           given={Zahari},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{9eea29dccecfe8daeb7998d5f1a1e491}
+      \strng{fullhash}{9eea29dccecfe8daeb7998d5f1a1e491}
+      \strng{bibnamehash}{9eea29dccecfe8daeb7998d5f1a1e491}
+      \strng{authorbibnamehash}{9eea29dccecfe8daeb7998d5f1a1e491}
+      \strng{authornamehash}{9eea29dccecfe8daeb7998d5f1a1e491}
+      \strng{authorfullhash}{9eea29dccecfe8daeb7998d5f1a1e491}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Australian journal of basic and applied sciences}
+      \field{number}{3}
+      \field{title}{Virtual teams: A literature review}
+      \field{volume}{3}
+      \field{year}{2009}
+      \field{pages}{2653\bibrangedash 2669}
+      \range{pages}{17}
+    \endentry
+    \entry{farley2021}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1eaa20f9c3cf0a03c1f05786974cb060}{%
+           family={Farley},
+           familyi={F\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley Professional}%
+      }
+      \strng{namehash}{1eaa20f9c3cf0a03c1f05786974cb060}
+      \strng{fullhash}{1eaa20f9c3cf0a03c1f05786974cb060}
+      \strng{bibnamehash}{1eaa20f9c3cf0a03c1f05786974cb060}
+      \strng{authorbibnamehash}{1eaa20f9c3cf0a03c1f05786974cb060}
+      \strng{authornamehash}{1eaa20f9c3cf0a03c1f05786974cb060}
+      \strng{authorfullhash}{1eaa20f9c3cf0a03c1f05786974cb060}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Modern Software Engineering: Doing What Works to Build Better Software Faster}
+      \field{year}{2021}
+    \endentry
+    \entry{gartner}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d731fcf8dc291838fae2c960c48537b2}{%
+           family={Gartner},
+           familyi={G\bibinitperiod},
+           given={Inc.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d731fcf8dc291838fae2c960c48537b2}
+      \strng{fullhash}{d731fcf8dc291838fae2c960c48537b2}
+      \strng{bibnamehash}{d731fcf8dc291838fae2c960c48537b2}
+      \strng{authorbibnamehash}{d731fcf8dc291838fae2c960c48537b2}
+      \strng{authornamehash}{d731fcf8dc291838fae2c960c48537b2}
+      \strng{authorfullhash}{d731fcf8dc291838fae2c960c48537b2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gartner Says Worldwide IT Spending Forecast to Grow 2.4 Percent in 2017}
+      \field{year}{2014}
+    \endentry
+    \entry{ryzyka}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c032da7f30f90dadcd6e2a4eab2538ae}{%
+           family={Gemino},
+           familyi={G\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=44ce40017a067d4946cff258c85b17f8}{%
+           family={Reich},
+           familyi={R\bibinitperiod},
+           given={Blaize},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7a66864b79f4d8547f352fe4f29b3a03}{%
+           family={Sauer},
+           familyi={S\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{3d29fb1184769f0e3c5789f706545276}
+      \strng{fullhash}{3d29fb1184769f0e3c5789f706545276}
+      \strng{bibnamehash}{3d29fb1184769f0e3c5789f706545276}
+      \strng{authorbibnamehash}{3d29fb1184769f0e3c5789f706545276}
+      \strng{authornamehash}{3d29fb1184769f0e3c5789f706545276}
+      \strng{authorfullhash}{3d29fb1184769f0e3c5789f706545276}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. of Management Information Systems}
+      \field{month}{01}
+      \field{title}{A Temporal Model of Information Technology Project Performance}
+      \field{volume}{24}
+      \field{year}{2008}
+      \field{pages}{9\bibrangedash 44}
+      \range{pages}{36}
+      \verb{doi}
+      \verb 10.2753/MIS0742-1222240301
+      \endverb
+    \endentry
+    \entry{gido}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e2ccabb7784ed78d807e700b5545d149}{%
+           family={Gido},
+           familyi={G\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=16a336b4bf084600a8db0f0b31a8c955}{%
+           family={Clements},
+           familyi={C\bibinitperiod},
+           given={J.P.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{da5419be95a3398fe50ea82c290eece2}
+      \strng{fullhash}{da5419be95a3398fe50ea82c290eece2}
+      \strng{bibnamehash}{da5419be95a3398fe50ea82c290eece2}
+      \strng{authorbibnamehash}{da5419be95a3398fe50ea82c290eece2}
+      \strng{authornamehash}{da5419be95a3398fe50ea82c290eece2}
+      \strng{authorfullhash}{da5419be95a3398fe50ea82c290eece2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{South Western Hill}
+      \field{title}{Successful Project Management}
+      \field{year}{1999}
+    \endentry
+    \entry{Gottschalk}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2a715201cc4c52749315b8db1fb5a799}{%
+           family={Gottschalk},
+           familyi={G\bibinitperiod},
+           given={Petter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=dc5554c89a741da4d4106b51af3831ba}{%
+           family={Karlsen},
+           familyi={K\bibinitperiod},
+           given={Jan\bibnamedelima Terje},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{67db034619d48eafdaf54ca28e2c7f0f}
+      \strng{fullhash}{67db034619d48eafdaf54ca28e2c7f0f}
+      \strng{bibnamehash}{67db034619d48eafdaf54ca28e2c7f0f}
+      \strng{authorbibnamehash}{67db034619d48eafdaf54ca28e2c7f0f}
+      \strng{authornamehash}{67db034619d48eafdaf54ca28e2c7f0f}
+      \strng{authorfullhash}{67db034619d48eafdaf54ca28e2c7f0f}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Industrial Management \& Data Systems}
+      \field{title}{A comparison of leadership roles in internal IT projects versus outsourcing projects.}
+      \field{year}{2005}
+      \verb{doi}
+      \verb 10.1108/02635570510633220 3
+      \endverb
+    \endentry
+    \entry{chaos}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=914b8c0da072c6241e8be902141ec4f4}{%
+           family={Group},
+           familyi={G\bibinitperiod},
+           given={Standish},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{914b8c0da072c6241e8be902141ec4f4}
+      \strng{fullhash}{914b8c0da072c6241e8be902141ec4f4}
+      \strng{bibnamehash}{914b8c0da072c6241e8be902141ec4f4}
+      \strng{authorbibnamehash}{914b8c0da072c6241e8be902141ec4f4}
+      \strng{authornamehash}{914b8c0da072c6241e8be902141ec4f4}
+      \strng{authorfullhash}{914b8c0da072c6241e8be902141ec4f4}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{CHAOS Report}
+      \field{year}{2015}
+    \endentry
+    \entry{wdr}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9d4d7ca4d46ecc80c3a617180bec4834}{%
+           family={Group},
+           familyi={G\bibinitperiod},
+           given={World\bibnamedelima Bank},
+           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{9d4d7ca4d46ecc80c3a617180bec4834}
+      \strng{fullhash}{9d4d7ca4d46ecc80c3a617180bec4834}
+      \strng{bibnamehash}{9d4d7ca4d46ecc80c3a617180bec4834}
+      \strng{authorbibnamehash}{9d4d7ca4d46ecc80c3a617180bec4834}
+      \strng{authornamehash}{9d4d7ca4d46ecc80c3a617180bec4834}
+      \strng{authorfullhash}{9d4d7ca4d46ecc80c3a617180bec4834}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{World Development Report}
+      \field{year}{2016}
+    \endentry
+    \entry{haggerty}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=97f0a1cdaad294bc29390333eadd2e01}{%
+           family={Haggerty},
+           familyi={H\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{97f0a1cdaad294bc29390333eadd2e01}
+      \strng{fullhash}{97f0a1cdaad294bc29390333eadd2e01}
+      \strng{bibnamehash}{97f0a1cdaad294bc29390333eadd2e01}
+      \strng{authorbibnamehash}{97f0a1cdaad294bc29390333eadd2e01}
+      \strng{authornamehash}{97f0a1cdaad294bc29390333eadd2e01}
+      \strng{authorfullhash}{97f0a1cdaad294bc29390333eadd2e01}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Understanding the Link between IT Project Manager Skills and Project Success}
+      \field{year}{2000}
+    \endentry
+    \entry{pmbok}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=74dbc91cdc48797ba584f5cd677ca31a}{%
+           family={Institute},
+           familyi={I\bibinitperiod},
+           given={Project\bibnamedelima Management},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \strng{fullhash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \strng{bibnamehash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \strng{authorbibnamehash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \strng{authornamehash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \strng{authorfullhash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PMBOK Guide – Fourth Edition}
+      \field{year}{2009}
+    \endentry
+    \entry{pmbok7}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=74dbc91cdc48797ba584f5cd677ca31a}{%
+           family={Institute},
+           familyi={I\bibinitperiod},
+           given={Project\bibnamedelima Management},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \strng{fullhash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \strng{bibnamehash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \strng{authorbibnamehash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \strng{authornamehash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \strng{authorfullhash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \field{extraname}{2}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PMBOK Guide – Seventh Edition}
+      \field{year}{2021}
+    \endentry
+    \entry{pmbok6}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=74dbc91cdc48797ba584f5cd677ca31a}{%
+           family={Institute},
+           familyi={I\bibinitperiod},
+           given={Project\bibnamedelima Management},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \strng{fullhash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \strng{bibnamehash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \strng{authorbibnamehash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \strng{authornamehash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \strng{authorfullhash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \field{extraname}{3}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PMBOK Guide – Sixth Edition}
+      \field{year}{2017}
+    \endentry
+    \entry{job}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=74dbc91cdc48797ba584f5cd677ca31a}{%
+           family={Institute},
+           familyi={I\bibinitperiod},
+           given={Project\bibnamedelima Management},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \strng{fullhash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \strng{bibnamehash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \strng{authorbibnamehash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \strng{authornamehash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \strng{authorfullhash}{74dbc91cdc48797ba584f5cd677ca31a}
+      \field{extraname}{4}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Project Management Job Growth and Talent Gap}
+      \field{year}{2017}
+    \endentry
+    \entry{Jalocha2012}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4b54f1115b5cf8099703040c8be8d062}{%
+           family={Jałocha},
+           familyi={J\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{4b54f1115b5cf8099703040c8be8d062}
+      \strng{fullhash}{4b54f1115b5cf8099703040c8be8d062}
+      \strng{bibnamehash}{4b54f1115b5cf8099703040c8be8d062}
+      \strng{authorbibnamehash}{4b54f1115b5cf8099703040c8be8d062}
+      \strng{authornamehash}{4b54f1115b5cf8099703040c8be8d062}
+      \strng{authorfullhash}{4b54f1115b5cf8099703040c8be8d062}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Project, Program and Portfolio Management}
+      \field{title}{Projectification of the European Union and its Implications for Public Labour Market Organisations in Poland}
+      \field{year}{2012}
+    \endentry
+    \entry{jiang}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=bfb52b00b2270d69a12ac61aa24a7605}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={James\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ab4c12bf5d9bf9562265afd7c61cae00}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod}}}%
+        {{hash=6be91a5e4b6cdc8438b8535874217b57}{%
+           family={Margulis},
+           familyi={M\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{addeecaa63e42f2c1ceb5ca20af85471}
+      \strng{fullhash}{addeecaa63e42f2c1ceb5ca20af85471}
+      \strng{bibnamehash}{addeecaa63e42f2c1ceb5ca20af85471}
+      \strng{authorbibnamehash}{addeecaa63e42f2c1ceb5ca20af85471}
+      \strng{authornamehash}{addeecaa63e42f2c1ceb5ca20af85471}
+      \strng{authorfullhash}{addeecaa63e42f2c1ceb5ca20af85471}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Important Behavioral Skills for IS Project Managers: The Judgments of Experienced IS Professionals}
+      \field{year}{1998}
+    \endentry
+    \entry{Juchniewicz2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9b68a4502b087c996e4d1899ee1c5df6}{%
+           family={Juchniewicz},
+           familyi={J\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{9b68a4502b087c996e4d1899ee1c5df6}
+      \strng{fullhash}{9b68a4502b087c996e4d1899ee1c5df6}
+      \strng{bibnamehash}{9b68a4502b087c996e4d1899ee1c5df6}
+      \strng{authorbibnamehash}{9b68a4502b087c996e4d1899ee1c5df6}
+      \strng{authornamehash}{9b68a4502b087c996e4d1899ee1c5df6}
+      \strng{authorfullhash}{9b68a4502b087c996e4d1899ee1c5df6}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studia i Prace Kolegium Zarządzania i Finansów SGH}
+      \field{title}{Projektyzacja – koncepcja, zakres, konsekwencje}
+      \field{year}{2018}
+    \endentry
+    \entry{Kanter1979}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d9b4399b118256383066b254b4dcd5a6}{%
+           family={Kanter},
+           familyi={K\bibinitperiod},
+           given={Rosabeth\bibnamedelima Moss},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d9b4399b118256383066b254b4dcd5a6}
+      \strng{fullhash}{d9b4399b118256383066b254b4dcd5a6}
+      \strng{bibnamehash}{d9b4399b118256383066b254b4dcd5a6}
+      \strng{authorbibnamehash}{d9b4399b118256383066b254b4dcd5a6}
+      \strng{authornamehash}{d9b4399b118256383066b254b4dcd5a6}
+      \strng{authorfullhash}{d9b4399b118256383066b254b4dcd5a6}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Harvard Business Review}
+      \field{month}{7}
+      \field{number}{4}
+      \field{title}{Power Failure in Management Circuits}
+      \field{volume}{57}
+      \field{year}{1979}
+      \field{pages}{65\bibrangedash 75}
+      \range{pages}{11}
+    \endentry
+    \entry{keil}{article}{}
+      \name{author}{4}{}{%
+        {{hash=aec0bb1c381f2d37ed958636e1509d70}{%
+           family={Keil},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=56bd670b09bf5efc08c36b1e3a3a210b}{%
+           family={Cule},
+           familyi={C\bibinitperiod},
+           given={P.E.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=8049dcc0b364486f18bc43ed30b7fd9a}{%
+           family={Lyytinen},
+           familyi={L\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=79bf0a86e2b534a6fc9cd31d18443f95}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={R.C.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b5a5b2a6eb1a12c03008c49afd6e72f6}
+      \strng{fullhash}{5dade118ad2b84d6fbe523f8f1f9136d}
+      \strng{bibnamehash}{b5a5b2a6eb1a12c03008c49afd6e72f6}
+      \strng{authorbibnamehash}{b5a5b2a6eb1a12c03008c49afd6e72f6}
+      \strng{authornamehash}{b5a5b2a6eb1a12c03008c49afd6e72f6}
+      \strng{authorfullhash}{5dade118ad2b84d6fbe523f8f1f9136d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications of the ACM}
+      \field{title}{A framework for identifying software project risks.}
+      \field{year}{1998}
+    \endentry
+    \entry{Kerzner2017}{book}{}
+      \name{author}{1}{}{%
+        {{hash=416f9314f8ccd730f5d605dde32b5a0a}{%
+           family={Kerzner},
+           familyi={K\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{416f9314f8ccd730f5d605dde32b5a0a}
+      \strng{fullhash}{416f9314f8ccd730f5d605dde32b5a0a}
+      \strng{bibnamehash}{416f9314f8ccd730f5d605dde32b5a0a}
+      \strng{authorbibnamehash}{416f9314f8ccd730f5d605dde32b5a0a}
+      \strng{authornamehash}{416f9314f8ccd730f5d605dde32b5a0a}
+      \strng{authorfullhash}{416f9314f8ccd730f5d605dde32b5a0a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Project Management: A Systems Approach to Planning, Scheduling, and Controlling}
+      \field{year}{2017}
+    \endentry
+    \entry{langer}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=ac83b69bf7c7a1dd535f71bc1250e656}{%
+           family={Langer},
+           familyi={L\bibinitperiod},
+           given={Nishtha},
+           giveni={N\bibinitperiod}}}%
+        {{hash=04a11976ee24bf2509bacc5e879be2ba}{%
+           family={Slaughter},
+           familyi={S\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=56f3fab9dc37144c360544e2baec224f}{%
+           family={Mukhopadhyay},
+           familyi={M\bibinitperiod},
+           given={Tridas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{03d55baf302989884f54435bc973b160}
+      \strng{fullhash}{03d55baf302989884f54435bc973b160}
+      \strng{bibnamehash}{03d55baf302989884f54435bc973b160}
+      \strng{authorbibnamehash}{03d55baf302989884f54435bc973b160}
+      \strng{authornamehash}{03d55baf302989884f54435bc973b160}
+      \strng{authorfullhash}{03d55baf302989884f54435bc973b160}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How do Project Managers’ Skills Affect Project Success in IT Outsourcing?}
+      \field{year}{2008}
+    \endentry
+    \entry{loh1992determinants}{article}{}
+      \name{author}{2}{}{%
+        {{hash=59ba791111a2ed2e6f4643d6d2786d85}{%
+           family={Loh},
+           familyi={L\bibinitperiod},
+           given={Lawrence},
+           giveni={L\bibinitperiod}}}%
+        {{hash=d6b3a4450a4143e7c964f5d0a77fd942}{%
+           family={Venkatraman},
+           familyi={V\bibinitperiod},
+           given={Natarjan},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{6c6ac4c7f914972903238d8b56c3be1b}
+      \strng{fullhash}{6c6ac4c7f914972903238d8b56c3be1b}
+      \strng{bibnamehash}{6c6ac4c7f914972903238d8b56c3be1b}
+      \strng{authorbibnamehash}{6c6ac4c7f914972903238d8b56c3be1b}
+      \strng{authornamehash}{6c6ac4c7f914972903238d8b56c3be1b}
+      \strng{authorfullhash}{6c6ac4c7f914972903238d8b56c3be1b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of management information systems}
+      \field{number}{1}
+      \field{title}{Determinants of information technology outsourcing: A cross-sectional analysis}
+      \field{volume}{9}
+      \field{year}{1992}
+      \field{pages}{7\bibrangedash 24}
+      \range{pages}{18}
+    \endentry
+    \entry{robey}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8049dcc0b364486f18bc43ed30b7fd9a}{%
+           family={Lyytinen},
+           familyi={L\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=b499a4b15fc0c09b2ebefb203bf9bf6a}{%
+           family={Robey},
+           familyi={R\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f124c3c472b073d65a69d1432e71d91}
+      \strng{fullhash}{2f124c3c472b073d65a69d1432e71d91}
+      \strng{bibnamehash}{2f124c3c472b073d65a69d1432e71d91}
+      \strng{authorbibnamehash}{2f124c3c472b073d65a69d1432e71d91}
+      \strng{authornamehash}{2f124c3c472b073d65a69d1432e71d91}
+      \strng{authorfullhash}{2f124c3c472b073d65a69d1432e71d91}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Information Systems Journal}
+      \field{title}{Learning failure in information systems development.}
+      \field{year}{1999}
+    \endentry
+    \entry{ITPMMarchewka}{book}{}
+      \name{author}{1}{}{%
+        {{hash=47bceb71c90dcdeee5afcc6b47f2fb0a}{%
+           family={Marchewka},
+           familyi={M\bibinitperiod},
+           given={Jack\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Northern Illinois University}%
+      }
+      \strng{namehash}{47bceb71c90dcdeee5afcc6b47f2fb0a}
+      \strng{fullhash}{47bceb71c90dcdeee5afcc6b47f2fb0a}
+      \strng{bibnamehash}{47bceb71c90dcdeee5afcc6b47f2fb0a}
+      \strng{authorbibnamehash}{47bceb71c90dcdeee5afcc6b47f2fb0a}
+      \strng{authornamehash}{47bceb71c90dcdeee5afcc6b47f2fb0a}
+      \strng{authorfullhash}{47bceb71c90dcdeee5afcc6b47f2fb0a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Information Technology Project management}
+      \field{year}{2003}
+    \endentry
+    \entry{Maylor2006}{article}{}
+      \name{author}{4}{}{%
+        {{hash=cb6423364b462a71da0f1f4ed1c10eae}{%
+           family={Maylor},
+           familyi={M\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9b0ab9927be3049737216e33731217d4}{%
+           family={Brady},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ea3885290a05d46b574239c9b673499e}{%
+           family={Cooke-Davies},
+           familyi={C\bibinithyphendelim D\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=fbbadd849dbb07b7e97b3d7e91c42244}{%
+           family={Hodgson},
+           familyi={H\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{124c32c4b709f8a31b1a6f405c38afda}
+      \strng{fullhash}{5c775bde35ae392ad90cfffbf89da391}
+      \strng{bibnamehash}{124c32c4b709f8a31b1a6f405c38afda}
+      \strng{authorbibnamehash}{124c32c4b709f8a31b1a6f405c38afda}
+      \strng{authornamehash}{124c32c4b709f8a31b1a6f405c38afda}
+      \strng{authorfullhash}{5c775bde35ae392ad90cfffbf89da391}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Project Management}
+      \field{title}{From Projectification to Programmification}
+      \field{year}{2006}
+    \endentry
+    \entry{McConnell}{book}{}
+      \name{author}{1}{}{%
+        {{hash=bab01159541ce224d6eefbd156a4d7f3}{%
+           family={McConnell},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Microsoft Press}%
+      }
+      \strng{namehash}{bab01159541ce224d6eefbd156a4d7f3}
+      \strng{fullhash}{bab01159541ce224d6eefbd156a4d7f3}
+      \strng{bibnamehash}{bab01159541ce224d6eefbd156a4d7f3}
+      \strng{authorbibnamehash}{bab01159541ce224d6eefbd156a4d7f3}
+      \strng{authornamehash}{bab01159541ce224d6eefbd156a4d7f3}
+      \strng{authorfullhash}{bab01159541ce224d6eefbd156a4d7f3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rapid Development: Taming Wild Software Schedules}
+      \field{year}{1996}
+    \endentry
+    \entry{mcfarlan}{article}{}
+      \name{author}{1}{}{%
+        {{hash=06d53f14a69e0295255a27f65a9c1d81}{%
+           family={McFarlan},
+           familyi={M\bibinitperiod},
+           given={F.W.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{06d53f14a69e0295255a27f65a9c1d81}
+      \strng{fullhash}{06d53f14a69e0295255a27f65a9c1d81}
+      \strng{bibnamehash}{06d53f14a69e0295255a27f65a9c1d81}
+      \strng{authorbibnamehash}{06d53f14a69e0295255a27f65a9c1d81}
+      \strng{authornamehash}{06d53f14a69e0295255a27f65a9c1d81}
+      \strng{authorfullhash}{06d53f14a69e0295255a27f65a9c1d81}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Harvard Business Review,}
+      \field{title}{Portfolio approach to information systems.}
+      \field{year}{1981}
+    \endentry
+    \entry{McGrew1990}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=00f938f02b4c97bf35045d6d0b80f184}{%
+           family={McGrew},
+           familyi={M\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=3ebfef3a72f8b555e6385b184e0bf40f}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4687a6291e0e8f42818e47c8a6f11aa0}{%
+           family={Held},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=00f938f02b4c97bf35045d6d0b80f184}{%
+           family={McGrew},
+           familyi={M\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Polity Press}%
+      }
+      \strng{namehash}{00f938f02b4c97bf35045d6d0b80f184}
+      \strng{fullhash}{00f938f02b4c97bf35045d6d0b80f184}
+      \strng{bibnamehash}{00f938f02b4c97bf35045d6d0b80f184}
+      \strng{authorbibnamehash}{00f938f02b4c97bf35045d6d0b80f184}
+      \strng{authornamehash}{00f938f02b4c97bf35045d6d0b80f184}
+      \strng{authorfullhash}{00f938f02b4c97bf35045d6d0b80f184}
+      \strng{editorbibnamehash}{bb1401c7fc90bdb7b1203cd29ce1bf17}
+      \strng{editornamehash}{bb1401c7fc90bdb7b1203cd29ce1bf17}
+      \strng{editorfullhash}{bb1401c7fc90bdb7b1203cd29ce1bf17}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Modernity and Its Futures}
+      \field{title}{A Global Society}
+      \field{year}{1990}
+    \endentry
+    \entry{meyer2014agile}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7833218c9c8ce508ce4d4482308c9da5}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={Bertrand},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{7833218c9c8ce508ce4d4482308c9da5}
+      \strng{fullhash}{7833218c9c8ce508ce4d4482308c9da5}
+      \strng{bibnamehash}{7833218c9c8ce508ce4d4482308c9da5}
+      \strng{authorbibnamehash}{7833218c9c8ce508ce4d4482308c9da5}
+      \strng{authornamehash}{7833218c9c8ce508ce4d4482308c9da5}
+      \strng{authorfullhash}{7833218c9c8ce508ce4d4482308c9da5}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The good, the hype and the ugly. Switzerland: Springer International Publishing}
+      \field{title}{Agile}
+      \field{year}{2014}
+    \endentry
+    \entry{Midler1995}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6919164955f8ed46db1d9cf9e2e80aca}{%
+           family={Midler},
+           familyi={M\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{6919164955f8ed46db1d9cf9e2e80aca}
+      \strng{fullhash}{6919164955f8ed46db1d9cf9e2e80aca}
+      \strng{bibnamehash}{6919164955f8ed46db1d9cf9e2e80aca}
+      \strng{authorbibnamehash}{6919164955f8ed46db1d9cf9e2e80aca}
+      \strng{authornamehash}{6919164955f8ed46db1d9cf9e2e80aca}
+      \strng{authorfullhash}{6919164955f8ed46db1d9cf9e2e80aca}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scandinavian Journal of Management}
+      \field{title}{Projectification of the Firm: The Renault Case}
+      \field{year}{1995}
+    \endentry
+    \entry{Mintzberg1983}{book}{}
+      \name{author}{1}{}{%
+        {{hash=805e96fad465f0e2ddb182b1ec5fe2e9}{%
+           family={Mintzberg},
+           familyi={M\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Englewood Cliffs, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Prentice-Hall}%
+      }
+      \strng{namehash}{805e96fad465f0e2ddb182b1ec5fe2e9}
+      \strng{fullhash}{805e96fad465f0e2ddb182b1ec5fe2e9}
+      \strng{bibnamehash}{805e96fad465f0e2ddb182b1ec5fe2e9}
+      \strng{authorbibnamehash}{805e96fad465f0e2ddb182b1ec5fe2e9}
+      \strng{authornamehash}{805e96fad465f0e2ddb182b1ec5fe2e9}
+      \strng{authorfullhash}{805e96fad465f0e2ddb182b1ec5fe2e9}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Power In and Around Organizations}
+      \field{year}{1983}
+    \endentry
+    \entry{MUMFORD200011}{article}{}
+      \name{author}{5}{}{%
+        {{hash=77c35fd40e36634ca4bfbb3220c16d33}{%
+           family={Mumford},
+           familyi={M\bibinitperiod},
+           given={Michael\bibnamedelima D},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=888cafc7438f6776aaba18078684a658}{%
+           family={Zaccaro},
+           familyi={Z\bibinitperiod},
+           given={Stephen\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=75f7ec659e424e57aa3638c12779c934}{%
+           family={Harding},
+           familyi={H\bibinitperiod},
+           given={Francis\bibnamedelima D},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=2840e979230e03c0a55a58bc8dd84ff0}{%
+           family={Jacobs},
+           familyi={J\bibinitperiod},
+           given={T.Owen},
+           giveni={T\bibinitperiod}}}%
+        {{hash=dea0261dbdbaaf4c4a2152070f664b88}{%
+           family={Fleishman},
+           familyi={F\bibinitperiod},
+           given={Edwin\bibnamedelima A},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{185e1037aa58c7640af7324a07ad78e6}
+      \strng{fullhash}{cc29d722dd3270243a8e5bed6ee2ac18}
+      \strng{bibnamehash}{185e1037aa58c7640af7324a07ad78e6}
+      \strng{authorbibnamehash}{185e1037aa58c7640af7324a07ad78e6}
+      \strng{authornamehash}{185e1037aa58c7640af7324a07ad78e6}
+      \strng{authorfullhash}{cc29d722dd3270243a8e5bed6ee2ac18}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Leadership Quarterly}
+      \field{title}{Leadership skills for a changing world: Solving complex social problems}
+      \field{year}{2000}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S1048-9843(99)00041-7
+      \endverb
+    \endentry
+    \entry{nerur2007}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d3ec199e0f45a86b63dd99017acf9cbe}{%
+           family={Nerur},
+           familyi={N\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f2249b9fa17504656353b5613b34ef23}{%
+           family={Balijepally},
+           familyi={B\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{af380c6e2b2bf6e5d81a17f65f24dc05}
+      \strng{fullhash}{af380c6e2b2bf6e5d81a17f65f24dc05}
+      \strng{bibnamehash}{af380c6e2b2bf6e5d81a17f65f24dc05}
+      \strng{authorbibnamehash}{af380c6e2b2bf6e5d81a17f65f24dc05}
+      \strng{authornamehash}{af380c6e2b2bf6e5d81a17f65f24dc05}
+      \strng{authorfullhash}{af380c6e2b2bf6e5d81a17f65f24dc05}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications of the ACM}
+      \field{number}{3}
+      \field{title}{Theoretical Reflections on Agile Development Methodologies}
+      \field{volume}{50}
+      \field{year}{2007}
+      \field{pages}{79\bibrangedash 83}
+      \range{pages}{5}
+    \endentry
+    \entry{NicholasSteyn}{book}{}
+      \name{author}{2}{}{%
+        {{hash=9507eee82bcb2ae96fd7e89c957ab5c0}{%
+           family={Nicholas},
+           familyi={N\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0cac9d1ae3aa20b84e8f74b0c7feffb3}{%
+           family={Steyn},
+           familyi={S\bibinitperiod},
+           given={Herman},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4a10522663193683bcdf14c1da9ede13}
+      \strng{fullhash}{4a10522663193683bcdf14c1da9ede13}
+      \strng{bibnamehash}{4a10522663193683bcdf14c1da9ede13}
+      \strng{authorbibnamehash}{4a10522663193683bcdf14c1da9ede13}
+      \strng{authornamehash}{4a10522663193683bcdf14c1da9ede13}
+      \strng{authorfullhash}{4a10522663193683bcdf14c1da9ede13}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Project Management for Business, Engineering, and Technology}
+      \field{year}{2012}
+    \endentry
+    \entry{program}{book}{}
+      \name{author}{3}{}{%
+        {{hash=99b40e191fd040abaadf5da5b92ce640}{%
+           family={Nidiffer},
+           familyi={N\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2906150f0230240516e87522e7981ec3}{%
+           family={Woody},
+           familyi={W\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=cdca440545d1e251c5e74e2e1814550a}{%
+           family={Chick},
+           familyi={C\bibinitperiod},
+           given={T.A.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Software Solutions}%
+        {CERT Divisions, Software Engineering Institute}%
+      }
+      \strng{namehash}{5019a3cf31d65af280022ca2782e8c7a}
+      \strng{fullhash}{5019a3cf31d65af280022ca2782e8c7a}
+      \strng{bibnamehash}{5019a3cf31d65af280022ca2782e8c7a}
+      \strng{authorbibnamehash}{5019a3cf31d65af280022ca2782e8c7a}
+      \strng{authornamehash}{5019a3cf31d65af280022ca2782e8c7a}
+      \strng{authorfullhash}{5019a3cf31d65af280022ca2782e8c7a}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Program Manager’s Guidebook for Software Assurance}
+      \field{year}{2018}
+    \endentry
+    \entry{Nieto}{book}{}
+      \name{author}{1}{}{%
+        {{hash=66c6a3ede312192c0fc4ca372500e0ef}{%
+           family={Nieto-Rodriguez},
+           familyi={N\bibinithyphendelim R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Gower}%
+      }
+      \strng{namehash}{66c6a3ede312192c0fc4ca372500e0ef}
+      \strng{fullhash}{66c6a3ede312192c0fc4ca372500e0ef}
+      \strng{bibnamehash}{66c6a3ede312192c0fc4ca372500e0ef}
+      \strng{authorbibnamehash}{66c6a3ede312192c0fc4ca372500e0ef}
+      \strng{authornamehash}{66c6a3ede312192c0fc4ca372500e0ef}
+      \strng{authorfullhash}{66c6a3ede312192c0fc4ca372500e0ef}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Focused Organizations}
+      \field{year}{2017}
+    \endentry
+    \entry{arras2010}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=add51b010395a0815309fc1e24a37429}{%
+           family={People},
+           familyi={P\bibinitperiod},
+           given={Arras},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{add51b010395a0815309fc1e24a37429}
+      \strng{fullhash}{add51b010395a0815309fc1e24a37429}
+      \strng{bibnamehash}{add51b010395a0815309fc1e24a37429}
+      \strng{authorbibnamehash}{add51b010395a0815309fc1e24a37429}
+      \strng{authornamehash}{add51b010395a0815309fc1e24a37429}
+      \strng{authorfullhash}{add51b010395a0815309fc1e24a37429}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Project Management Benchmark Report}
+      \field{year}{2010}
+    \endentry
+    \entry{arras2015}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=add51b010395a0815309fc1e24a37429}{%
+           family={People},
+           familyi={P\bibinitperiod},
+           given={Arras},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{add51b010395a0815309fc1e24a37429}
+      \strng{fullhash}{add51b010395a0815309fc1e24a37429}
+      \strng{bibnamehash}{add51b010395a0815309fc1e24a37429}
+      \strng{authorbibnamehash}{add51b010395a0815309fc1e24a37429}
+      \strng{authornamehash}{add51b010395a0815309fc1e24a37429}
+      \strng{authorfullhash}{add51b010395a0815309fc1e24a37429}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Project Management Benchmark Report}
+      \field{year}{2015}
+    \endentry
+    \entry{podgorska}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=68baf9207995c4a2d61c9dfdcffa5819}{%
+           family={Podgórska},
+           familyi={P\bibinitperiod},
+           given={Marzena},
+           giveni={M\bibinitperiod}}}%
+        {{hash=affeebda49b14328603b8a8ad22ff9c1}{%
+           family={Pichlak},
+           familyi={P\bibinitperiod},
+           given={Magdalena},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c092d0820d0fa57ff343f51c2521ebbb}
+      \strng{fullhash}{c092d0820d0fa57ff343f51c2521ebbb}
+      \strng{bibnamehash}{c092d0820d0fa57ff343f51c2521ebbb}
+      \strng{authorbibnamehash}{c092d0820d0fa57ff343f51c2521ebbb}
+      \strng{authornamehash}{c092d0820d0fa57ff343f51c2521ebbb}
+      \strng{authorfullhash}{c092d0820d0fa57ff343f51c2521ebbb}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Analysis of project managers’leadership competencies Project success relation: what are the competencies of polish project leaders?}
+      \field{year}{2018}
+    \endentry
+    \entry{triangle}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9c0a9bc8acedb12d454af004d5356898}{%
+           family={Pollack},
+           familyi={P\bibinitperiod},
+           given={Julien},
+           giveni={J\bibinitperiod}}}%
+        {{hash=45e8c6a0ab602d07e4c9b5b3227ab7d1}{%
+           family={Helm},
+           familyi={H\bibinitperiod},
+           given={Jane},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f1e64234bfc45e0bde430dd7e098b86f}{%
+           family={Adler},
+           familyi={A\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{2a00f9d69c6624c3f1b259af3eadf44c}
+      \strng{fullhash}{2a00f9d69c6624c3f1b259af3eadf44c}
+      \strng{bibnamehash}{2a00f9d69c6624c3f1b259af3eadf44c}
+      \strng{authorbibnamehash}{2a00f9d69c6624c3f1b259af3eadf44c}
+      \strng{authornamehash}{2a00f9d69c6624c3f1b259af3eadf44c}
+      \strng{authorfullhash}{2a00f9d69c6624c3f1b259af3eadf44c}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Managing Projects in Business}
+      \field{title}{What is the Iron Triangle, and how has it changed?}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1108/IJMPB-09-2017-0107
+      \endverb
+    \endentry
+    \entry{powell1992information}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9f9635b50c1982d5db108263841d454c}{%
+           family={Powell},
+           familyi={P\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{9f9635b50c1982d5db108263841d454c}
+      \strng{fullhash}{9f9635b50c1982d5db108263841d454c}
+      \strng{bibnamehash}{9f9635b50c1982d5db108263841d454c}
+      \strng{authorbibnamehash}{9f9635b50c1982d5db108263841d454c}
+      \strng{authornamehash}{9f9635b50c1982d5db108263841d454c}
+      \strng{authorfullhash}{9f9635b50c1982d5db108263841d454c}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the operational research society}
+      \field{title}{Information technology evaluation: is it different?}
+      \field{year}{1992}
+    \endentry
+    \entry{Prawelska2011}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1fc5dcf6110f7f6401a267b27cbff77f}{%
+           family={Prawelska-Skrzypek},
+           familyi={P\bibinithyphendelim S\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wydawnictwo SGH}%
+      }
+      \strng{namehash}{1fc5dcf6110f7f6401a267b27cbff77f}
+      \strng{fullhash}{1fc5dcf6110f7f6401a267b27cbff77f}
+      \strng{bibnamehash}{1fc5dcf6110f7f6401a267b27cbff77f}
+      \strng{authorbibnamehash}{1fc5dcf6110f7f6401a267b27cbff77f}
+      \strng{authornamehash}{1fc5dcf6110f7f6401a267b27cbff77f}
+      \strng{authorfullhash}{1fc5dcf6110f7f6401a267b27cbff77f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Zarządzanie projektami jako szansa i wyzwanie dla administracji publicznej}
+      \field{year}{2011}
+    \endentry
+    \entry{pwc}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=cc4bc7494b115124784f3551ad282259}{%
+           family={PWC},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{cc4bc7494b115124784f3551ad282259}
+      \strng{fullhash}{cc4bc7494b115124784f3551ad282259}
+      \strng{bibnamehash}{cc4bc7494b115124784f3551ad282259}
+      \strng{authorbibnamehash}{cc4bc7494b115124784f3551ad282259}
+      \strng{authornamehash}{cc4bc7494b115124784f3551ad282259}
+      \strng{authorfullhash}{cc4bc7494b115124784f3551ad282259}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Capital Projects and Infrastructure Spending, Outlook to 2025}
+      \field{year}{2014}
+    \endentry
+    \entry{gov}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=5b6106ba6d132dcca7dbf513ed3d258c}{%
+           family={Report\bibnamedelimb Summary\bibnamedelimb no.\bibnamedelimi 200},
+           familyi={R\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim n\bibinitperiod\bibinitdelim 2\bibinitperiod},
+           given={Parliamentary\bibnamedelimb Office\bibnamedelimb of\bibnamedelima Science},
+           giveni={P\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=e7e767d7c0e58b16e57d3ab16150db80}{%
+           family={Technology},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{18d4cd506b0677ee9ec7c585b1b698e7}
+      \strng{fullhash}{18d4cd506b0677ee9ec7c585b1b698e7}
+      \strng{bibnamehash}{18d4cd506b0677ee9ec7c585b1b698e7}
+      \strng{authorbibnamehash}{18d4cd506b0677ee9ec7c585b1b698e7}
+      \strng{authornamehash}{18d4cd506b0677ee9ec7c585b1b698e7}
+      \strng{authorfullhash}{18d4cd506b0677ee9ec7c585b1b698e7}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Government IT projects.}
+      \field{year}{2003}
+    \endentry
+    \entry{robertson2007globalization}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f25f741c670cb024be9f9f62e3ad32d6}{%
+           family={Robertson},
+           familyi={R\bibinitperiod},
+           given={Roland},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a9f8c6e342759580a033dcc301e95048}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Kathleen\bibnamedelima E},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{b39ae9e4c49bc7e95d41a5dc487460f0}
+      \strng{fullhash}{b39ae9e4c49bc7e95d41a5dc487460f0}
+      \strng{bibnamehash}{b39ae9e4c49bc7e95d41a5dc487460f0}
+      \strng{authorbibnamehash}{b39ae9e4c49bc7e95d41a5dc487460f0}
+      \strng{authornamehash}{b39ae9e4c49bc7e95d41a5dc487460f0}
+      \strng{authorfullhash}{b39ae9e4c49bc7e95d41a5dc487460f0}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Blackwell companion to globalization}
+      \field{title}{What is globalization?}
+      \field{year}{2007}
+      \field{pages}{54\bibrangedash 66}
+      \range{pages}{13}
+    \endentry
+    \entry{Roman}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3e3fb2b0aea8544835ee7ae5e94980d8}{%
+           family={Roman},
+           familyi={R\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Grid Publishing}%
+      }
+      \strng{namehash}{3e3fb2b0aea8544835ee7ae5e94980d8}
+      \strng{fullhash}{3e3fb2b0aea8544835ee7ae5e94980d8}
+      \strng{bibnamehash}{3e3fb2b0aea8544835ee7ae5e94980d8}
+      \strng{authorbibnamehash}{3e3fb2b0aea8544835ee7ae5e94980d8}
+      \strng{authornamehash}{3e3fb2b0aea8544835ee7ae5e94980d8}
+      \strng{authorfullhash}{3e3fb2b0aea8544835ee7ae5e94980d8}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Science, Technology, and Innovation: A Systems Approach}
+      \field{year}{1980}
+    \endentry
+    \entry{Rosenau}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e7be19de047398429d296a4576307526}{%
+           family={Rosenau},
+           familyi={R\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons Australia, Limited}%
+      }
+      \strng{namehash}{e7be19de047398429d296a4576307526}
+      \strng{fullhash}{e7be19de047398429d296a4576307526}
+      \strng{bibnamehash}{e7be19de047398429d296a4576307526}
+      \strng{authorbibnamehash}{e7be19de047398429d296a4576307526}
+      \strng{authornamehash}{e7be19de047398429d296a4576307526}
+      \strng{authorfullhash}{e7be19de047398429d296a4576307526}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Successful Project Management}
+      \field{year}{1998}
+    \endentry
+    \entry{royce1970}{article}{}
+      \name{author}{1}{}{%
+        {{hash=541e173109dab443b9fc826b342e8e6f}{%
+           family={Royce},
+           familyi={R\bibinitperiod},
+           given={Winston\bibnamedelima W.},
+           giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{541e173109dab443b9fc826b342e8e6f}
+      \strng{fullhash}{541e173109dab443b9fc826b342e8e6f}
+      \strng{bibnamehash}{541e173109dab443b9fc826b342e8e6f}
+      \strng{authorbibnamehash}{541e173109dab443b9fc826b342e8e6f}
+      \strng{authornamehash}{541e173109dab443b9fc826b342e8e6f}
+      \strng{authorfullhash}{541e173109dab443b9fc826b342e8e6f}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of IEEE WESCON}
+      \field{title}{Managing the Development of Large Software Systems}
+      \field{year}{1970}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+    \endentry
+    \entry{rubinstein}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d3483dc70c8ea35bd23f6a1fad457c7d}{%
+           family={Rubinstein},
+           familyi={R\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{d3483dc70c8ea35bd23f6a1fad457c7d}
+      \strng{fullhash}{d3483dc70c8ea35bd23f6a1fad457c7d}
+      \strng{bibnamehash}{d3483dc70c8ea35bd23f6a1fad457c7d}
+      \strng{authorbibnamehash}{d3483dc70c8ea35bd23f6a1fad457c7d}
+      \strng{authornamehash}{d3483dc70c8ea35bd23f6a1fad457c7d}
+      \strng{authorfullhash}{d3483dc70c8ea35bd23f6a1fad457c7d}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Software Development Times}
+      \field{title}{Standish Group report: There’s less development chaos today}
+      \field{year}{2007}
+    \endentry
+    \entry{gemino}{article}{}
+      \name{author}{3}{}{%
+        {{hash=25a183682770babb9d9f786ffb0fb389}{%
+           family={Sauer},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=1dd470dcb1240ac31aee5c888bc46979}{%
+           family={Gemino},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=aa69b29da85788f34a7a020393b6db1e}{%
+           family={Reich},
+           familyi={R\bibinitperiod},
+           given={B.H.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{7db3c59eab971630b015ffc461723892}
+      \strng{fullhash}{7db3c59eab971630b015ffc461723892}
+      \strng{bibnamehash}{7db3c59eab971630b015ffc461723892}
+      \strng{authorbibnamehash}{7db3c59eab971630b015ffc461723892}
+      \strng{authornamehash}{7db3c59eab971630b015ffc461723892}
+      \strng{authorfullhash}{7db3c59eab971630b015ffc461723892}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications of the ACM}
+      \field{title}{IT project performance: The impact of size and volatility}
+      \field{year}{2007}
+    \endentry
+    \entry{ITPM}{book}{}
+      \name{author}{1}{}{%
+        {{hash=531850ee62c9cc3dff8fa887ab513286}{%
+           family={Schwalbe},
+           familyi={S\bibinitperiod},
+           given={Kathy},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cengage}%
+      }
+      \strng{namehash}{531850ee62c9cc3dff8fa887ab513286}
+      \strng{fullhash}{531850ee62c9cc3dff8fa887ab513286}
+      \strng{bibnamehash}{531850ee62c9cc3dff8fa887ab513286}
+      \strng{authorbibnamehash}{531850ee62c9cc3dff8fa887ab513286}
+      \strng{authornamehash}{531850ee62c9cc3dff8fa887ab513286}
+      \strng{authorfullhash}{531850ee62c9cc3dff8fa887ab513286}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Information Technology Project management}
+      \field{year}{2018}
+    \endentry
+    \entry{sharma}{article}{}
+      \name{author}{2}{}{%
+        {{hash=31149f58d4f339113d239f687000d391}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=71b0c9c8deed3136c1dbd4bb6532cf56}{%
+           family={Yetton},
+           familyi={Y\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{3415a59ee75e42af3b7b1941f535d1da}
+      \strng{fullhash}{3415a59ee75e42af3b7b1941f535d1da}
+      \strng{bibnamehash}{3415a59ee75e42af3b7b1941f535d1da}
+      \strng{authorbibnamehash}{3415a59ee75e42af3b7b1941f535d1da}
+      \strng{authornamehash}{3415a59ee75e42af3b7b1941f535d1da}
+      \strng{authorfullhash}{3415a59ee75e42af3b7b1941f535d1da}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MIS Quarterly}
+      \field{title}{The contingent effects of management support and task interdependence on successful information systems implementation.}
+      \field{year}{2003}
+    \endentry
+    \entry{silva2015project}{article}{}
+      \name{author}{2}{}{%
+        {{hash=98064f995e87e0da6fed2a94afe26430}{%
+           family={Silva\bibnamedelimb de\bibnamedelima Araújo},
+           familyi={S\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Cíntia\bibnamedelima Cristina},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=8710829d761bcc20a83540e06c652d1d}{%
+           family={Pedron},
+           familyi={P\bibinitperiod},
+           given={Cristiane\bibnamedelima Drebes},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{9f3929edf218cf2e77c343b823a4bf40}
+      \strng{fullhash}{9f3929edf218cf2e77c343b823a4bf40}
+      \strng{bibnamehash}{9f3929edf218cf2e77c343b823a4bf40}
+      \strng{authorbibnamehash}{9f3929edf218cf2e77c343b823a4bf40}
+      \strng{authornamehash}{9f3929edf218cf2e77c343b823a4bf40}
+      \strng{authorfullhash}{9f3929edf218cf2e77c343b823a4bf40}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Organisational Project Management}
+      \field{number}{1}
+      \field{title}{IT project manager competencies and IT project success: a qualitative study.}
+      \field{volume}{2}
+      \field{year}{2015}
+    \endentry
+    \entry{sommerville2015software}{book}{}
+      \name{author}{1}{}{%
+        {{hash=70341b3bfcce7026902f4eb1e4111b58}{%
+           family={Sommerville},
+           familyi={S\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{70341b3bfcce7026902f4eb1e4111b58}
+      \strng{fullhash}{70341b3bfcce7026902f4eb1e4111b58}
+      \strng{bibnamehash}{70341b3bfcce7026902f4eb1e4111b58}
+      \strng{authorbibnamehash}{70341b3bfcce7026902f4eb1e4111b58}
+      \strng{authornamehash}{70341b3bfcce7026902f4eb1e4111b58}
+      \strng{authorfullhash}{70341b3bfcce7026902f4eb1e4111b58}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{10th}
+      \field{title}{Software Engineering}
+      \field{year}{2015}
+    \endentry
+    \entry{Sommerville}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2edea712ab1131043353ef0e4f6eef40}{%
+           family={Sommerville},
+           familyi={S\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e6b5b5148a4a8ca54baf5b4f3b0531bc}{%
+           family={Craig},
+           familyi={C\bibinitperiod},
+           given={Nigel},
+           giveni={N\bibinitperiod}}}%
+        {{hash=3810f76ad12fe0ee8cdf97824ad6e702}{%
+           family={Hendry},
+           familyi={H\bibinitperiod},
+           given={Julie},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{03597d8733a2fb650a1a00fb39b40e67}
+      \strng{fullhash}{03597d8733a2fb650a1a00fb39b40e67}
+      \strng{bibnamehash}{03597d8733a2fb650a1a00fb39b40e67}
+      \strng{authorbibnamehash}{03597d8733a2fb650a1a00fb39b40e67}
+      \strng{authornamehash}{03597d8733a2fb650a1a00fb39b40e67}
+      \strng{authorfullhash}{03597d8733a2fb650a1a00fb39b40e67}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Structural Survey}
+      \field{title}{The role of the project manager: All things to all people?}
+      \field{year}{2010}
+      \verb{doi}
+      \verb 10.1108/02630801011044235
+      \endverb
+    \endentry
+    \entry{stevenson2010pm}{article}{}
+      \name{author}{2}{}{%
+        {{hash=23821ce517a67bf8a1e320c011f04dc8}{%
+           family={Stevenson},
+           familyi={S\bibinitperiod},
+           given={Deborah\bibnamedelima H},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=814a7f87b02c1be62acce779496fc041}{%
+           family={Starkweather},
+           familyi={S\bibinitperiod},
+           given={Jo\bibnamedelima Ann},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4a0cf72e4d9db0ffdc204be07457b0b6}
+      \strng{fullhash}{4a0cf72e4d9db0ffdc204be07457b0b6}
+      \strng{bibnamehash}{4a0cf72e4d9db0ffdc204be07457b0b6}
+      \strng{authorbibnamehash}{4a0cf72e4d9db0ffdc204be07457b0b6}
+      \strng{authornamehash}{4a0cf72e4d9db0ffdc204be07457b0b6}
+      \strng{authorfullhash}{4a0cf72e4d9db0ffdc204be07457b0b6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International journal of project management}
+      \field{number}{7}
+      \field{title}{PM critical competency index: IT execs prefer soft skills}
+      \field{volume}{28}
+      \field{year}{2010}
+      \field{pages}{663\bibrangedash 671}
+      \range{pages}{9}
+    \endentry
+    \entry{SDLC}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d72673a898fe90599e0eac4655b3908a}{%
+           family={Suburayan},
+           familyi={S\bibinitperiod},
+           given={Velmourougan},
+           giveni={V\bibinitperiod}}}%
+        {{hash=8ad326fbbe7e47f1a497ae8b88aea63f}{%
+           family={Davachelvan},
+           familyi={D\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=05fae46a627250f192a40a3c741facce}{%
+           family={Kayalvizhi},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1293da6d7828b4d9d1d84d78c3364f48}
+      \strng{fullhash}{1293da6d7828b4d9d1d84d78c3364f48}
+      \strng{bibnamehash}{1293da6d7828b4d9d1d84d78c3364f48}
+      \strng{authorbibnamehash}{1293da6d7828b4d9d1d84d78c3364f48}
+      \strng{authornamehash}{1293da6d7828b4d9d1d84d78c3364f48}
+      \strng{authorfullhash}{1293da6d7828b4d9d1d84d78c3364f48}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computer Science and Network Security}
+      \field{title}{Evolving A New Model (SDLC Model2010) For Software Development Life Cycle (SDLC)}
+      \field{year}{2010}
+    \endentry
+    \entry{Tabassi}{article}{}
+      \name{author}{6}{}{%
+        {{hash=27e3b82b1c1ca75b7c1a566951a75c39}{%
+           family={Tabassi},
+           familyi={T\bibinitperiod},
+           given={Amin\bibnamedelima Akhavan},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=be560beeb51d2b07659dc938f1cfc8e1}{%
+           family={Roufechaei},
+           familyi={R\bibinitperiod},
+           given={Kamand\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0c2bc85d2e927a0366627f7f547f143a}{%
+           family={Ramli},
+           familyi={R\bibinitperiod},
+           given={Mahyuddin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=464d60e4024b70d993aa55f9aa5a26a2}{%
+           family={Bakar},
+           familyi={B\bibinitperiod},
+           given={Abu\bibnamedelimb Hassan\bibnamedelima Abu},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1fc68848c758e407a8921307340cd687}{%
+           family={Ismail},
+           familyi={I\bibinitperiod},
+           given={Radzi},
+           giveni={R\bibinitperiod}}}%
+        {{hash=7da7f9f92a4975941d3cde7bd98d7ba6}{%
+           family={Pakir},
+           familyi={P\bibinitperiod},
+           given={Hamid\bibnamedelima Kadir},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{8220771011cbcd07a6f214699e69e685}
+      \strng{fullhash}{5a484f14bdc7e495fb007beac6a33995}
+      \strng{bibnamehash}{8220771011cbcd07a6f214699e69e685}
+      \strng{authorbibnamehash}{8220771011cbcd07a6f214699e69e685}
+      \strng{authornamehash}{8220771011cbcd07a6f214699e69e685}
+      \strng{authorfullhash}{5a484f14bdc7e495fb007beac6a33995}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cleaner Production}
+      \field{title}{Leadership Competences of Sustainable Construction Project Managers}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1016/j.jclepro.2016.02.076
+      \endverb
+    \endentry
+    \entry{thomaidis2006evaluation}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6b0caa6a131fc323099bcb2968007cc4}{%
+           family={Thomaidis},
+           familyi={T\bibinitperiod},
+           given={Nikolaos\bibnamedelima S},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=a1779bb1a45143956800b9dfed6cd671}{%
+           family={Nikitakos},
+           familyi={N\bibinitperiod},
+           given={Nikitas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=5ebf21352cc891e7102dced11c047aed}{%
+           family={Dounias},
+           familyi={D\bibinitperiod},
+           given={Georgios\bibnamedelima D},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {World Scientific}%
+      }
+      \strng{namehash}{5ade7c13f63f31744bb78f5c6601cbef}
+      \strng{fullhash}{5ade7c13f63f31744bb78f5c6601cbef}
+      \strng{bibnamehash}{5ade7c13f63f31744bb78f5c6601cbef}
+      \strng{authorbibnamehash}{5ade7c13f63f31744bb78f5c6601cbef}
+      \strng{authornamehash}{5ade7c13f63f31744bb78f5c6601cbef}
+      \strng{authorfullhash}{5ade7c13f63f31744bb78f5c6601cbef}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Information Technology \& Decision Making}
+      \field{title}{The evaluation of information technology projects: A fuzzy multicriteria decision-making approach}
+      \field{year}{2006}
+    \endentry
+    \entry{pragmatic}{book}{}
+      \name{author}{2}{}{%
+        {{hash=b5eb4ac16368112932ff36772cb0b0b5}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=10383d05f32f2a21518b493a3c546e5c}{%
+           family={Hunt},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Helion}%
+      }
+      \strng{namehash}{1a035d003670faf04bf5f83e589000b2}
+      \strng{fullhash}{1a035d003670faf04bf5f83e589000b2}
+      \strng{bibnamehash}{1a035d003670faf04bf5f83e589000b2}
+      \strng{authorbibnamehash}{1a035d003670faf04bf5f83e589000b2}
+      \strng{authornamehash}{1a035d003670faf04bf5f83e589000b2}
+      \strng{authorfullhash}{1a035d003670faf04bf5f83e589000b2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pragmatyczny programista Od czeladnika do mistrza}
+      \field{year}{2021}
+    \endentry
+    \entry{Tohidi}{article}{}
+      \name{author}{1}{}{%
+        {{hash=93526482517e6a9315d8e8b71dd8d32e}{%
+           family={Tohidi},
+           familyi={T\bibinitperiod},
+           given={Hamid},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{93526482517e6a9315d8e8b71dd8d32e}
+      \strng{fullhash}{93526482517e6a9315d8e8b71dd8d32e}
+      \strng{bibnamehash}{93526482517e6a9315d8e8b71dd8d32e}
+      \strng{authorbibnamehash}{93526482517e6a9315d8e8b71dd8d32e}
+      \strng{authornamehash}{93526482517e6a9315d8e8b71dd8d32e}
+      \strng{authorfullhash}{93526482517e6a9315d8e8b71dd8d32e}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia CS}
+      \field{month}{12}
+      \field{title}{Human resources management main role in information technology project management}
+      \field{volume}{3}
+      \field{year}{2011}
+      \field{pages}{925\bibrangedash 929}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1016/j.procs.2010.12.151
+      \endverb
+    \endentry
+    \entry{Turner2016}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1ae872b27ddf0d185a45eb27a4d1e69d}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={J.\bibnamedelimi R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{1ae872b27ddf0d185a45eb27a4d1e69d}
+      \strng{fullhash}{1ae872b27ddf0d185a45eb27a4d1e69d}
+      \strng{bibnamehash}{1ae872b27ddf0d185a45eb27a4d1e69d}
+      \strng{authorbibnamehash}{1ae872b27ddf0d185a45eb27a4d1e69d}
+      \strng{authornamehash}{1ae872b27ddf0d185a45eb27a4d1e69d}
+      \strng{authorfullhash}{1ae872b27ddf0d185a45eb27a4d1e69d}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gower Handbook of Project Management}
+      \field{year}{2016}
+    \endentry
+    \entry{turnermuller}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f283e88dba5a27f8d1c8c236e94fb56a}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={Rodney},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d7439028e3fc7cd4e5603906f2751c53}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{2c4663629f6f5a407f7c59bffe8829c1}
+      \strng{fullhash}{2c4663629f6f5a407f7c59bffe8829c1}
+      \strng{bibnamehash}{2c4663629f6f5a407f7c59bffe8829c1}
+      \strng{authorbibnamehash}{2c4663629f6f5a407f7c59bffe8829c1}
+      \strng{authornamehash}{2c4663629f6f5a407f7c59bffe8829c1}
+      \strng{authorfullhash}{2c4663629f6f5a407f7c59bffe8829c1}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Management Journal}
+      \field{title}{Communication and Co-operation on Projects Between the Project Owner As Principal and the Project Manager as Agent}
+      \field{year}{2004}
+      \verb{doi}
+      \verb 10.1016/j.emj.2004.04.010
+      \endverb
+    \endentry
+    \entry{turnermuller2010}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f283e88dba5a27f8d1c8c236e94fb56a}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={Rodney},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d7439028e3fc7cd4e5603906f2751c53}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{2c4663629f6f5a407f7c59bffe8829c1}
+      \strng{fullhash}{2c4663629f6f5a407f7c59bffe8829c1}
+      \strng{bibnamehash}{2c4663629f6f5a407f7c59bffe8829c1}
+      \strng{authorbibnamehash}{2c4663629f6f5a407f7c59bffe8829c1}
+      \strng{authornamehash}{2c4663629f6f5a407f7c59bffe8829c1}
+      \strng{authorfullhash}{2c4663629f6f5a407f7c59bffe8829c1}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Project Management}
+      \field{title}{Leadership competency profiles of successful project managers}
+      \field{year}{2010}
+      \verb{doi}
+      \verb 10.1016/j.ijproman.2009.09.003
+      \endverb
+    \endentry
+    \entry{Koppensteiner}{article}{}
+      \name{author}{2}{}{%
+        {{hash=76c6ff16a080180f8f7e5d8a43b4e523}{%
+           family={Udo},
+           familyi={U\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f3cf1b31c650dfd35913b9f8c0f91113}{%
+           family={Koppensteiner},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{8338c1feca798404738d2069feb5c422}
+      \strng{fullhash}{8338c1feca798404738d2069feb5c422}
+      \strng{bibnamehash}{8338c1feca798404738d2069feb5c422}
+      \strng{authorbibnamehash}{8338c1feca798404738d2069feb5c422}
+      \strng{authornamehash}{8338c1feca798404738d2069feb5c422}
+      \strng{authorfullhash}{8338c1feca798404738d2069feb5c422}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Project Management Institute}
+      \field{title}{What are the core competencies of a successful project manager? Paper presented at PMI® Global Congress 2004—EMEA}
+      \field{year}{2004}
+    \endentry
+    \entry{data}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=f49683c2f2c18fc89d6e2ab1a0fd8490}{%
+           family={Umaji},
+           familyi={U\bibinitperiod},
+           given={Kittisak},
+           giveni={K\bibinitperiod}}}%
+        {{hash=e967c5f93ea5f6a6d7da1405c392d372}{%
+           family={Paireekreng},
+           familyi={P\bibinitperiod},
+           given={Worapat},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{cf03c3f93677ee0e543e09568e2c1170}
+      \strng{fullhash}{cf03c3f93677ee0e543e09568e2c1170}
+      \strng{bibnamehash}{cf03c3f93677ee0e543e09568e2c1170}
+      \strng{authorbibnamehash}{cf03c3f93677ee0e543e09568e2c1170}
+      \strng{authornamehash}{cf03c3f93677ee0e543e09568e2c1170}
+      \strng{authorfullhash}{cf03c3f93677ee0e543e09568e2c1170}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Study of Project Manager Skills for Enterprise Data Platform Project}
+      \field{year}{2021}
+    \endentry
+    \entry{triangle2}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=fd698c4e8b985d35b931d78013db4acb}{%
+           family={Van\bibnamedelima Wyngaard},
+           familyi={V\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0e88035832e31892fae45267336d47a9}{%
+           family={Pretorius},
+           familyi={P\bibinitperiod},
+           given={Jan-Harm},
+           giveni={J\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=493c4f508a5eeee2fd346d80ea708957}{%
+           family={Pretorius},
+           familyi={P\bibinitperiod},
+           given={Leon},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{20f56ff6453901d90468ded3719fe603}
+      \strng{fullhash}{20f56ff6453901d90468ded3719fe603}
+      \strng{bibnamehash}{20f56ff6453901d90468ded3719fe603}
+      \strng{authorbibnamehash}{20f56ff6453901d90468ded3719fe603}
+      \strng{authornamehash}{20f56ff6453901d90468ded3719fe603}
+      \strng{authorfullhash}{20f56ff6453901d90468ded3719fe603}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Theory of the triple constraint — A conceptual review}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.1109/IEEM.2012.6838095
+      \endverb
+    \endentry
+    \entry{vaupel}{book}{}
+      \name{author}{3}{}{%
+        {{hash=96a5d7589879c1dc91145f667b522608}{%
+           family={Vaupel},
+           familyi={V\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b4c855410d4a10ee30d8526806ab0ac4}{%
+           family={Schmolke},
+           familyi={S\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0f2a04051c85bc6b49bdfa5e5d5d4e65}{%
+           family={Kruger},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MacMillan Publisher}%
+      }
+      \strng{namehash}{7fd9cfbcd59a4c650e973d548688a03a}
+      \strng{fullhash}{7fd9cfbcd59a4c650e973d548688a03a}
+      \strng{bibnamehash}{7fd9cfbcd59a4c650e973d548688a03a}
+      \strng{authorbibnamehash}{7fd9cfbcd59a4c650e973d548688a03a}
+      \strng{authornamehash}{7fd9cfbcd59a4c650e973d548688a03a}
+      \strng{authorfullhash}{7fd9cfbcd59a4c650e973d548688a03a}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Customer-focused management by projects}
+      \field{year}{2000}
+    \endentry
+    \entry{swebok}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5b964ff6f6263b719d7a544cb940b232}{%
+           family={Washizaki},
+           familyi={W\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Waseda University Japan}%
+      }
+      \strng{namehash}{5b964ff6f6263b719d7a544cb940b232}
+      \strng{fullhash}{5b964ff6f6263b719d7a544cb940b232}
+      \strng{bibnamehash}{5b964ff6f6263b719d7a544cb940b232}
+      \strng{authorbibnamehash}{5b964ff6f6263b719d7a544cb940b232}
+      \strng{authornamehash}{5b964ff6f6263b719d7a544cb940b232}
+      \strng{authorfullhash}{5b964ff6f6263b719d7a544cb940b232}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Guide to the Software Engineering Body of Knowledge (SWEBOK Guide)}
+      \field{year}{2024}
+    \endentry
+    \entry{williams1967technology}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1f173153cefe4acbf87ea713a672b3b5}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={B.\bibnamedelimi R.},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Chapman \& Hall}%
+      }
+      \strng{namehash}{1f173153cefe4acbf87ea713a672b3b5}
+      \strng{fullhash}{1f173153cefe4acbf87ea713a672b3b5}
+      \strng{bibnamehash}{1f173153cefe4acbf87ea713a672b3b5}
+      \strng{authorbibnamehash}{1f173153cefe4acbf87ea713a672b3b5}
+      \strng{authornamehash}{1f173153cefe4acbf87ea713a672b3b5}
+      \strng{authorfullhash}{1f173153cefe4acbf87ea713a672b3b5}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Technology, Investment and Growth}
+      \field{year}{1967}
+    \endentry
+    \entry{challanges}{misc}{}
+      \name{author}{9}{}{%
+        {{hash=94d18b7fa7873e68f99a8e6ae11c7bab}{%
+           family={Wyrozębski},
+           familyi={W\bibinitperiod},
+           given={Paweł},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d9556d117d45cbe559e6a30df4dde236}{%
+           family={Trocki},
+           familyi={T\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cc6e969796527cef528ca718a282e094}{%
+           family={Bukłaha},
+           familyi={B\bibinitperiod},
+           given={Emil},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d4fc08116297f7fdfbfe0443140ef307}{%
+           family={Juchniewicz},
+           familyi={J\bibinitperiod},
+           given={Mateusz},
+           giveni={M\bibinitperiod}}}%
+        {{hash=522e4496efeb1603479df7c62a6e233c}{%
+           family={Kandefer-Winter},
+           familyi={K\bibinithyphendelim W\bibinitperiod},
+           given={Katarzyna},
+           giveni={K\bibinitperiod}}}%
+        {{hash=646234c3a9bb23687117397e1531663a}{%
+           family={Bartosz},
+           familyi={B\bibinitperiod},
+           given={Grucza},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d67e3d2e09f845fc911c1a7a4349fbdd}{%
+           family={Sońta-Drączkowska},
+           familyi={S\bibinithyphendelim D\bibinitperiod},
+           given={Ewa},
+           giveni={E\bibinitperiod}}}%
+        {{hash=de371399604245714ce0c87d20e66555}{%
+           family={Metelski},
+           familyi={M\bibinitperiod},
+           given={Witalij},
+           giveni={W\bibinitperiod}}}%
+        {{hash=804d9470eb6fea32731f15b0ff0246c9}{%
+           family={Wąsowski},
+           familyi={W\bibinitperiod},
+           given={Krzysztof},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{6608b339d77ba68e0a21b130b57249e9}
+      \strng{fullhash}{c4fd0f750edad3d9b5662a87d9b6632e}
+      \strng{bibnamehash}{6608b339d77ba68e0a21b130b57249e9}
+      \strng{authorbibnamehash}{6608b339d77ba68e0a21b130b57249e9}
+      \strng{authornamehash}{6608b339d77ba68e0a21b130b57249e9}
+      \strng{authorfullhash}{c4fd0f750edad3d9b5662a87d9b6632e}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Project Management - Challenges and Research Results}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.6084/m9.figshare.4502792
+      \endverb
+    \endentry
+    \entry{yetton}{article}{}
+      \name{author}{4}{}{%
+        {{hash=71b0c9c8deed3136c1dbd4bb6532cf56}{%
+           family={Yetton},
+           familyi={Y\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=eaea332f7b08db00433a4d09ca9ff7c7}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=31149f58d4f339113d239f687000d391}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0fece22ea1d24db78d2f602ee78628bd}{%
+           family={Johnston},
+           familyi={J\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{cceb08e7a67b7e15eb9867b42c5a0698}
+      \strng{fullhash}{18d687f944c216472cc23cea6f7e0af6}
+      \strng{bibnamehash}{cceb08e7a67b7e15eb9867b42c5a0698}
+      \strng{authorbibnamehash}{cceb08e7a67b7e15eb9867b42c5a0698}
+      \strng{authornamehash}{cceb08e7a67b7e15eb9867b42c5a0698}
+      \strng{authorfullhash}{18d687f944c216472cc23cea6f7e0af6}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Information Systems Journal}
+      \field{title}{A model of information systems development project performance.}
+      \field{year}{2000}
+    \endentry
+    \entry{ziek}{article}{}
+      \name{author}{2}{}{%
+        {{hash=23c47312a7f7a9ab5a51a6b263a6d8d3}{%
+           family={Ziek},
+           familyi={Z\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f53f47510e252a7b78741c1aca4e64d9}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={J.\bibnamedelimi Dwight},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b57314e3dfb4afc0ce629cdbd7f7d259}
+      \strng{fullhash}{b57314e3dfb4afc0ce629cdbd7f7d259}
+      \strng{bibnamehash}{b57314e3dfb4afc0ce629cdbd7f7d259}
+      \strng{authorbibnamehash}{b57314e3dfb4afc0ce629cdbd7f7d259}
+      \strng{authornamehash}{b57314e3dfb4afc0ce629cdbd7f7d259}
+      \strng{authorfullhash}{b57314e3dfb4afc0ce629cdbd7f7d259}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Managing Projects in Business}
+      \field{title}{Communication, dialogue and project management}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1108/IJMPB-04-2014-0034
+      \endverb
+    \endentry
+    \entry{zmud}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ade5da9498afef3131f415df8ec6f0fe}{%
+           family={Zmud},
+           familyi={Z\bibinitperiod},
+           given={R.W.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ade5da9498afef3131f415df8ec6f0fe}
+      \strng{fullhash}{ade5da9498afef3131f415df8ec6f0fe}
+      \strng{bibnamehash}{ade5da9498afef3131f415df8ec6f0fe}
+      \strng{authorbibnamehash}{ade5da9498afef3131f415df8ec6f0fe}
+      \strng{authornamehash}{ade5da9498afef3131f415df8ec6f0fe}
+      \strng{authorfullhash}{ade5da9498afef3131f415df8ec6f0fe}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MIS Quarterly}
+      \field{title}{Management of large software development efforts}
+      \field{year}{1980}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

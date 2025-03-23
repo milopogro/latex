@@ -1,0 +1,47 @@
+\babel@toc {polish}{}\relax 
+\contentsline {section}{\numberline {1\relax .\enspace }Wstęp}{5}{section.1}%
+\contentsline {section}{\numberline {2\relax .\enspace }Charakterystyka projektów}{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1\relax .\enspace }Definicja projektu}{7}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2\relax .\enspace }Żelazny trójkąt projektu}{9}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3\relax .\enspace }Projektyzacja}{11}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4\relax .\enspace }Rezultaty projektów}{13}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5\relax .\enspace }Projekty informatyczne w kontekście rosnącej liczby projektów}{13}{subsection.2.5}%
+\contentsline {section}{\numberline {3\relax .\enspace }Specyfika projektów informatycznych}{16}{section.3}%
+\contentsline {subsection}{\numberline {3.1\relax .\enspace }Niechęć do projektów informatycznych}{17}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2\relax .\enspace }Cykl życia w projektach informatycznych}{18}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1\relax .\enspace }Cykl życia projektu}{18}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2\relax .\enspace }Cykl życia produktu}{19}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3\relax .\enspace }Integracja PLC i SDLC w projektach informatycznych}{19}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3\relax .\enspace }Modele SDLC}{20}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1\relax .\enspace }Model kaskadowy}{22}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2\relax .\enspace }Agile}{24}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4\relax .\enspace }Różnorodne technologie}{26}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5\relax .\enspace }Specjaliści IT}{26}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6\relax .\enspace }Ryzyka w projektach IT}{27}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1\relax .\enspace }Czasowy model ryzyk}{29}{subsubsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.7\relax .\enspace }Ewaluacja projektów informatycznych}{33}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8\relax .\enspace }Ostatnie trendy w projektach informatycznych}{34}{subsection.3.8}%
+\contentsline {subsubsection}{\numberline {3.8.1\relax .\enspace }Globalizacja}{34}{subsubsection.3.8.1}%
+\contentsline {subsubsection}{\numberline {3.8.2\relax .\enspace }Outsourcing}{34}{subsubsection.3.8.2}%
+\contentsline {subsubsection}{\numberline {3.8.3\relax .\enspace }Zespoły zdalne}{35}{subsubsection.3.8.3}%
+\contentsline {section}{\numberline {4\relax .\enspace }Kierownik projektu}{37}{section.4}%
+\contentsline {subsection}{\numberline {4.1\relax .\enspace }Kierownik projektu}{37}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2\relax .\enspace }Role i zadania kierownika projektu}{37}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3\relax .\enspace }Kompetencje kierownika projektu}{39}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1\relax .\enspace }Komunikacja}{40}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2\relax .\enspace }Przywództwo}{42}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3\relax .\enspace }Zarządzanie sobą (ang. Self-management)}{42}{subsubsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.4\relax .\enspace }Umiejętności zarządcze}{43}{subsubsection.4.3.4}%
+\contentsline {subsubsection}{\numberline {4.3.5\relax .\enspace }Umiejętności techniczne}{43}{subsubsection.4.3.5}%
+\contentsline {subsection}{\numberline {4.4\relax .\enspace }Znaczenie wiedzy z zakresu inżynierii oprogramowania dla kierownika projektu}{44}{subsection.4.4}%
+\contentsline {section}{\numberline {5\relax .\enspace }Badanie opinii na temat wykształcenia i roli kierownika projektu informatycznego}{47}{section.5}%
+\contentsline {subsection}{\numberline {5.1\relax .\enspace }Grupa badawcza}{47}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2\relax .\enspace }Zadawane pytania}{47}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3\relax .\enspace }Wyniki badania}{47}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4\relax .\enspace }Wnioski}{47}{subsection.5.4}%
+\contentsline {section}{\numberline {6\relax .\enspace }Podsumowanie}{48}{section.6}%
+\contentsline {section}{Bibliografia}{49}{section*.19}%
+\contentsline {section}{Wykaz symboli i skrótów}{54}{section*.20}%
+\contentsline {section}{Spis rysunków}{54}{section*.20}%
+\contentsline {section}{Spis tabel}{54}{section*.20}%
+\contentsline {section}{Spis załączników}{54}{section*.21}%
