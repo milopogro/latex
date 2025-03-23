@@ -73,6 +73,8 @@
 \usepackage{pgf-pie}
 \usepackage{graphicx}
 \usepackage{caption}
+\usepackage{xcolor}
+\newcolumntype{C}{>{\centering\arraybackslash}m{2cm}}
 
 %--------------------------------------
 % PdfTeX specific configuration

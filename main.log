@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.23)  23 MAR 2025 18:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.23)  23 MAR 2025 18:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1109,7 +1109,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip134
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 160.
+Package hyperref Info: Option `colorlinks' set `true' on input line 162.
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
@@ -1165,20 +1165,7 @@ Package csquotes Info: Redefining alias 'default' -> 'polish'.
 
 Package biblatex Warning: Load 'inputenc' before biblatex.
 
-(main.aux
-
-LaTeX Warning: Label `fig:enter-label' multiply defined.
-
-
-LaTeX Warning: Label `fig:enter-label' multiply defined.
-
-
-LaTeX Warning: Label `fig:enter-label' multiply defined.
-
-
-LaTeX Warning: Label `fig:enter-label' multiply defined.
-
-)
+(main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
@@ -1494,113 +1481,300 @@ Package microtype Info: Loading generic protrusion settings for font family
 File: img/plc_PL.png Graphic file (type png)
 <use img/plc_PL.png>
 Package pdftex.def Info: img/plc_PL.png  used on input line 66.
-(pdftex.def)             Requested size: 6134.41458pt x 3214.52234pt.
+(pdftex.def)             Requested size: 438.17247pt x 229.59428pt.
+ [20 <./img/plc_PL.png>] [21] [22]
+<img/agile2.png, id=606, 636.57825pt x 188.50426pt>
+File: img/agile2.png Graphic file (type png)
+<use img/agile2.png>
+Package pdftex.def Info: img/agile2.png  used on input line 129.
+(pdftex.def)             Requested size: 438.17247pt x 129.75455pt.
 
-Overfull \hbox (5696.24211pt too wide) in paragraph at lines 66--67
- [][] 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23] [24 <./img/agile2.png>]
+<img/waterfall_agile_PL.png, id=647, 853.38824pt x 476.982pt>
+File: img/waterfall_agile_PL.png Graphic file (type png)
+<use img/waterfall_agile_PL.png>
+Package pdftex.def Info: img/waterfall_agile_PL.png  used on input line 165.
+(pdftex.def)             Requested size: 438.17247pt x 244.90973pt.
+
+Overfull \hbox (21.1174pt too wide) in paragraph at lines 166--166
+[]|\T1/futs/m/n/10.95 (-20) ›ró-dªo: https://www.linkedin.com/pulse/waterfall-vs-agile-which-better-you-why-datacademy-cloud/| 
  []
 
 
-LaTeX Warning: Float too large for page by 2587.14566pt on input line 69.
-
-[20] [21 <./img/plc_PL.png>] [22]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23]
-<img/agile.png, id=612, 703.62875pt x 492.84125pt>
-File: img/agile.png Graphic file (type png)
-<use img/agile.png>
-Package pdftex.def Info: img/agile.png  used on input line 129.
-(pdftex.def)             Requested size: 219.08623pt x 153.44849pt.
-
-Underfull \vbox (badness 3872) has occurred while \output is active []
-
- [24 <./img/agile.png (PNG copy)>]
-<img/waterfall_agile.png, id=637, 893.3375pt x 517.935pt>
-File: img/waterfall_agile.png Graphic file (type png)
-<use img/waterfall_agile.png>
-Package pdftex.def Info: img/waterfall_agile.png  used on input line 165.
-(pdftex.def)             Requested size: 219.08623pt x 127.01767pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [25]
-Underfull \vbox (badness 1048) has occurred while \output is active []
-
- [26 <./img/waterfall_agile.png (PNG copy)>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [27]
-Underfull \vbox (badness 1152) has occurred while \output is active []
-
- [28]
-Underfull \hbox (badness 10000) in paragraph at lines 249--256
+ [25 <./img/waterfall_agile_PL.png>] [26] [27]
+Underfull \hbox (badness 10000) in paragraph at lines 248--255
 
  []
 
-[29]
-<img/ryzyka1.png, id=722, 410.2828pt x 681.29532pt>
+[28]
+Underfull \vbox (badness 4699) has occurred while \output is active []
+
+ [29]
+<img/ryzyka1.png, id=726, 410.2828pt x 681.29532pt>
 File: img/ryzyka1.png Graphic file (type png)
 <use img/ryzyka1.png>
-Package pdftex.def Info: img/ryzyka1.png  used on input line 280.
+Package pdftex.def Info: img/ryzyka1.png  used on input line 279.
 (pdftex.def)             Requested size: 219.08623pt x 363.79808pt.
-<img/ryzyka2.png, id=723, 375.65344pt x 672.26157pt>
+<img/ryzyka2.png, id=727, 375.65344pt x 672.26157pt>
 File: img/ryzyka2.png Graphic file (type png)
 <use img/ryzyka2.png>
-Package pdftex.def Info: img/ryzyka2.png  used on input line 286.
+Package pdftex.def Info: img/ryzyka2.png  used on input line 284.
 (pdftex.def)             Requested size: 219.08623pt x 392.07639pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [30] [31 <./img/ryzyka1.png>] [32 <./img/ryzyka2.png>]
-Overfull \hbox (15.08246pt too wide) in paragraph at lines 294--295
+Overfull \hbox (15.08246pt too wide) in paragraph at lines 291--292
 \T1/futs/m/n/12 (-20) »e-nia sys-temu. Na przy-kªad, ce-lem pro-jektu ma-j¡-cego na celu stwo-rze-nie wi-tryny e-commerce
  []
 
-
+[30] [31 <./img/ryzyka1.png>] [32 <./img/ryzyka2.png>] [33]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [33]
-Underfull \vbox (badness 1024) has occurred while \output is active []
-
- [34]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [35]) (tex/4-kierownik-projektu.tex [36]
+ [34]) (tex/4-kierownik-projektu.tex [35]
 Underfull \hbox (badness 10000) in paragraph at lines 3--6
 
  []
 
-[37] [38]
-<img/rola.png, id=859, 515.526pt x 337.86224pt>
+[36] [37]
+<img/rola.png, id=857, 515.526pt x 337.86224pt>
 File: img/rola.png Graphic file (type png)
 <use img/rola.png>
 Package pdftex.def Info: img/rola.png  used on input line 30.
 (pdftex.def)             Requested size: 398.33858pt x 261.07237pt.
-<img/kompetencje.png, id=873, 517.935pt x 185.493pt>
+
+Overfull \hbox (8.94994pt too wide) in paragraph at lines 49--49
+ []|\T1/futs/m/n/12 (-20) Przywództwo| 
+ []
+
+
+Overfull \hbox (8.38882pt too wide) in paragraph at lines 51--51
+ []|\T1/futs/m/n/12 (-20) Umiej¦tno±ci 
+ []
+
+
+Overfull \hbox (8.38882pt too wide) in paragraph at lines 51--51
+ []|\T1/futs/m/n/12 (-20) Umiej¦tno±ci 
+ []
+
+
+Overfull \hbox (8.38882pt too wide) in paragraph at lines 51--51
+ []|\T1/futs/m/n/12 (-20) Umiej¦tno±ci 
+ []
+
+
+Overfull \hbox (8.38882pt too wide) in paragraph at lines 51--51
+ []|\T1/futs/m/n/12 (-20) Umiej¦tno±ci 
+ []
+
+
+Overfull \hbox (8.38882pt too wide) in paragraph at lines 51--52
+ []|\T1/futs/m/n/12 (-20) Umiej¦tno±ci 
+ []
+
+
+Overfull \hbox (8.94994pt too wide) in paragraph at lines 53--53
+ []|\T1/futs/m/n/12 (-20) Przywództwo| 
+ []
+
+
+Overfull \hbox (3.17697pt too wide) in paragraph at lines 53--53
+ []|\T1/futs/m/n/12 (-20) Zarz¡dzanie 
+ []
+
+
+Overfull \hbox (5.81029pt too wide) in paragraph at lines 53--53
+ []|\T1/futs/m/n/12 (-20) Elastyczno±¢| 
+ []
+
+
+Overfull \hbox (3.17697pt too wide) in paragraph at lines 53--53
+ []|\T1/futs/m/n/12 (-20) Zarz¡dzanie 
+ []
+
+
+Overfull \hbox (5.81029pt too wide) in paragraph at lines 53--53
+ []|\T1/futs/m/n/12 (-20) Elastyczno±¢| 
+ []
+
+
+Overfull \hbox (3.17697pt too wide) in paragraph at lines 55--55
+ []|\T1/futs/m/n/12 (-20) Zarz¡dzanie 
+ []
+
+
+Overfull \hbox (8.38882pt too wide) in paragraph at lines 55--55
+ []|\T1/futs/m/n/12 (-20) Umiej¦tno±ci 
+ []
+
+
+Overfull \hbox (3.17697pt too wide) in paragraph at lines 55--55
+ []|\T1/futs/m/n/12 (-20) Zarz¡dzanie 
+ []
+
+
+Overfull \hbox (5.81029pt too wide) in paragraph at lines 55--55
+ []|\T1/futs/m/n/12 (-20) Elastyczno±¢| 
+ []
+
+
+Overfull \hbox (5.81029pt too wide) in paragraph at lines 57--57
+ []|\T1/futs/m/n/12 (-20) Elastyczno±¢| 
+ []
+
+
+Overfull \hbox (4.75716pt too wide) in paragraph at lines 57--57
+ []|\T1/futs/m/n/12 (-20) ‘wiadomo±¢ 
+ []
+
+
+Overfull \hbox (8.94994pt too wide) in paragraph at lines 57--57
+ []|\T1/futs/m/n/12 (-20) Przywództwo| 
+ []
+
+
+Overfull \hbox (8.94994pt too wide) in paragraph at lines 57--57
+ []|\T1/futs/m/n/12 (-20) Przywództwo| 
+ []
+
+
+Overfull \hbox (67.29533pt too wide) in paragraph at lines 57--57
+ []|\T1/futs/m/n/12 (-20) Proaktywno±¢/Inicjatywa| 
+ []
+
+
+Overfull \hbox (67.29533pt too wide) in paragraph at lines 59--59
+ []|\T1/futs/m/n/12 (-20) Proaktywno±¢/Inicjatywa| 
+ []
+
+
+Overfull \hbox (5.81029pt too wide) in paragraph at lines 61--61
+ []|\T1/futs/m/n/12 (-20) Elastyczno±¢| 
+ []
+
+
+Overfull \hbox (67.29533pt too wide) in paragraph at lines 61--61
+ []|\T1/futs/m/n/12 (-20) Proaktywno±¢/Inicjatywa| 
+ []
+
+
+Overfull \hbox (15.82832pt too wide) in paragraph at lines 61--61
+ []|\T1/futs/m/n/12 (-20) Podejmowanie 
+ []
+
+
+Overfull \hbox (3.17697pt too wide) in paragraph at lines 61--61
+ []|\T1/futs/m/n/12 (-20) Zarz¡dzanie 
+ []
+
+
+Overfull \hbox (15.82832pt too wide) in paragraph at lines 63--63
+ []|\T1/futs/m/n/12 (-20) Podejmowanie 
+ []
+
+
+Overfull \hbox (15.82832pt too wide) in paragraph at lines 65--65
+ []|\T1/futs/m/n/12 (-20) Podejmowanie 
+ []
+
+
+Overfull \hbox (67.29533pt too wide) in paragraph at lines 65--65
+ []|\T1/futs/m/n/12 (-20) Proaktywno±¢/Inicjatywa| 
+ []
+
+
+Overfull \hbox (15.82832pt too wide) in paragraph at lines 65--65
+ []|\T1/futs/m/n/12 (-20) Podejmowanie 
+ []
+
+
+Overfull \hbox (67.29533pt too wide) in paragraph at lines 65--65
+ []|\T1/futs/m/n/12 (-20) Proaktywno±¢/Inicjatywa| 
+ []
+
+
+Overfull \hbox (8.94994pt too wide) in paragraph at lines 65--65
+ []|\T1/futs/m/n/12 (-20) Przywództwo| 
+ []
+
+
+Overfull \hbox (4.75716pt too wide) in paragraph at lines 67--67
+ []|\T1/futs/m/n/12 (-20) ‘wiadomo±¢ 
+ []
+
+
+Overfull \hbox (4.75716pt too wide) in paragraph at lines 69--69
+ []|\T1/futs/m/n/12 (-20) ‘wiadomo±¢ 
+ []
+
+
+Overfull \hbox (4.75716pt too wide) in paragraph at lines 69--69
+ []|\T1/futs/m/n/12 (-20) ‘wiadomo±¢ 
+ []
+
+
+Overfull \hbox (4.75716pt too wide) in paragraph at lines 69--69
+ []|\T1/futs/m/n/12 (-20) ‘wiadomo±¢ 
+ []
+
+
+Overfull \hbox (4.75716pt too wide) in paragraph at lines 69--69
+ []|\T1/futs/m/n/12 (-20) ‘wiadomo±¢ 
+ []
+
+
+Overfull \hbox (4.75716pt too wide) in paragraph at lines 71--71
+ []|\T1/futs/m/n/12 (-20) ‘wiadomo±¢ 
+ []
+
+
+Overfull \hbox (15.82832pt too wide) in paragraph at lines 71--71
+ []|\T1/futs/m/n/12 (-20) Podejmowanie 
+ []
+
+
+Overfull \hbox (4.75716pt too wide) in paragraph at lines 73--73
+ []|\T1/futs/m/n/12 (-20) ‘wiadomo±¢ 
+ []
+
+
+Overfull \hbox (4.75716pt too wide) in paragraph at lines 73--73
+ []|\T1/futs/m/n/12 (-20) ‘wiadomo±¢ 
+ []
+
+
+Overfull \hbox (4.75716pt too wide) in paragraph at lines 73--73
+ []|\T1/futs/m/n/12 (-20) ‘wiadomo±¢ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38]
+<img/kompetencje.png, id=878, 517.935pt x 185.493pt>
 File: img/kompetencje.png Graphic file (type png)
 <use img/kompetencje.png>
-Package pdftex.def Info: img/kompetencje.png  used on input line 41.
+Package pdftex.def Info: img/kompetencje.png  used on input line 80.
 (pdftex.def)             Requested size: 398.33858pt x 142.66588pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [39]
-<img/kompetencje2.png, id=881, 955.77075pt x 302.93175pt>
+<img/kompetencje2.png, id=879, 955.77075pt x 302.93175pt>
 File: img/kompetencje2.png Graphic file (type png)
 <use img/kompetencje2.png>
-Package pdftex.def Info: img/kompetencje2.png  used on input line 47.
+Package pdftex.def Info: img/kompetencje2.png  used on input line 86.
 (pdftex.def)             Requested size: 398.33858pt x 126.25514pt.
- [40 <./img/rola.png>] [41 <./img/kompetencje.png> <./img/kompetencje2.png>]
+ [39 <./img/rola.png>] [40 <./img/kompetencje.png> <./img/kompetencje2.png>]
 Underfull \vbox (badness 1077) has occurred while \output is active []
 
- [42]
+ [41]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [43]
+ [42]
 Underfull \vbox (badness 1571) has occurred while \output is active []
 
- [44] [45]) (tex/5-ankieta.tex [46]) (tex/6-podsumowanie.tex [47]) [48]
+ [43]
+Underfull \vbox (badness 1152) has occurred while \output is active []
+
+ [44]) (tex/5-ankieta.tex [45]) (tex/6-podsumowanie.tex [46]) [47] [48]
 Overfull \hbox (19.08621pt too wide) in paragraph at lines 67--67
 [][]\T1/futs/m/n/12 (-20) Agile Al-liance. \T1/futs/m/it/12 (-20) Ma-ni-fe-sto for Agile So-ftware De-ve-lop-ment\T1/futs/m/n/12 (-20) . 2001. \T1/futs/m/sc/12 (-20) url\T1/futs/m/n/12 (-20) : [][]$\T1/cmtt/m/n/12 http : / / agilemanifesto .
  []
@@ -1625,28 +1799,24 @@ Overfull \hbox (19.08621pt too wide) in paragraph at lines 67--67
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6102A24005C5974C244CA08420A21722;8462.
+(rerunfilecheck)             Checksum: B2E779D25FBD6AB42164BF3D1FF40489;8462.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 41304 strings out of 474485
- 774195 string characters out of 5743734
- 1946542 words of memory out of 5000000
- 61705 multiletter control sequences out of 15000+600000
- 728402 words of font info for 658 fonts, out of 8000000 for 9000
+ 41310 strings out of 474485
+ 774307 string characters out of 5743734
+ 1986542 words of memory out of 5000000
+ 61708 multiletter control sequences out of 15000+600000
+ 728508 words of font info for 660 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  123i,12n,121p,1996b,2381s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\milo-\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\milo-\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/public/fourier/fourier-ms.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/utopia/putb8a.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/utopia/putr8a.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on main.pdf (54 pages, 2374940 bytes).
+Output written on main.pdf (54 pages, 2712750 bytes).
 PDF statistics:
- 1383 PDF objects out of 1440 (max. 8388607)
- 465 named destinations out of 1000 (max. 500000)
+ 1388 PDF objects out of 1440 (max. 8388607)
+ 466 named destinations out of 1000 (max. 500000)
  110034 words of extra memory for PDF output out of 128383 (max. 10000000)
 
