@@ -74,6 +74,11 @@
 \usepackage{graphicx}
 \usepackage{caption}
 \usepackage{xcolor}
+\usepackage{rotating}
+\usepackage[utf8]{inputenc}
+\usepackage{colortbl}
+\usepackage{booktabs}
+\usepackage[polish]{babel}
 \newcolumntype{C}{>{\centering\arraybackslash}m{2cm}}
 
 %--------------------------------------

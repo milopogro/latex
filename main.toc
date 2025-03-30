@@ -30,18 +30,18 @@
 \contentsline {subsection}{\numberline {4.3\relax .\enspace }Kompetencje kierownika projektu}{38}{subsection.4.3}%
 \contentsline {subsubsection}{\numberline {4.3.1\relax .\enspace }Komunikacja}{39}{subsubsection.4.3.1}%
 \contentsline {subsubsection}{\numberline {4.3.2\relax .\enspace }Przywództwo}{41}{subsubsection.4.3.2}%
-\contentsline {subsubsection}{\numberline {4.3.3\relax .\enspace }Zarządzanie sobą (ang. Self-management)}{41}{subsubsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.3\relax .\enspace }Zarządzanie sobą (ang. Self-management)}{42}{subsubsection.4.3.3}%
 \contentsline {subsubsection}{\numberline {4.3.4\relax .\enspace }Umiejętności zarządcze}{42}{subsubsection.4.3.4}%
-\contentsline {subsubsection}{\numberline {4.3.5\relax .\enspace }Umiejętności techniczne}{42}{subsubsection.4.3.5}%
+\contentsline {subsubsection}{\numberline {4.3.5\relax .\enspace }Umiejętności techniczne}{43}{subsubsection.4.3.5}%
 \contentsline {subsection}{\numberline {4.4\relax .\enspace }Znaczenie wiedzy z zakresu inżynierii oprogramowania dla kierownika projektu}{43}{subsection.4.4}%
-\contentsline {section}{\numberline {5\relax .\enspace }Badanie opinii na temat wykształcenia i roli kierownika projektu informatycznego}{46}{section.5}%
-\contentsline {subsection}{\numberline {5.1\relax .\enspace }Grupa badawcza}{46}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2\relax .\enspace }Zadawane pytania}{46}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3\relax .\enspace }Wyniki badania}{46}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4\relax .\enspace }Wnioski}{46}{subsection.5.4}%
-\contentsline {section}{\numberline {6\relax .\enspace }Podsumowanie}{47}{section.6}%
-\contentsline {section}{Bibliografia}{49}{section*.20}%
-\contentsline {section}{Wykaz symboli i skrótów}{54}{section*.21}%
-\contentsline {section}{Spis rysunków}{54}{section*.21}%
-\contentsline {section}{Spis tabel}{54}{section*.21}%
-\contentsline {section}{Spis załączników}{54}{section*.22}%
+\contentsline {section}{\numberline {5\relax .\enspace }Badanie opinii na temat wykształcenia i roli kierownika projektu informatycznego}{47}{section.5}%
+\contentsline {subsection}{\numberline {5.1\relax .\enspace }Grupa badawcza}{47}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2\relax .\enspace }Zadawane pytania}{47}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3\relax .\enspace }Wyniki badania}{47}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4\relax .\enspace }Wnioski}{47}{subsection.5.4}%
+\contentsline {section}{\numberline {6\relax .\enspace }Podsumowanie}{48}{section.6}%
+\contentsline {section}{Bibliografia}{49}{section*.19}%
+\contentsline {section}{Wykaz symboli i skrótów}{54}{section*.20}%
+\contentsline {section}{Spis rysunków}{54}{section*.20}%
+\contentsline {section}{Spis tabel}{54}{section*.20}%
+\contentsline {section}{Spis załączników}{54}{section*.21}%

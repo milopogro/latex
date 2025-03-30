@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.23)  23 MAR 2025 18:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.23)  30 MAR 2025 20:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -994,27 +994,54 @@ File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpie@explodeLength=\count461
 \pgfpie@colorLength=\count462
 \pgfpie@sliceLength=\count463
-)) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+)) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count464
+\rotFPtop=\skip133
+\rotFPbot=\skip134
+\rot@float@box=\box77
+\rot@mess@toks=\toks52
+) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+\babel@savecnt=\count465
+\U@D=\dimen304
+\l@unhyphenated=\language80
+ (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read4
+\bbl@dirlevel=\count466
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/babel-polish\polish.ldf
+Language: polish 2022/03/12 1.3 Babel support for Polish
+Package babel Info: Making " an active character on input line 101.
+)) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/pl\babel-polish.tex
+Package babel Info: Importing font and identification data for polish
+(babel)             from babel-pl.ini. Reported on input line 11.
+) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
 Package: microtype 2025/02/11 v3.2a Micro-typographical refinements (RS)
-\MT@toks=\toks52
-\MT@tempbox=\box77
-\MT@count=\count464
+\MT@toks=\toks53
+\MT@tempbox=\box78
+\MT@count=\count467
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
 LaTeX Info: Redefining \leftprotrusion on input line 1088.
-\MT@prot@toks=\toks53
+\MT@prot@toks=\toks54
 LaTeX Info: Redefining \rightprotrusion on input line 1107.
 LaTeX Info: Redefining \textls on input line 1449.
-\MT@outer@kern=\dimen304
+\MT@outer@kern=\dimen305
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
-\MT@listname@count=\count465
+\MT@listname@count=\count468
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdftex.def
 File: microtype-pdftex.def 2025/02/11 v3.2a Definitions specific to pdftex (RS)
 LaTeX Info: Redefining \lsstyle on input line 944.
 LaTeX Info: Redefining \lslig on input line 944.
-\MT@outer@space=\skip133
+\MT@outer@space=\skip135
 )
 Package microtype Info: Loading configuration file microtype.cfg.
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
@@ -1040,11 +1067,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count466
+\c@section@level=\count469
 )
-\@linkdim=\dimen305
-\Hy@linkcounter=\count467
-\Hy@pagecounter=\count468
+\@linkdim=\dimen306
+\Hy@linkcounter=\count470
+\Hy@pagecounter=\count471
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -1052,7 +1079,7 @@ Now handling font encoding PD1 ...
 ) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count469
+\Hy@SavedSpaceFactor=\count472
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -1065,17 +1092,17 @@ Package hyperref Info: Plain pages OFF on input line 4196.
 Package hyperref Info: Backreferencing OFF on input line 4201.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4448.
-\c@Hy@tempcnt=\count470
+\c@Hy@tempcnt=\count473
 LaTeX Info: Redefining \url on input line 4786.
-\XeTeXLinkMargin=\dimen306
+\XeTeXLinkMargin=\dimen307
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count471
-\Field@Width=\dimen307
-\Fld@charsize=\dimen308
+\Fld@menulength=\count474
+\Field@Width=\dimen308
+\Fld@charsize=\dimen309
 Package hyperref Info: Hyper figures OFF on input line 6065.
 Package hyperref Info: Link nesting OFF on input line 6070.
 Package hyperref Info: Hyper index ON on input line 6073.
@@ -1087,9 +1114,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6095.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count472
-\c@Item=\count473
-\c@Hfootnote=\count474
+\Hy@abspage=\count475
+\c@Item=\count476
+\c@Hfootnote=\count477
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
@@ -1098,8 +1125,8 @@ File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count475
-\c@bookmark@seq@number=\count476
+\Fld@listcount=\count478
+\c@bookmark@seq@number=\count479
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
@@ -1107,53 +1134,33 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip134
+\Hy@SectionHShift=\skip136
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 162.
+Package hyperref Info: Option `colorlinks' set `true' on input line 167.
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count477
-\Gm@cntv=\count478
-\c@Gm@tempcnt=\count479
-\Gm@bindingoffset=\dimen309
-\Gm@wd@mp=\dimen310
-\Gm@odd@mp=\dimen311
-\Gm@even@mp=\dimen312
-\Gm@layoutwidth=\dimen313
-\Gm@layoutheight=\dimen314
-\Gm@layouthoffset=\dimen315
-\Gm@layoutvoffset=\dimen316
-\Gm@dimlist=\toks54
- (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2024/01/07 v24.1 The Babel package
-\babel@savecnt=\count480
-\U@D=\dimen317
-\l@unhyphenated=\language80
- (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
-\bbl@readstream=\read4
-\bbl@dirlevel=\count481
-
-*************************************
-* Local config file bblopts.cfg used
-*
-(C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/babel-polish\polish.ldf
-Language: polish 2022/03/12 1.3 Babel support for Polish
-Package babel Info: Making " an active character on input line 101.
-)) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/pl\babel-polish.tex
-Package babel Info: Importing font and identification data for polish
-(babel)             from babel-pl.ini. Reported on input line 11.
-)
-\c@theorem=\count482
-\c@lemma=\count483
-\c@corollary=\count484
-\c@definition=\count485
-\c@axiom=\count486
-\c@assumption=\count487
+\Gm@cnth=\count480
+\Gm@cntv=\count481
+\c@Gm@tempcnt=\count482
+\Gm@bindingoffset=\dimen310
+\Gm@wd@mp=\dimen311
+\Gm@odd@mp=\dimen312
+\Gm@even@mp=\dimen313
+\Gm@layoutwidth=\dimen314
+\Gm@layoutheight=\dimen315
+\Gm@layouthoffset=\dimen316
+\Gm@layoutvoffset=\dimen317
+\Gm@dimlist=\toks55
+ (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)))
+\c@theorem=\count483
+\c@lemma=\count484
+\c@corollary=\count485
+\c@definition=\count486
+\c@axiom=\count487
+\c@assumption=\count488
 
 
 Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 21.
@@ -1211,6 +1218,7 @@ Package caption Info: longtable package is loaded.
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
+Package caption Info: rotating package is loaded.
 Package caption Info: scrextend package is loaded.
 \caption@addmargin@hsize=\dimen318
 \caption@addmargin@linewidth=\dimen319
@@ -1219,24 +1227,24 @@ LaTeX Font Info:    Redeclaring math accent \widehat on input line 21.
 LaTeX Font Info:    Redeclaring math accent \widetilde on input line 21.
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count488
+\scratchcounter=\count489
 \scratchdimen=\dimen320
-\scratchbox=\box78
-\nofMPsegments=\count489
-\nofMParguments=\count490
-\everyMPshowfont=\toks55
-\MPscratchCnt=\count491
+\scratchbox=\box79
+\nofMPsegments=\count490
+\nofMParguments=\count491
+\everyMPshowfont=\toks56
+\MPscratchCnt=\count492
 \MPscratchDim=\dimen321
-\MPnumerator=\count492
-\makeMPintoPDFobject=\count493
-\everyMPtoPDFconversion=\toks56
+\MPnumerator=\count493
+\makeMPintoPDFobject=\count494
+\everyMPtoPDFconversion=\toks57
 ) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@lstlisting=\count494
+\c@lstlisting=\count495
 Package biblatex Info: Trying to load language 'polish'...
 Package biblatex Info: ... file 'polish.lbx' found.
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\polish.lbx
@@ -1543,238 +1551,38 @@ File: img/rola.png Graphic file (type png)
 <use img/rola.png>
 Package pdftex.def Info: img/rola.png  used on input line 30.
 (pdftex.def)             Requested size: 398.33858pt x 261.07237pt.
+<img/arras.png, id=871, 187.29974pt x 564.30824pt>
+File: img/arras.png Graphic file (type png)
+<use img/arras.png>
+Package pdftex.def Info: img/arras.png  used on input line 43.
+(pdftex.def)             Requested size: 219.08623pt x 660.083pt.
 
-Overfull \hbox (8.94994pt too wide) in paragraph at lines 49--49
- []|\T1/futs/m/n/12 (-20) Przywództwo| 
- []
 
-
-Overfull \hbox (8.38882pt too wide) in paragraph at lines 51--51
- []|\T1/futs/m/n/12 (-20) Umiej¦tno±ci 
- []
-
-
-Overfull \hbox (8.38882pt too wide) in paragraph at lines 51--51
- []|\T1/futs/m/n/12 (-20) Umiej¦tno±ci 
- []
-
-
-Overfull \hbox (8.38882pt too wide) in paragraph at lines 51--51
- []|\T1/futs/m/n/12 (-20) Umiej¦tno±ci 
- []
-
-
-Overfull \hbox (8.38882pt too wide) in paragraph at lines 51--51
- []|\T1/futs/m/n/12 (-20) Umiej¦tno±ci 
- []
-
-
-Overfull \hbox (8.38882pt too wide) in paragraph at lines 51--52
- []|\T1/futs/m/n/12 (-20) Umiej¦tno±ci 
- []
-
-
-Overfull \hbox (8.94994pt too wide) in paragraph at lines 53--53
- []|\T1/futs/m/n/12 (-20) Przywództwo| 
- []
-
-
-Overfull \hbox (3.17697pt too wide) in paragraph at lines 53--53
- []|\T1/futs/m/n/12 (-20) Zarz¡dzanie 
- []
-
-
-Overfull \hbox (5.81029pt too wide) in paragraph at lines 53--53
- []|\T1/futs/m/n/12 (-20) Elastyczno±¢| 
- []
-
-
-Overfull \hbox (3.17697pt too wide) in paragraph at lines 53--53
- []|\T1/futs/m/n/12 (-20) Zarz¡dzanie 
- []
-
-
-Overfull \hbox (5.81029pt too wide) in paragraph at lines 53--53
- []|\T1/futs/m/n/12 (-20) Elastyczno±¢| 
- []
-
-
-Overfull \hbox (3.17697pt too wide) in paragraph at lines 55--55
- []|\T1/futs/m/n/12 (-20) Zarz¡dzanie 
- []
-
-
-Overfull \hbox (8.38882pt too wide) in paragraph at lines 55--55
- []|\T1/futs/m/n/12 (-20) Umiej¦tno±ci 
- []
-
-
-Overfull \hbox (3.17697pt too wide) in paragraph at lines 55--55
- []|\T1/futs/m/n/12 (-20) Zarz¡dzanie 
- []
-
-
-Overfull \hbox (5.81029pt too wide) in paragraph at lines 55--55
- []|\T1/futs/m/n/12 (-20) Elastyczno±¢| 
- []
-
-
-Overfull \hbox (5.81029pt too wide) in paragraph at lines 57--57
- []|\T1/futs/m/n/12 (-20) Elastyczno±¢| 
- []
-
-
-Overfull \hbox (4.75716pt too wide) in paragraph at lines 57--57
- []|\T1/futs/m/n/12 (-20) ‘wiadomo±¢ 
- []
-
-
-Overfull \hbox (8.94994pt too wide) in paragraph at lines 57--57
- []|\T1/futs/m/n/12 (-20) Przywództwo| 
- []
-
-
-Overfull \hbox (8.94994pt too wide) in paragraph at lines 57--57
- []|\T1/futs/m/n/12 (-20) Przywództwo| 
- []
-
-
-Overfull \hbox (67.29533pt too wide) in paragraph at lines 57--57
- []|\T1/futs/m/n/12 (-20) Proaktywno±¢/Inicjatywa| 
- []
-
-
-Overfull \hbox (67.29533pt too wide) in paragraph at lines 59--59
- []|\T1/futs/m/n/12 (-20) Proaktywno±¢/Inicjatywa| 
- []
-
-
-Overfull \hbox (5.81029pt too wide) in paragraph at lines 61--61
- []|\T1/futs/m/n/12 (-20) Elastyczno±¢| 
- []
-
-
-Overfull \hbox (67.29533pt too wide) in paragraph at lines 61--61
- []|\T1/futs/m/n/12 (-20) Proaktywno±¢/Inicjatywa| 
- []
-
-
-Overfull \hbox (15.82832pt too wide) in paragraph at lines 61--61
- []|\T1/futs/m/n/12 (-20) Podejmowanie 
- []
-
-
-Overfull \hbox (3.17697pt too wide) in paragraph at lines 61--61
- []|\T1/futs/m/n/12 (-20) Zarz¡dzanie 
- []
-
-
-Overfull \hbox (15.82832pt too wide) in paragraph at lines 63--63
- []|\T1/futs/m/n/12 (-20) Podejmowanie 
- []
-
-
-Overfull \hbox (15.82832pt too wide) in paragraph at lines 65--65
- []|\T1/futs/m/n/12 (-20) Podejmowanie 
- []
-
-
-Overfull \hbox (67.29533pt too wide) in paragraph at lines 65--65
- []|\T1/futs/m/n/12 (-20) Proaktywno±¢/Inicjatywa| 
- []
-
-
-Overfull \hbox (15.82832pt too wide) in paragraph at lines 65--65
- []|\T1/futs/m/n/12 (-20) Podejmowanie 
- []
-
-
-Overfull \hbox (67.29533pt too wide) in paragraph at lines 65--65
- []|\T1/futs/m/n/12 (-20) Proaktywno±¢/Inicjatywa| 
- []
-
-
-Overfull \hbox (8.94994pt too wide) in paragraph at lines 65--65
- []|\T1/futs/m/n/12 (-20) Przywództwo| 
- []
-
-
-Overfull \hbox (4.75716pt too wide) in paragraph at lines 67--67
- []|\T1/futs/m/n/12 (-20) ‘wiadomo±¢ 
- []
-
-
-Overfull \hbox (4.75716pt too wide) in paragraph at lines 69--69
- []|\T1/futs/m/n/12 (-20) ‘wiadomo±¢ 
- []
-
-
-Overfull \hbox (4.75716pt too wide) in paragraph at lines 69--69
- []|\T1/futs/m/n/12 (-20) ‘wiadomo±¢ 
- []
-
-
-Overfull \hbox (4.75716pt too wide) in paragraph at lines 69--69
- []|\T1/futs/m/n/12 (-20) ‘wiadomo±¢ 
- []
-
-
-Overfull \hbox (4.75716pt too wide) in paragraph at lines 69--69
- []|\T1/futs/m/n/12 (-20) ‘wiadomo±¢ 
- []
-
-
-Overfull \hbox (4.75716pt too wide) in paragraph at lines 71--71
- []|\T1/futs/m/n/12 (-20) ‘wiadomo±¢ 
- []
-
-
-Overfull \hbox (15.82832pt too wide) in paragraph at lines 71--71
- []|\T1/futs/m/n/12 (-20) Podejmowanie 
- []
-
-
-Overfull \hbox (4.75716pt too wide) in paragraph at lines 73--73
- []|\T1/futs/m/n/12 (-20) ‘wiadomo±¢ 
- []
-
-
-Overfull \hbox (4.75716pt too wide) in paragraph at lines 73--73
- []|\T1/futs/m/n/12 (-20) ‘wiadomo±¢ 
- []
-
-
-Overfull \hbox (4.75716pt too wide) in paragraph at lines 73--73
- []|\T1/futs/m/n/12 (-20) ‘wiadomo±¢ 
- []
+LaTeX Warning: Float too large for page by 32.70631pt on input line 45.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [38]
-<img/kompetencje.png, id=878, 517.935pt x 185.493pt>
-File: img/kompetencje.png Graphic file (type png)
-<use img/kompetencje.png>
-Package pdftex.def Info: img/kompetencje.png  used on input line 80.
-(pdftex.def)             Requested size: 398.33858pt x 142.66588pt.
-<img/kompetencje2.png, id=879, 955.77075pt x 302.93175pt>
-File: img/kompetencje2.png Graphic file (type png)
-<use img/kompetencje2.png>
-Package pdftex.def Info: img/kompetencje2.png  used on input line 86.
-(pdftex.def)             Requested size: 398.33858pt x 126.25514pt.
- [39 <./img/rola.png>] [40 <./img/kompetencje.png> <./img/kompetencje2.png>]
-Underfull \vbox (badness 1077) has occurred while \output is active []
+Overfull \hbox (6.86047pt too wide) in paragraph at lines 53--53
+[]|\T1/futs/b/n/12 (-20) Poz.|  
+ []
 
- [41]
+
+Overfull \hbox (3.09425pt too wide) in paragraph at lines 51--72
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[39 <./img/rola.png>] [40 <./img/arras.png>] [41] [42] [43]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [42]
-Underfull \vbox (badness 1571) has occurred while \output is active []
+ [44]
+Underfull \vbox (badness 1394) has occurred while \output is active []
 
- [43]
-Underfull \vbox (badness 1152) has occurred while \output is active []
-
- [44]) (tex/5-ankieta.tex [45]) (tex/6-podsumowanie.tex [46]) [47] [48]
+ [45]) (tex/5-ankieta.tex [46]) (tex/6-podsumowanie.tex [47]) [48]
 Overfull \hbox (19.08621pt too wide) in paragraph at lines 67--67
 [][]\T1/futs/m/n/12 (-20) Agile Al-liance. \T1/futs/m/it/12 (-20) Ma-ni-fe-sto for Agile So-ftware De-ve-lop-ment\T1/futs/m/n/12 (-20) . 2001. \T1/futs/m/sc/12 (-20) url\T1/futs/m/n/12 (-20) : [][]$\T1/cmtt/m/n/12 http : / / agilemanifesto .
  []
@@ -1800,23 +1608,23 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B2E779D25FBD6AB42164BF3D1FF40489;8462.
+(rerunfilecheck)             Checksum: 6102A24005C5974C244CA08420A21722;8462.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 41310 strings out of 474485
- 774307 string characters out of 5743734
- 1986542 words of memory out of 5000000
- 61708 multiletter control sequences out of 15000+600000
- 728508 words of font info for 660 fonts, out of 8000000 for 9000
+ 41378 strings out of 474485
+ 775332 string characters out of 5743734
+ 1949542 words of memory out of 5000000
+ 61772 multiletter control sequences out of 15000+600000
+ 728672 words of font info for 661 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  123i,12n,121p,1996b,2381s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\milo-\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\milo-\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/public/fourier/fourier-ms.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/utopia/putb8a.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/utopia/putr8a.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on main.pdf (54 pages, 2712750 bytes).
+Output written on main.pdf (54 pages, 2435532 bytes).
 PDF statistics:
- 1388 PDF objects out of 1440 (max. 8388607)
- 466 named destinations out of 1000 (max. 500000)
- 110034 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 1382 PDF objects out of 1440 (max. 8388607)
+ 465 named destinations out of 1000 (max. 500000)
+ 110029 words of extra memory for PDF output out of 128383 (max. 10000000)
 
