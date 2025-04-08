@@ -20,28 +20,27 @@
 \contentsline {subsection}{\numberline {3.6\relax .\enspace }Ryzyka w projektach IT}{27}{subsection.3.6}%
 \contentsline {subsubsection}{\numberline {3.6.1\relax .\enspace }Czasowy model ryzyk}{28}{subsubsection.3.6.1}%
 \contentsline {subsection}{\numberline {3.7\relax .\enspace }Ewaluacja projektów informatycznych}{30}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8\relax .\enspace }Ostatnie trendy w projektach informatycznych}{33}{subsection.3.8}%
-\contentsline {subsubsection}{\numberline {3.8.1\relax .\enspace }Globalizacja}{33}{subsubsection.3.8.1}%
-\contentsline {subsubsection}{\numberline {3.8.2\relax .\enspace }Outsourcing}{34}{subsubsection.3.8.2}%
-\contentsline {subsubsection}{\numberline {3.8.3\relax .\enspace }Zespoły zdalne}{35}{subsubsection.3.8.3}%
-\contentsline {section}{\numberline {4\relax .\enspace }Kierownik projektu}{36}{section.4}%
-\contentsline {subsection}{\numberline {4.1\relax .\enspace }Kierownik projektu}{36}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2\relax .\enspace }Role i zadania kierownika projektu}{36}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3\relax .\enspace }Kompetencje kierownika projektu}{38}{subsection.4.3}%
-\contentsline {subsubsection}{\numberline {4.3.1\relax .\enspace }Komunikacja}{39}{subsubsection.4.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.2\relax .\enspace }Przywództwo}{41}{subsubsection.4.3.2}%
-\contentsline {subsubsection}{\numberline {4.3.3\relax .\enspace }Zarządzanie sobą (ang. Self-management)}{42}{subsubsection.4.3.3}%
-\contentsline {subsubsection}{\numberline {4.3.4\relax .\enspace }Umiejętności zarządcze}{42}{subsubsection.4.3.4}%
-\contentsline {subsubsection}{\numberline {4.3.5\relax .\enspace }Umiejętności techniczne}{43}{subsubsection.4.3.5}%
-\contentsline {subsection}{\numberline {4.4\relax .\enspace }Znaczenie wiedzy z zakresu inżynierii oprogramowania dla kierownika projektu}{43}{subsection.4.4}%
-\contentsline {section}{\numberline {5\relax .\enspace }Badanie opinii na temat wykształcenia i roli kierownika projektu informatycznego}{47}{section.5}%
-\contentsline {subsection}{\numberline {5.1\relax .\enspace }Grupa badawcza}{47}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2\relax .\enspace }Zadawane pytania}{47}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3\relax .\enspace }Wyniki badania}{47}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4\relax .\enspace }Wnioski}{47}{subsection.5.4}%
-\contentsline {section}{\numberline {6\relax .\enspace }Podsumowanie}{48}{section.6}%
-\contentsline {section}{Bibliografia}{49}{section*.19}%
-\contentsline {section}{Wykaz symboli i skrótów}{54}{section*.20}%
-\contentsline {section}{Spis rysunków}{54}{section*.20}%
-\contentsline {section}{Spis tabel}{54}{section*.20}%
-\contentsline {section}{Spis załączników}{54}{section*.21}%
+\contentsline {subsection}{\numberline {3.8\relax .\enspace }Ostatnie trendy w projektach informatycznych}{32}{subsection.3.8}%
+\contentsline {subsubsection}{\numberline {3.8.1\relax .\enspace }Globalizacja}{32}{subsubsection.3.8.1}%
+\contentsline {subsubsection}{\numberline {3.8.2\relax .\enspace }Outsourcing}{33}{subsubsection.3.8.2}%
+\contentsline {subsubsection}{\numberline {3.8.3\relax .\enspace }Zespoły zdalne}{34}{subsubsection.3.8.3}%
+\contentsline {section}{\numberline {4\relax .\enspace }Kierownik projektu}{35}{section.4}%
+\contentsline {subsection}{\numberline {4.1\relax .\enspace }Kierownik projektu}{35}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2\relax .\enspace }Role i zadania kierownika projektu}{35}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3\relax .\enspace }Kompetencje kierownika projektu}{37}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1\relax .\enspace }Komunikacja}{38}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2\relax .\enspace }Przywództwo}{40}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3\relax .\enspace }Zarządzanie sobą (ang. Self-management)}{41}{subsubsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.4\relax .\enspace }Umiejętności zarządcze}{41}{subsubsection.4.3.4}%
+\contentsline {subsubsection}{\numberline {4.3.5\relax .\enspace }Umiejętności techniczne}{42}{subsubsection.4.3.5}%
+\contentsline {subsection}{\numberline {4.4\relax .\enspace }Znaczenie wiedzy z zakresu inżynierii oprogramowania dla kierownika projektu}{42}{subsection.4.4}%
+\contentsline {section}{Rozdział X: Analiza badania dotyczącego kompetencji kierownika projektu informatycznego}{46}{section*.18}%
+\contentsline {subsection}{1. Cel badania}{46}{subsection*.19}%
+\contentsline {subsection}{2. Metodologia}{46}{subsection*.20}%
+\contentsline {subsection}{3. Charakterystyka próby}{46}{subsection*.21}%
+\contentsline {subsection}{4. Wyniki ilościowe}{46}{subsection*.22}%
+\contentsline {subsubsection}{4.1 Porównanie średnich ocen kompetencji}{46}{subsubsection*.23}%
+\contentsline {subsubsection}{4.2 Analiza szczegółowa}{46}{subsubsection*.26}%
+\contentsline {subsection}{5. Wyniki jakościowe}{48}{subsection*.28}%
+\contentsline {subsection}{6. Wnioski}{48}{subsection*.29}%
+\contentsline {section}{Bibliografia}{48}{section*.30}%
