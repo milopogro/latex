@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 0 -1
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1744313375.44353 -1
   "bibliografia.bib" 1742749255 20604 5705bb665cf266abcce9688099ae928e ""
-  "main.bcf" 1744140385 118629 f5754354a04c9339e890152acf6cf5fa "pdflatex"
+  "main.bcf" 1744313374 118560 35b5b42999d0d8255dc6e80b183b85ff "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1744140374.64025 "c:/Users/milo-/OneDrive/Dokumenty/Praca magisterska/latex/main.tex" "main.pdf" "main" 1744140385.91774 2
+["pdflatex"] 1744313365.94974 "c:/Users/milo-/OneDrive/Dokumenty/Praca magisterska/latex/main.tex" "main.pdf" "main" 1744313375.44458 0
   "C:/Users/milo-/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1743357602 82665 3eb0bcc9d631fc78d736d6e53fe0e9b2 ""
   "C:/Users/milo-/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1000.pk" 1742747894 20028 3141e3ac8ff514eec6f9ea0588a791c6 ""
   "C:/Users/milo-/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1200.pk" 1742747893 24152 55b6c8077ed0b550d51c376e4fd806a8 ""
@@ -263,29 +263,30 @@
   "eiti/title-mgr.png" 1742742534 159242 751020a231f7be9fa6075071e8a203d8 ""
   "img/agile2.png" 1742749843 143401 e0a9bad26df7b5827958463e466d4106 ""
   "img/arras.png" 1743360431 216128 2c3ffc76b6404985027e8d6230969798 ""
+  "img/doswiadczenie.PNG" 1744305422 35949 16c48cf100b15f83b31b9f59b240f62e ""
   "img/organizacja_PL.png" 1742742534 51932 f709fc6f8f8f9b3f0b355b14cbea1cf3 ""
   "img/plc_PL.png" 1742742534 443253 eb6838a4ab2d2fcfc04ed3e2317b24bd ""
   "img/pmi_rezultaty_PL.png" 1742742534 96139 8ff890d87e81a391c085181e7e07da63 ""
   "img/pmos_PL.png" 1742742534 48059 8a3651089464d6db8af5eede78d598bb ""
   "img/projekt.png" 1742742534 114052 88fdfebdfa9cc8b66b035041224a622a ""
   "img/projekt2.png" 1742742534 110534 d7f3b6b833450c2f2004d478de60939e ""
+  "img/projekty.png" 1744305572 50803 c926aeb8e31fb805572d4cc50af5cbd1 ""
   "img/projektyzacja.png" 1742742534 44003 aae4a5022a8443b0264f0cf9655a8146 ""
   "img/rola.png" 1742742534 165502 841ac41f890a7b1ad2b0fe5b7752da43 ""
   "img/ryzyka3.png" 1744138789 81054 5d4817ecb2c7e137f5f6df066d03ad16 ""
   "img/waterfall_agile_PL.png" 1742750757 535544 00b565e80d13caae7dcf432112b842fd ""
   "img/wdr2_PL.png" 1742742534 34405 d16ef73f3d098610cbd48c5cd156414b ""
-  "kompetencje_radar.png" 0 -1 0 ""
-  "kompetencje_slupki.png" 0 -1 0 ""
-  "main.aux" 1744140385 33328 94472dcb3f761def59ad56eacd7e50ed "pdflatex"
+  "main.aux" 1744313374 33223 d0e4432825647c12c5aab8de635aad48 "pdflatex"
   "main.bbl" 1744138551 112595 060681db0b4f900b8f1f382eaa67c81f "biber main"
-  "main.out" 1744140385 8750 be17b07854e6da548832b9d32408bd20 "pdflatex"
+  "main.out" 1744313374 8568 da04fde3776e4d1fcbedaca06018be0d "pdflatex"
+  "main.run.xml" 1744313374 2351 c92fc97b5bf430cb88a802effa17be8a "pdflatex"
   "main.tex" 1742742534 3656 5915d4b6a6055fccb4d8e37454459d64 ""
-  "main.toc" 1744140385 4737 1505c3d3256500110794be3b262d1c2c "pdflatex"
+  "main.toc" 1744313374 4838 bcebb5846970f61449b34296b99e7661 "pdflatex"
   "tex/1-wstep.tex" 1743361826 4790 41dae5e0e955f945484dbff76843adbf ""
   "tex/2-charakterystyka-projektów.tex" 1743361826 14886 07817ac4609906ce2553068b49c79351 ""
   "tex/3-specyfika-projektow-informatycznych.tex" 1744138514 43158 46d5d94c53a74cbf8730fd9e99705a02 ""
   "tex/4-kierownik-projektu.tex" 1743361826 23063 fb06f08a15535b9b8a29f0e38e85dbed ""
-  "tex/5-ankieta.tex" 1744140309 4083 38f3407761f314b98343132b2d04fad0 ""
+  "tex/5-ankieta.tex" 1744313344 7734 97888b474e8b4db5b315498324070c6e ""
   (generated)
   "main.aux"
   "main.bcf"

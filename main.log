@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.23)  8 APR 2025 21:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.23)  10 APR 2025 21:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1172,7 +1172,11 @@ Package csquotes Info: Redefining alias 'default' -> 'polish'.
 
 Package biblatex Warning: Load 'inputenc' before biblatex.
 
-(main.aux)
+(main.aux
+
+LaTeX Warning: Label `tbl:excel-table' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
@@ -1285,6 +1289,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 Package hyperref Info: Link coloring ON on input line 21.
+ (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
@@ -1324,12 +1329,12 @@ Package hyperref Info: Link coloring ON on input line 21.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<eiti/header.png, id=6, 1003.49907pt x 506.6428pt>
+<eiti/header.png, id=186, 1003.49907pt x 506.6428pt>
 File: eiti/header.png Graphic file (type png)
 <use eiti/header.png>
 Package pdftex.def Info: eiti/header.png  used on input line 41.
 (pdftex.def)             Requested size: 438.17247pt x 221.22276pt.
-<eiti/title-mgr.png, id=8, 483.7272pt x 105.39375pt>
+<eiti/title-mgr.png, id=188, 483.7272pt x 105.39375pt>
 File: eiti/title-mgr.png Graphic file (type png)
 <use eiti/title-mgr.png>
 Package pdftex.def Info: eiti/title-mgr.png  used on input line 41.
@@ -1339,43 +1344,40 @@ Package pdftex.def Info: eiti/title-mgr.png  used on input line 41.
 {C:/Users/milo-/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./eiti/header.png> <./eiti/title-mgr.png>] [2
 
 
-]
-No file main.toc.
-\tf@toc=\write6
-\openout6 = `main.toc'.
-
-[3] [4
-
-
-] (tex/1-wstep.tex
-LaTeX Font Info:    Trying to load font information for FML+futmi on input line 5.
+] (main.toc
+LaTeX Font Info:    Trying to load font information for FML+futmi on input line 2.
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/fourier\fmlfutmi.fd
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 5.
+(Font)              scaled to size 11.03998pt on input line 2.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 5.
+(Font)              scaled to size 8.27998pt on input line 2.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 5.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
+(Font)              scaled to size 6.43999pt on input line 2.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 5.
+(Font)              scaled to size 11.03998pt on input line 2.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 5.
+(Font)              scaled to size 8.27998pt on input line 2.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 5.
+(Font)              scaled to size 6.43999pt on input line 2.
+ [3])
+\tf@toc=\write6
+\openout6 = `main.toc'.
+
+ [4] (tex/1-wstep.tex
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
 (Font)              scaled to size 9.19998pt on input line 5.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
@@ -1388,13 +1390,16 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 6.99199pt on input line 5.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 5.51999pt on input line 5.
- [5]) (tex/2-charakterystyka-projektów.tex [6]
-<img/projekt.png, id=62, 598.03426pt x 449.88075pt>
+ [5
+
+
+]) (tex/2-charakterystyka-projektów.tex [6]
+<img/projekt.png, id=287, 598.03426pt x 449.88075pt>
 File: img/projekt.png Graphic file (type png)
 <use img/projekt.png>
 Package pdftex.def Info: img/projekt.png  used on input line 13.
 (pdftex.def)             Requested size: 398.33858pt x 299.65433pt.
-<img/organizacja_PL.png, id=66, 428.19975pt x 172.2435pt>
+<img/organizacja_PL.png, id=291, 428.19975pt x 172.2435pt>
 File: img/organizacja_PL.png Graphic file (type png)
 <use img/organizacja_PL.png>
 Package pdftex.def Info: img/organizacja_PL.png  used on input line 20.
@@ -1404,7 +1409,7 @@ Overfull \hbox (17.07161pt too wide) in paragraph at lines 20--22
  [][] 
  []
 
-<img/projekt2.png, id=67, 662.475pt x 434.8245pt>
+<img/projekt2.png, id=292, 662.475pt x 434.8245pt>
 File: img/projekt2.png Graphic file (type png)
 <use img/projekt2.png>
 Package pdftex.def Info: img/projekt2.png  used on input line 27.
@@ -1427,12 +1432,12 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 13.24796pt on input line 40.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 7.35999pt on input line 40.
-<img/projektyzacja.png, id=116, 460.119pt x 296.7888pt>
+<img/projektyzacja.png, id=338, 460.119pt x 296.7888pt>
 File: img/projektyzacja.png Graphic file (type png)
 <use img/projektyzacja.png>
 Package pdftex.def Info: img/projektyzacja.png  used on input line 57.
 (pdftex.def)             Requested size: 398.33858pt x 256.94974pt.
-<img/pmos_PL.png, id=117, 723.30225pt x 175.857pt>
+<img/pmos_PL.png, id=339, 723.30225pt x 175.857pt>
 File: img/pmos_PL.png Graphic file (type png)
 <use img/pmos_PL.png>
 Package pdftex.def Info: img/pmos_PL.png  used on input line 64.
@@ -1444,7 +1449,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11] [12 <./img/projektyzacja.png> <./img/pmos_PL.png>]
-<img/pmi_rezultaty_PL.png, id=157, 651.6345pt x 303.534pt>
+<img/pmi_rezultaty_PL.png, id=378, 651.6345pt x 303.534pt>
 File: img/pmi_rezultaty_PL.png Graphic file (type png)
 <use img/pmi_rezultaty_PL.png>
 Package pdftex.def Info: img/pmi_rezultaty_PL.png  used on input line 76.
@@ -1460,7 +1465,7 @@ Overfull \hbox (0.32323pt too wide) in paragraph at lines 83--106
  []
 
 [13 <./img/pmi_rezultaty_PL.png>]
-<img/wdr2_PL.png, id=175, 354.123pt x 457.71pt>
+<img/wdr2_PL.png, id=394, 354.123pt x 457.71pt>
 File: img/wdr2_PL.png Graphic file (type png)
 <use img/wdr2_PL.png>
 Package pdftex.def Info: img/wdr2_PL.png  used on input line 151.
@@ -1481,13 +1486,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
  [18] [19]
-<img/plc_PL.png, id=284, 816.04875pt x 427.5975pt>
+<img/plc_PL.png, id=497, 816.04875pt x 427.5975pt>
 File: img/plc_PL.png Graphic file (type png)
 <use img/plc_PL.png>
 Package pdftex.def Info: img/plc_PL.png  used on input line 66.
 (pdftex.def)             Requested size: 438.17247pt x 229.59428pt.
  [20 <./img/plc_PL.png>] [21] [22]
-<img/agile2.png, id=391, 636.57825pt x 188.50426pt>
+<img/agile2.png, id=602, 636.57825pt x 188.50426pt>
 File: img/agile2.png Graphic file (type png)
 <use img/agile2.png>
 Package pdftex.def Info: img/agile2.png  used on input line 129.
@@ -1496,7 +1501,7 @@ Package pdftex.def Info: img/agile2.png  used on input line 129.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [23] [24 <./img/agile2.png>]
-<img/waterfall_agile_PL.png, id=433, 853.38824pt x 476.982pt>
+<img/waterfall_agile_PL.png, id=643, 853.38824pt x 476.982pt>
 File: img/waterfall_agile_PL.png Graphic file (type png)
 <use img/waterfall_agile_PL.png>
 Package pdftex.def Info: img/waterfall_agile_PL.png  used on input line 165.
@@ -1518,7 +1523,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 248--255
 Underfull \vbox (badness 4699) has occurred while \output is active []
 
  [29]
-<img/ryzyka3.png, id=516, 334.24875pt x 692.5875pt>
+<img/ryzyka3.png, id=722, 334.24875pt x 692.5875pt>
 File: img/ryzyka3.png Graphic file (type png)
 <use img/ryzyka3.png>
 Package pdftex.def Info: img/ryzyka3.png  used on input line 282.
@@ -1537,12 +1542,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--6
  []
 
 [35] [36]
-<img/rola.png, id=647, 515.526pt x 337.86224pt>
+<img/rola.png, id=845, 515.526pt x 337.86224pt>
 File: img/rola.png Graphic file (type png)
 <use img/rola.png>
 Package pdftex.def Info: img/rola.png  used on input line 30.
 (pdftex.def)             Requested size: 398.33858pt x 261.07237pt.
-<img/arras.png, id=661, 187.29974pt x 564.30824pt>
+<img/arras.png, id=859, 187.29974pt x 564.30824pt>
 File: img/arras.png Graphic file (type png)
 <use img/arras.png>
 Package pdftex.def Info: img/arras.png  used on input line 43.
@@ -1571,135 +1576,54 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [43]
-Underfull \vbox (badness 1394) has occurred while \output is active []
+Underfull \vbox (badness 5302) has occurred while \output is active []
 
- [44]) (tex/5-ankieta.tex [45]
+ [44]) (tex/5-ankieta.tex [45] [46]
+<img/doswiadczenie.PNG, id=998, 611.886pt x 197.538pt>
+File: img/doswiadczenie.PNG Graphic file (type png)
+<use img/doswiadczenie.PNG>
+Package pdftex.def Info: img/doswiadczenie.PNG  used on input line 23.
+(pdftex.def)             Requested size: 438.17247pt x 141.45862pt.
+<img/projekty.png, id=999, 710.655pt x 211.992pt>
+File: img/projekty.png Graphic file (type png)
+<use img/projekty.png>
+Package pdftex.def Info: img/projekty.png  used on input line 30.
+(pdftex.def)             Requested size: 438.17247pt x 130.71233pt.
+ [47 <./img/doswiadczenie.PNG> <./img/projekty.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Citation 'araujo2020it' on page 46 undefined on input line 7.
-
-
-LaTeX Warning: Citation '' on page 46 undefined on input line 7.
-
-
-LaTeX Warning: Citation '' on page 46 undefined on input line 7.
-
-
-tex/5-ankieta.tex:21: LaTeX Error: Unknown float option `H'.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 \begin{table}[H]
-                     
-Option `H' ignored and `p' used.
-
-
-tex/5-ankieta.tex:40: LaTeX Error: Unknown float option `H'.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 \begin{figure}[H]
-                      
-Option `H' ignored and `p' used.
-
-
-LaTeX Warning: File `kompetencje_slupki.png' not found on input line 42.
-
-
-tex/5-ankieta.tex:42: Package pdftex.def Error: File `kompetencje_slupki.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.42 ...dth=0.8\textwidth]{kompetencje_slupki.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-tex/5-ankieta.tex:52: LaTeX Error: Unknown float option `H'.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.52 \begin{figure}[H]
-                      
-Option `H' ignored and `p' used.
-
-
-LaTeX Warning: File `kompetencje_radar.png' not found on input line 54.
-
-
-tex/5-ankieta.tex:54: Package pdftex.def Error: File `kompetencje_radar.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.54 ...idth=0.8\textwidth]{kompetencje_radar.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[46]
-
-Package fancyhdr Warning: \headheight is too small (14.5pt): 
-(fancyhdr)                Make it at least 27.08203pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.08203pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.58203pt}.
-
-[47]
-Overfull \hbox (19.08621pt too wide) in paragraph at lines 81--81
+ [48]
+Overfull \hbox (19.08621pt too wide) in paragraph at lines 119--119
 [][]\T1/futs/m/n/12 (-20) Agile Al-liance. \T1/futs/m/it/12 (-20) Ma-ni-fe-sto for Agile So-ftware De-ve-lop-ment\T1/futs/m/n/12 (-20) . 2001. \T1/futs/m/sc/12 (-20) url\T1/futs/m/n/12 (-20) : [][]$\T1/cmtt/m/n/12 http : / / agilemanifesto .
  []
 
-[48] [49] [50] [51] [52] [53] [54] (main.aux)
+[49] [50] [51] [52] [53] [54] (main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: There were multiply-defined labels.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  BE17B07854E6DA548832B9D32408BD20;8750.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: DA04FDE3776E4D1FCBEDACA06018BE0D;8568.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) ) 
 Here is how much of TeX's memory you used:
- 41101 strings out of 474485
- 772259 string characters out of 5743734
+ 41357 strings out of 474485
+ 774990 string characters out of 5743734
  1949542 words of memory out of 5000000
- 61503 multiletter control sequences out of 15000+600000
- 733206 words of font info for 664 fonts, out of 8000000 for 9000
+ 61768 multiletter control sequences out of 15000+600000
+ 728128 words of font info for 655 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  123i,12n,121p,1996b,2381s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\milo-\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\milo-\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/public/fourier/fourier-ms.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/utopia/putb8a.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/utopia/putr8a.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on main.pdf (54 pages, 2327906 bytes).
+Output written on main.pdf (54 pages, 2436505 bytes).
 PDF statistics:
- 1182 PDF objects out of 1200 (max. 8388607)
- 469 named destinations out of 1000 (max. 500000)
- 115800 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 1362 PDF objects out of 1440 (max. 8388607)
+ 468 named destinations out of 1000 (max. 500000)
+ 110026 words of extra memory for PDF output out of 128383 (max. 10000000)
 

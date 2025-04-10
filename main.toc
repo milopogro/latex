@@ -34,13 +34,13 @@
 \contentsline {subsubsection}{\numberline {4.3.4\relax .\enspace }Umiejętności zarządcze}{41}{subsubsection.4.3.4}%
 \contentsline {subsubsection}{\numberline {4.3.5\relax .\enspace }Umiejętności techniczne}{42}{subsubsection.4.3.5}%
 \contentsline {subsection}{\numberline {4.4\relax .\enspace }Znaczenie wiedzy z zakresu inżynierii oprogramowania dla kierownika projektu}{42}{subsection.4.4}%
-\contentsline {section}{Rozdział X: Analiza badania dotyczącego kompetencji kierownika projektu informatycznego}{46}{section*.18}%
-\contentsline {subsection}{1. Cel badania}{46}{subsection*.19}%
-\contentsline {subsection}{2. Metodologia}{46}{subsection*.20}%
-\contentsline {subsection}{3. Charakterystyka próby}{46}{subsection*.21}%
-\contentsline {subsection}{4. Wyniki ilościowe}{46}{subsection*.22}%
-\contentsline {subsubsection}{4.1 Porównanie średnich ocen kompetencji}{46}{subsubsection*.23}%
-\contentsline {subsubsection}{4.2 Analiza szczegółowa}{46}{subsubsection*.26}%
-\contentsline {subsection}{5. Wyniki jakościowe}{48}{subsection*.28}%
-\contentsline {subsection}{6. Wnioski}{48}{subsection*.29}%
-\contentsline {section}{Bibliografia}{48}{section*.30}%
+\contentsline {section}{\numberline {5\relax .\enspace }Badanie ankietowe wśród pracowników branży IT}{46}{section.5}%
+\contentsline {subsection}{\numberline {5.1\relax .\enspace }Cel badania}{46}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2\relax .\enspace }Metodologia oraz opis badania}{46}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3\relax .\enspace }Charakterystyka próby}{47}{subsection.5.3}%
+\contentsline {subsection}{4. Wyniki ilościowe}{47}{subsection*.20}%
+\contentsline {subsubsection}{4.1 Porównanie średnich ocen kompetencji}{49}{subsubsection*.21}%
+\contentsline {subsubsection}{4.2 Analiza szczegółowa}{49}{subsubsection*.22}%
+\contentsline {subsection}{5. Wyniki jakościowe}{49}{subsection*.23}%
+\contentsline {subsection}{6. Wnioski}{49}{subsection*.24}%
+\contentsline {section}{Bibliografia}{49}{section*.25}%
