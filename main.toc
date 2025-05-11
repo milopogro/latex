@@ -5,42 +5,53 @@
 \contentsline {subsection}{\numberline {2.2\relax .\enspace }Żelazny trójkąt projektu}{9}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3\relax .\enspace }Projektyzacja}{11}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4\relax .\enspace }Rezultaty projektów}{13}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5\relax .\enspace }Projekty informatyczne w kontekście rosnącej liczby projektów}{13}{subsection.2.5}%
-\contentsline {section}{\numberline {3\relax .\enspace }Specyfika projektów informatycznych}{16}{section.3}%
-\contentsline {subsection}{\numberline {3.1\relax .\enspace }Niechęć do projektów informatycznych}{17}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2\relax .\enspace }Cykl życia w projektach informatycznych}{18}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1\relax .\enspace }Cykl życia projektu}{18}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2\relax .\enspace }Cykl życia produktu}{19}{subsubsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.3\relax .\enspace }Integracja PLC i SDLC w projektach informatycznych}{19}{subsubsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.3\relax .\enspace }Modele SDLC}{20}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1\relax .\enspace }Model kaskadowy}{22}{subsubsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.2\relax .\enspace }Agile}{23}{subsubsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.4\relax .\enspace }Różnorodne technologie}{26}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5\relax .\enspace }Specjaliści IT}{26}{subsection.3.5}%
-\contentsline {subsection}{\numberline {3.6\relax .\enspace }Ryzyka w projektach IT}{27}{subsection.3.6}%
-\contentsline {subsubsection}{\numberline {3.6.1\relax .\enspace }Czasowy model ryzyk}{28}{subsubsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.7\relax .\enspace }Ewaluacja projektów informatycznych}{30}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8\relax .\enspace }Ostatnie trendy w projektach informatycznych}{32}{subsection.3.8}%
-\contentsline {subsubsection}{\numberline {3.8.1\relax .\enspace }Globalizacja}{32}{subsubsection.3.8.1}%
-\contentsline {subsubsection}{\numberline {3.8.2\relax .\enspace }Outsourcing}{33}{subsubsection.3.8.2}%
-\contentsline {subsubsection}{\numberline {3.8.3\relax .\enspace }Zespoły zdalne}{34}{subsubsection.3.8.3}%
-\contentsline {section}{\numberline {4\relax .\enspace }Kierownik projektu}{35}{section.4}%
-\contentsline {subsection}{\numberline {4.1\relax .\enspace }Kierownik projektu}{35}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2\relax .\enspace }Role i zadania kierownika projektu}{35}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3\relax .\enspace }Kompetencje kierownika projektu}{37}{subsection.4.3}%
-\contentsline {subsubsection}{\numberline {4.3.1\relax .\enspace }Komunikacja}{38}{subsubsection.4.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.2\relax .\enspace }Przywództwo}{40}{subsubsection.4.3.2}%
-\contentsline {subsubsection}{\numberline {4.3.3\relax .\enspace }Zarządzanie sobą (ang. Self-management)}{41}{subsubsection.4.3.3}%
-\contentsline {subsubsection}{\numberline {4.3.4\relax .\enspace }Umiejętności zarządcze}{41}{subsubsection.4.3.4}%
-\contentsline {subsubsection}{\numberline {4.3.5\relax .\enspace }Umiejętności techniczne}{42}{subsubsection.4.3.5}%
-\contentsline {subsection}{\numberline {4.4\relax .\enspace }Znaczenie wiedzy z zakresu inżynierii oprogramowania dla kierownika projektu}{42}{subsection.4.4}%
-\contentsline {section}{\numberline {5\relax .\enspace }Badanie ankietowe wśród pracowników branży IT}{46}{section.5}%
-\contentsline {subsection}{\numberline {5.1\relax .\enspace }Cel badania}{46}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2\relax .\enspace }Metodologia oraz opis badania}{46}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3\relax .\enspace }Charakterystyka próby}{47}{subsection.5.3}%
-\contentsline {subsection}{4. Wyniki ilościowe}{47}{subsection*.20}%
-\contentsline {subsubsection}{4.1 Porównanie średnich ocen kompetencji}{49}{subsubsection*.21}%
-\contentsline {subsubsection}{4.2 Analiza szczegółowa}{49}{subsubsection*.22}%
-\contentsline {subsection}{5. Wyniki jakościowe}{49}{subsection*.23}%
-\contentsline {subsection}{6. Wnioski}{49}{subsection*.24}%
-\contentsline {section}{Bibliografia}{49}{section*.25}%
+\contentsline {subsection}{\numberline {2.5\relax .\enspace }Projekty informatyczne w kontekście rosnącej liczby projektów}{14}{subsection.2.5}%
+\contentsline {section}{\numberline {3\relax .\enspace }Specyfika projektów informatycznych}{17}{section.3}%
+\contentsline {subsection}{\numberline {3.1\relax .\enspace }Niechęć do projektów informatycznych}{18}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2\relax .\enspace }Cykl życia w projektach informatycznych}{19}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1\relax .\enspace }Cykl życia projektu}{19}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2\relax .\enspace }Cykl życia produktu}{20}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3\relax .\enspace }Integracja PLC i SDLC w projektach informatycznych}{21}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3\relax .\enspace }Modele SDLC}{21}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1\relax .\enspace }Model kaskadowy}{24}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2\relax .\enspace }Agile}{25}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4\relax .\enspace }Różnorodne technologie}{28}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5\relax .\enspace }Specjaliści IT}{29}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6\relax .\enspace }Ryzyka w projektach IT}{29}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1\relax .\enspace }Czasowy model ryzyk}{31}{subsubsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.7\relax .\enspace }Ewaluacja projektów informatycznych}{35}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8\relax .\enspace }Ostatnie trendy w projektach informatycznych}{36}{subsection.3.8}%
+\contentsline {subsubsection}{\numberline {3.8.1\relax .\enspace }Globalizacja}{36}{subsubsection.3.8.1}%
+\contentsline {subsubsection}{\numberline {3.8.2\relax .\enspace }Outsourcing}{37}{subsubsection.3.8.2}%
+\contentsline {subsubsection}{\numberline {3.8.3\relax .\enspace }Zespoły zdalne}{37}{subsubsection.3.8.3}%
+\contentsline {section}{\numberline {4\relax .\enspace }Kierownik projektu}{39}{section.4}%
+\contentsline {subsection}{\numberline {4.1\relax .\enspace }Kierownik projektu}{39}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2\relax .\enspace }Role i zadania kierownika projektu}{39}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3\relax .\enspace }Kompetencje kierownika projektu}{42}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1\relax .\enspace }Komunikacja}{44}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2\relax .\enspace }Przywództwo}{45}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3\relax .\enspace }Zarządzanie sobą (ang. Self-management)}{45}{subsubsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.4\relax .\enspace }Umiejętności zarządcze}{46}{subsubsection.4.3.4}%
+\contentsline {subsubsection}{\numberline {4.3.5\relax .\enspace }Umiejętności techniczne}{46}{subsubsection.4.3.5}%
+\contentsline {subsection}{\numberline {4.4\relax .\enspace }Znaczenie wiedzy z zakresu inżynierii oprogramowania dla kierownika projektu}{47}{subsection.4.4}%
+\contentsline {section}{\numberline {5\relax .\enspace }Badanie ankietowe wśród pracowników branży IT}{51}{section.5}%
+\contentsline {subsection}{\numberline {5.1\relax .\enspace }Cel badania}{51}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2\relax .\enspace }Metodologia oraz opis badania}{51}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3\relax .\enspace }Charakterystyka próby}{52}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4\relax .\enspace }Wyniki badania}{52}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1\relax .\enspace }Porównanie średnich ocen kompetencji}{52}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2\relax .\enspace }Ocena wymaganego doświadczenia technicznego kierownika projektu}{55}{subsubsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.5\relax .\enspace }Wpływ wiedzy z zakresu inżynierii oprogramowania na zarządzanie projektem informatycznym}{56}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6\relax .\enspace }Negatywny wpływ braku wiedzy technicznej na zarządzanie projektem informatycznym}{59}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7\relax .\enspace }Zagrożenia wynikające z nadmiernego skupienia się kierownika projektu na aspektach technicznych}{60}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8\relax .\enspace }Wnioski}{61}{subsection.5.8}%
+\contentsline {section}{\numberline {6\relax .\enspace }Podsumowanie i wnioski końcowe}{63}{section.6}%
+\contentsline {subsection}{\numberline {6.1\relax .\enspace }Złożoność roli kierownika projektu IT}{63}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2\relax .\enspace }Najważniejsze wyniki badania empirycznego}{64}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3\relax .\enspace }Odpowiedź na pytanie badawcze}{65}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4\relax .\enspace }Rekomendacje i znaczenie praktyczne}{66}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5\relax .\enspace }Zakończenie}{66}{subsection.6.5}%
+\contentsline {section}{Bibliografia}{67}{section*.27}%
+\contentsline {section}{Spis rysunków}{71}{section*.27}%
+\contentsline {section}{Spis tabel}{72}{section*.27}%
+\contentsline {section}{Spis załączników}{72}{section*.28}%

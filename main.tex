@@ -13,7 +13,6 @@
     bindingoffset=6mm,  % Optional binding offset.
     nohyphenation=false % You may turn off hyphenation, if don't like.
 ]{eiti/eiti-thesis}
-
 \langpol % Dla języka angielskiego mamy \langeng
 \graphicspath{{img/}}             % Katalog z obrazkami.
 \addbibresource{bibliografia.bib} % Plik .bib z bibliografią
@@ -52,6 +51,8 @@ Czy kierownik projektu informatycznego powinien \\być specjalistą do spraw in�
 %--------------------------------------
 \cleardoublepage % Zaczynamy od nieparzystej strony
 \pagestyle{headings}
+\renewcommand*{\bibfont}{\fontsize{10pt}{12pt}\selectfont}
+
 
 \input{tex/1-wstep}         % Wygodnie jest trzymać każdy rozdział w osobnym pliku.
 \input{tex/2-charakterystyka-projektów}    % Umożliwia to również łatwą migrację do nowej wersji szablonu:
@@ -82,16 +83,24 @@ Czy kierownik projektu informatycznego powinien \\być specjalistą do spraw in�
 % zapewniając podstawowe formatowanie.
 % //AB
 \vspace{0.8cm}
-\acronymlist
-\acronym{EiTI}{Wydział Elektroniki i Technik Informacyjnych}
-\acronym{PW}{Politechnika Warszawska}
-\acronym{WEIRD}{ang. \emph{Western, Educated, Industrialized, Rich and Democratic}}
 
 \listoffigurestoc     % Spis rysunków.
 \vspace{1cm}          % vertical space
 \listoftablestoc      % Spis tabel.
 \vspace{1cm}          % vertical space
 \listofappendicestoc  % Spis załączników
+
+\newpage % Zaczynamy od nieparzystej strony
+\streszczenie
+
+Celem niniejszej pracy magisterskiej było zbadanie, czy i w jakim zakresie kierownik projektu informatycznego powinien posiadać kompetencje z zakresu inżynierii oprogramowania. W pierwszej części przeprowadzono kompleksową analizę literatury przedmiotu, uwzględniającą zarówno klasyczne podejścia zarządcze (PMBOK, PRINCE2), jak i specyfikę cyklu życia oprogramowania (SDLC, Agiles). Wskazano, że projekty informatyczne charakteryzują się wysoką dynamiką zmian, przyrostowością wymagań oraz złożonością technologiczną, co wymaga od kierownika umiejętności łączenia perspektywy biznesowej z kontekstem technicznym.
+
+W części empirycznej przeprowadzono anonimową ankietę wśród 30 pracowników branży IT (programiści, kierownicy projektów, testerzy), w której oceniano znaczenie różnych kompetencji kierownika projektu w skali Likerta oraz zadawano pytania otwarte dotyczące dotychczasowych doświadczeń. Wyniki wykazały, że najwyżej cenione są kompetencje interpersonalne i komunikacyjne, a także umiejętności przywódcze i organizacyjne. Kompetencje techniczne otrzymały znacznie niższe oceny, jednak respondenci podkreślali wartość podstawowego rozumienia cyklu życia oprogramowania i formułowania wymagań jako wsparcia efektywnej współpracy i zarządzania ryzykiem.
+
+Analiza otwartych odpowiedzi ujawniła dwa główne zagrożenia: brak wiedzy technicznej prowadzi do opóźnień i błędnych decyzji, natomiast nadmierne zaangażowanie kierownika projektu informatycznego w szczegóły techniczne skutkuje mikrozarządzaniem i overengineeringiem. W odpowiedzi na te wyzwania sformułowano rekomendacje: priorytet kompetencji miękkich oraz elastyczne podejście do zakresu wiedzy z zakresu inżynierii oprogramowania w przypadku kierownika projektu.
+
+Wnioski pracy wskazują, że skuteczny kierownik projektu informatycznego pełni rolę mediatora pomiędzy światem biznesu a zespołem technicznym, łącząc zdolności komunikacyjne i przywódcze z adekwatną do złożoności projektu wiedzą inżynierską. Taki model kompetencji sprzyja osiąganiu celów biznesowych przy zachowaniu wysokiej jakości rozwiązań technologicznych.
+%oświadczenie
 
 % Używając powyższych spisów jako szablonu,
 % możesz tu dodać swój własny wykaz bądź listę,

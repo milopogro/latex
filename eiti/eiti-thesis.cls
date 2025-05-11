@@ -43,8 +43,7 @@
 ]{caption}
 \RequirePackage{chngcntr}   % Per-section counters
 \RequirePackage{enumitem}   % Itemize/enumrate
-\RequirePackage{fancyhdr}   % Custom header/footer styles
-\RequirePackage{fourier}    % Adobe Utopia font
+\RequirePackage{fancyhdr}   % Custom header/footer styles   % Adobe Utopia font
 \RequirePackage{graphicx}   % Enhanced images support
 \RequirePackage{ifluatex}   % LuaTeX-specific options
 \RequirePackage{ifpdf}      % pdfTeX-specific options
@@ -60,25 +59,22 @@
 \RequirePackage{url}        % URL-sensitive line breaks
 \RequirePackage{xkeyval}    % Keys and class parameters
 \RequirePackage{xspace}     % Remove duplicated spaces
+\usepackage[utf8]{inputenc}
 \RequirePackage{csquotes}
 \RequirePackage[style=verbose-ibid,backend=biber]{biblatex}
 \RequirePackage{graphicx}
 \RequirePackage[table]{xcolor}
 \usepackage{adjustbox}
-\usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{booktabs}    % ładne linie w tabeli
 \usepackage{url}         % do wyświetlania URL w przypisach
-\usepackage{caption}     % ładniejsze podpisy pod tabelami/rysunkami
 \usepackage{pgf-pie}
 \usepackage{graphicx}
-\usepackage{caption}
 \usepackage{xcolor}
 \usepackage{rotating}
-\usepackage[utf8]{inputenc}
 \usepackage{colortbl}
-\usepackage{booktabs}
 \usepackage[polish]{babel}
+\usepackage{newtxtext,newtxmath}
 \newcolumntype{C}{>{\centering\arraybackslash}m{2cm}}
 
 %--------------------------------------
@@ -191,7 +187,7 @@
 %--------------------------------
 % Initial setup
 %--------------------------------
-\setstretch{1.2}
+\setstretch{1.5}
 \counterwithin{figure}{section}
 \counterwithin{table}{section}
 
