@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.11)  11 MAY 2025 15:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.11)  11 MAY 2025 15:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1042,6 +1042,39 @@ LaTeX Info: Redefining \Bbbk on input line 2847.
 LaTeX Info: Redefining \not on input line 2995.
 LaTeX Info: Redefining \textsquare on input line 3025.
 LaTeX Info: Redefining \openbox on input line 3027.
+) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2025/03/12 v0.6f Insert pages of external PDF documents (AM)
+ (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count493
+\calc@Bcount=\count494
+\calc@Adimen=\dimen325
+\calc@Bdimen=\dimen326
+\calc@Askip=\skip136
+\calc@Bskip=\skip137
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count495
+\calc@Cskip=\skip138
+) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen327
+\ESO@tempdimb=\dimen328
+)
+\AM@pagewidth=\dimen329
+\AM@pageheight=\dimen330
+\AM@fboxrule=\dimen331
+ (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2025/03/12 v0.6f Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count496
+\AM@pagebox=\box79
+\AM@global@opts=\toks56
+\AM@pagecnt=\count497
+\AM@toc@title=\toks57
+\AM@lof@heading=\toks58
+\c@AM@survey=\count498
+\AM@templatesizebox=\box80
 ) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+minntx on input line 116.
@@ -1052,23 +1085,23 @@ LaTeX Font Info:    Font shape `T1/minntx/m/n' will be
 (Font)              scaled to size 12.0pt on input line 116.
 ) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
 Package: microtype 2025/02/11 v3.2a Micro-typographical refinements (RS)
-\MT@toks=\toks56
-\MT@tempbox=\box79
-\MT@count=\count493
+\MT@toks=\toks59
+\MT@tempbox=\box81
+\MT@count=\count499
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
 LaTeX Info: Redefining \leftprotrusion on input line 1088.
-\MT@prot@toks=\toks57
+\MT@prot@toks=\toks60
 LaTeX Info: Redefining \rightprotrusion on input line 1107.
 LaTeX Info: Redefining \textls on input line 1449.
-\MT@outer@kern=\dimen325
+\MT@outer@kern=\dimen332
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
-\MT@listname@count=\count494
+\MT@listname@count=\count500
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdftex.def
 File: microtype-pdftex.def 2025/02/11 v3.2a Definitions specific to pdftex (RS)
 LaTeX Info: Redefining \lsstyle on input line 944.
 LaTeX Info: Redefining \lslig on input line 944.
-\MT@outer@space=\skip136
+\MT@outer@space=\skip139
 )
 Package microtype Info: Loading configuration file microtype.cfg.
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
@@ -1090,13 +1123,13 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count495
+\c@section@level=\count501
 ) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
-\@linkdim=\dimen326
-\Hy@linkcounter=\count496
-\Hy@pagecounter=\count497
+\@linkdim=\dimen333
+\Hy@linkcounter=\count502
+\Hy@pagecounter=\count503
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -1104,7 +1137,7 @@ Now handling font encoding PD1 ...
 ) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count498
+\Hy@SavedSpaceFactor=\count504
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -1117,17 +1150,17 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count499
+\c@Hy@tempcnt=\count505
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen327
+\XeTeXLinkMargin=\dimen334
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count500
-\Field@Width=\dimen328
-\Fld@charsize=\dimen329
+\Fld@menulength=\count506
+\Field@Width=\dimen335
+\Fld@charsize=\dimen336
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -1139,9 +1172,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count501
-\c@Item=\count502
-\c@Hfootnote=\count503
+\Hy@abspage=\count507
+\c@Item=\count508
+\c@Hfootnote=\count509
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
@@ -1150,8 +1183,8 @@ File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count504
-\c@bookmark@seq@number=\count505
+\Fld@listcount=\count510
+\c@bookmark@seq@number=\count511
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
@@ -1159,33 +1192,33 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip137
+\Hy@SectionHShift=\skip140
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 163.
+Package hyperref Info: Option `colorlinks' set `true' on input line 164.
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count506
-\Gm@cntv=\count507
-\c@Gm@tempcnt=\count508
-\Gm@bindingoffset=\dimen330
-\Gm@wd@mp=\dimen331
-\Gm@odd@mp=\dimen332
-\Gm@even@mp=\dimen333
-\Gm@layoutwidth=\dimen334
-\Gm@layoutheight=\dimen335
-\Gm@layouthoffset=\dimen336
-\Gm@layoutvoffset=\dimen337
-\Gm@dimlist=\toks58
+\Gm@cnth=\count512
+\Gm@cntv=\count513
+\c@Gm@tempcnt=\count514
+\Gm@bindingoffset=\dimen337
+\Gm@wd@mp=\dimen338
+\Gm@odd@mp=\dimen339
+\Gm@even@mp=\dimen340
+\Gm@layoutwidth=\dimen341
+\Gm@layoutheight=\dimen342
+\Gm@layouthoffset=\dimen343
+\Gm@layoutvoffset=\dimen344
+\Gm@dimlist=\toks61
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)))
-\c@theorem=\count509
-\c@lemma=\count510
-\c@corollary=\count511
-\c@definition=\count512
-\c@axiom=\count513
-\c@assumption=\count514
+\c@theorem=\count515
+\c@lemma=\count516
+\c@corollary=\count517
+\c@definition=\count518
+\c@axiom=\count519
+\c@assumption=\count520
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -1251,29 +1284,29 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: rotating package is loaded.
 Package caption Info: scrextend package is loaded.
-\caption@addmargin@hsize=\dimen338
-\caption@addmargin@linewidth=\dimen339
+\caption@addmargin@hsize=\dimen345
+\caption@addmargin@linewidth=\dimen346
 Package caption Info: End \AtBeginDocument code.
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count515
-\scratchdimen=\dimen340
-\scratchbox=\box80
-\nofMPsegments=\count516
-\nofMParguments=\count517
-\everyMPshowfont=\toks59
-\MPscratchCnt=\count518
-\MPscratchDim=\dimen341
-\MPnumerator=\count519
-\makeMPintoPDFobject=\count520
-\everyMPtoPDFconversion=\toks60
+\scratchcounter=\count521
+\scratchdimen=\dimen347
+\scratchbox=\box82
+\nofMPsegments=\count522
+\nofMParguments=\count523
+\everyMPshowfont=\toks62
+\MPscratchCnt=\count524
+\MPscratchDim=\dimen348
+\MPnumerator=\count525
+\makeMPintoPDFobject=\count526
+\everyMPtoPDFconversion=\toks63
 ) (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@lstlisting=\count521
+\c@lstlisting=\count527
 Package biblatex Info: Trying to load language 'polish'...
 Package biblatex Info: ... file 'polish.lbx' found.
  (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\polish.lbx
@@ -1289,11 +1322,20 @@ Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
 Package biblatex Info: Reference section=0 on input line 20.
 Package biblatex Info: Reference segment=0 on input line 20.
-\c@mv@tabular=\count522
-\c@mv@boldtabular=\count523
+\c@mv@tabular=\count528
+\c@mv@boldtabular=\count529
+ (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+ (C:\Users\milo-\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
 Package microtype Info: Patching varwidth to enable character protrusion.
-\MT@vwid@leftmargin=\dimen342
-\MT@vwid@rightmargin=\dimen343
+\MT@vwid@leftmargin=\dimen349
+\MT@vwid@rightmargin=\dimen350
 LaTeX Info: Redefining \microtypecontext on input line 20.
 Package microtype Info: Applying patch `item' on input line 20.
 Package microtype Info: Applying patch `toc' on input line 20.
@@ -1355,39 +1397,56 @@ Package hyperref Info: Link coloring ON on input line 20.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<eiti/header.png, id=228, 1003.49907pt x 506.6428pt>
-File: eiti/header.png Graphic file (type png)
-<use eiti/header.png>
-Package pdftex.def Info: eiti/header.png  used on input line 40.
-(pdftex.def)             Requested size: 438.17247pt x 221.22276pt.
-<eiti/title-mgr.png, id=230, 483.7272pt x 105.39375pt>
-File: eiti/title-mgr.png Graphic file (type png)
-<use eiti/title-mgr.png>
-Package pdftex.def Info: eiti/title-mgr.png  used on input line 40.
-(pdftex.def)             Requested size: 438.17247pt x 95.4694pt.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 40.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 20.74pt on input line 40.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+pdfTeX warning: pdflatex (file ./img/strona_tytułowa.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<img/strona_tytułowa.pdf, id=228, 597.55246pt x 845.07724pt>
+File: img/strona_tytułowa.pdf Graphic file (type pdf)
+<use img/strona_tytułowa.pdf>
+Package pdftex.def Info: img/strona_tytułowa.pdf  used on input line 28.
+(pdftex.def)             Requested size: 597.551pt x 845.07518pt.
 
+
+pdfTeX warning: pdflatex (file ./img/strona_tytułowa.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./img/strona_tytułowa.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<img/strona_tytułowa.pdf, id=230, page=1, 597.55246pt x 845.07724pt>
+File: img/strona_tytułowa.pdf Graphic file (type pdf)
+<use img/strona_tytułowa.pdf, page 1>
+Package pdftex.def Info: img/strona_tytułowa.pdf , page1 used on input line 28.
+(pdftex.def)             Requested size: 597.551pt x 845.07518pt.
+File: img/strona_tytułowa.pdf Graphic file (type pdf)
+<use img/strona_tytułowa.pdf, page 1>
+Package pdftex.def Info: img/strona_tytułowa.pdf , page1 used on input line 28.
+(pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
+File: img/strona_tytułowa.pdf Graphic file (type pdf)
+<use img/strona_tytułowa.pdf, page 1>
+Package pdftex.def Info: img/strona_tytułowa.pdf , page1 used on input line 28.
+(pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
+File: img/strona_tytułowa.pdf Graphic file (type pdf)
+<use img/strona_tytułowa.pdf, page 1>
+Package pdftex.def Info: img/strona_tytułowa.pdf , page1 used on input line 28.
+(pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
+
+
+File: img/strona_tytułowa.pdf Graphic file (type pdf)
+<use img/strona_tytułowa.pdf, page 1>
+Package pdftex.def Info: img/strona_tytułowa.pdf , page1 used on input line 28.
+(pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
 [1
 
-{C:/Users/milo-/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc} <./eiti/header.png> <./eiti/title-mgr.png>]
 
-[1]
+ <./img/strona_tytułowa.pdf>]
 
 [2
 
 
 ]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 17.28pt on input line 47.
+(Font)              scaled to size 17.28pt on input line 35.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 17.28pt on input line 47.
+(Font)              scaled to size 17.28pt on input line 35.
  (main.toc
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 12.0pt on input line 2.
@@ -1473,7 +1532,7 @@ LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 (Font)              scaled to size 6.6pt on input line 2.
 
 
-[3])
+[3{C:/Users/milo-/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
@@ -1548,19 +1607,19 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.95pt on input line 12.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 10.95pt on input line 12.
-<img/projekt.png, id=347, 598.03426pt x 449.88075pt>
+<img/projekt.png, id=351, 598.03426pt x 449.88075pt>
 File: img/projekt.png Graphic file (type png)
 <use img/projekt.png>
 Package pdftex.def Info: img/projekt.png  used on input line 13.
 (pdftex.def)             Requested size: 398.33858pt x 299.65433pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 10.95pt on input line 14.
-<img/organizacja_PL.png, id=351, 428.19975pt x 172.2435pt>
+<img/organizacja_PL.png, id=356, 428.19975pt x 172.2435pt>
 File: img/organizacja_PL.png Graphic file (type png)
 <use img/organizacja_PL.png>
 Package pdftex.def Info: img/organizacja_PL.png  used on input line 20.
 (pdftex.def)             Requested size: 426.79134pt x 171.68062pt.
-<img/projekt2.png, id=352, 662.475pt x 434.8245pt>
+<img/projekt2.png, id=357, 662.475pt x 434.8245pt>
 File: img/projekt2.png Graphic file (type png)
 <use img/projekt2.png>
 Package pdftex.def Info: img/projekt2.png  used on input line 27.
@@ -1591,6 +1650,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [9 <./img/organizacja_PL.png>]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 14.4pt on input line 40.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
 (Font)              scaled to size 14.4pt on input line 40.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
@@ -1642,12 +1703,12 @@ LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 
 
 [10{C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc} <./img/projekt2.png>]
-<img/projektyzacja.png, id=405, 460.119pt x 296.7888pt>
+<img/projektyzacja.png, id=411, 460.119pt x 296.7888pt>
 File: img/projektyzacja.png Graphic file (type png)
 <use img/projektyzacja.png>
 Package pdftex.def Info: img/projektyzacja.png  used on input line 57.
 (pdftex.def)             Requested size: 398.33858pt x 256.94974pt.
-<img/pmos_PL.png, id=406, 723.30225pt x 175.857pt>
+<img/pmos_PL.png, id=412, 723.30225pt x 175.857pt>
 File: img/pmos_PL.png Graphic file (type png)
 <use img/pmos_PL.png>
 Package pdftex.def Info: img/pmos_PL.png  used on input line 64.
@@ -1660,7 +1721,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [12 <./img/projektyzacja.png>]
-<img/pmi_rezultaty_PL.png, id=437, 651.6345pt x 303.534pt>
+<img/pmi_rezultaty_PL.png, id=442, 651.6345pt x 303.534pt>
 File: img/pmi_rezultaty_PL.png Graphic file (type png)
 <use img/pmi_rezultaty_PL.png>
 Package pdftex.def Info: img/pmi_rezultaty_PL.png  used on input line 76.
@@ -1671,11 +1732,14 @@ Overfull \hbox (17.07161pt too wide) in paragraph at lines 76--77
  []
 
 
+Underfull \vbox (badness 1178) has occurred while \output is active []
+
+
 
 [13 <./img/pmos_PL.png> <./img/pmi_rezultaty_PL.png>]
 
 [14]
-<img/wdr2_PL.png, id=460, 354.123pt x 457.71pt>
+<img/wdr2_PL.png, id=465, 354.123pt x 457.71pt>
 File: img/wdr2_PL.png Graphic file (type png)
 <use img/wdr2_PL.png>
 Package pdftex.def Info: img/wdr2_PL.png  used on input line 151.
@@ -1687,7 +1751,7 @@ Package pdftex.def Info: img/wdr2_PL.png  used on input line 151.
 [16 <./img/wdr2_PL.png>]
 
 [17]
-Underfull \vbox (badness 4467) has occurred while \output is active []
+Underfull \vbox (badness 2809) has occurred while \output is active []
 
 
 
@@ -1706,54 +1770,58 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [20{C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
-<img/plc_PL.png, id=556, 816.04875pt x 427.5975pt>
+<img/plc_PL.png, id=562, 816.04875pt x 427.5975pt>
 File: img/plc_PL.png Graphic file (type png)
 <use img/plc_PL.png>
 Package pdftex.def Info: img/plc_PL.png  used on input line 66.
 (pdftex.def)             Requested size: 438.17247pt x 229.59428pt.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [21]
+Underfull \vbox (badness 3323) has occurred while \output is active []
+
+
 
 [22 <./img/plc_PL.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3872) has occurred while \output is active []
 
 
 
 [23]
-Underfull \vbox (badness 4467) has occurred while \output is active []
+Underfull \vbox (badness 3029) has occurred while \output is active []
 
 
 
 [24]
-Underfull \vbox (badness 1968) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [25]
-<img/agile2.png, id=682, 636.57825pt x 188.50426pt>
+<img/agile2.png, id=685, 636.57825pt x 188.50426pt>
 File: img/agile2.png Graphic file (type png)
 <use img/agile2.png>
 Package pdftex.def Info: img/agile2.png  used on input line 129.
 (pdftex.def)             Requested size: 438.17247pt x 129.75455pt.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 12.0pt on input line 139.
 
 
 [26 <./img/agile2.png>]
-<img/waterfall_agile_PL.png, id=710, 853.38824pt x 476.982pt>
-File: img/waterfall_agile_PL.png Graphic file (type png)
-<use img/waterfall_agile_PL.png>
-Package pdftex.def Info: img/waterfall_agile_PL.png  used on input line 165.
-(pdftex.def)             Requested size: 438.17247pt x 244.90973pt.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 12.0pt on input line 139.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1043) has occurred while \output is active []
 
 
 
 [27]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+<img/waterfall_agile_PL.png, id=724, 853.38824pt x 476.982pt>
+File: img/waterfall_agile_PL.png Graphic file (type png)
+<use img/waterfall_agile_PL.png>
+Package pdftex.def Info: img/waterfall_agile_PL.png  used on input line 165.
+(pdftex.def)             Requested size: 438.17247pt x 244.90973pt.
 
 
 [28 <./img/waterfall_agile_PL.png>]
@@ -1769,33 +1837,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 248--255
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [31]
+Underfull \vbox (badness 6412) has occurred while \output is active []
+
+
 
 [32]
-<img/ryzyka3.png, id=796, 334.24875pt x 692.5875pt>
-File: img/ryzyka3.png Graphic file (type png)
-<use img/ryzyka3.png>
-Package pdftex.def Info: img/ryzyka3.png  used on input line 281.
-(pdftex.def)             Requested size: 219.08623pt x 453.97046pt.
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [33]
+<img/ryzyka3.png, id=813, 334.24875pt x 692.5875pt>
+File: img/ryzyka3.png Graphic file (type png)
+<use img/ryzyka3.png>
+Package pdftex.def Info: img/ryzyka3.png  used on input line 281.
+(pdftex.def)             Requested size: 219.08623pt x 453.97046pt.
 
-[34 <./img/ryzyka3.png>]
+
+[34]
+
+[35 <./img/ryzyka3.png>]
+
+[36]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-
-[35]
-Underfull \vbox (badness 3209) has occurred while \output is active []
-
-
-
-[36]
 
 [37]) (tex/4-kierownik-projektu.tex
 
@@ -1804,7 +1875,7 @@ Underfull \vbox (badness 3209) has occurred while \output is active []
 [39]
 
 [40]
-<img/rola.png, id=919, 515.526pt x 337.86224pt>
+<img/rola.png, id=925, 515.526pt x 337.86224pt>
 File: img/rola.png Graphic file (type png)
 <use img/rola.png>
 Package pdftex.def Info: img/rola.png  used on input line 29.
@@ -1815,7 +1886,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [41]
-<img/arras.png, id=942, 187.29974pt x 564.30824pt>
+<img/arras.png, id=948, 187.29974pt x 564.30824pt>
 File: img/arras.png Graphic file (type png)
 <use img/arras.png>
 Package pdftex.def Info: img/arras.png  used on input line 41.
@@ -1840,19 +1911,16 @@ Underfull \vbox (badness 4556) has occurred while \output is active []
 [43 <./img/arras.png>]
 
 [44]
+Underfull \vbox (badness 1038) has occurred while \output is active []
+
+
 
 [45]
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.0pt on input line 90.
 
-Underfull \vbox (badness 1609) has occurred while \output is active []
-
-
 
 [46]
-Underfull \vbox (badness 3746) has occurred while \output is active []
-
-
 
 [47]
 
@@ -1863,16 +1931,20 @@ Underfull \vbox (badness 3746) has occurred while \output is active []
 [50]
 
 [51]
-<img/doswiadczenie.PNG, id=1078, 611.886pt x 197.538pt>
+<img/doswiadczenie.PNG, id=1084, 611.886pt x 197.538pt>
 File: img/doswiadczenie.PNG Graphic file (type png)
 <use img/doswiadczenie.PNG>
 Package pdftex.def Info: img/doswiadczenie.PNG  used on input line 23.
 (pdftex.def)             Requested size: 438.17247pt x 141.45862pt.
-<img/projekty.png, id=1079, 710.655pt x 211.992pt>
+<img/projekty.png, id=1085, 710.655pt x 211.992pt>
 File: img/projekty.png Graphic file (type png)
 <use img/projekty.png>
 Package pdftex.def Info: img/projekty.png  used on input line 30.
 (pdftex.def)             Requested size: 438.17247pt x 130.71233pt.
+
+
+LaTeX Warning: Float too large for page by 37.35602pt on input line 87.
+
 
 
 [52 <./img/doswiadczenie.PNG>]
@@ -1885,17 +1957,17 @@ Underfull \vbox (badness 6188) has occurred while \output is active []
 [54 <./img/projekty.png>]
 
 [55]
-<img/czy_inzynier.png, id=1107, 609.477pt x 184.89075pt>
+<img/czy_inzynier.png, id=1113, 609.477pt x 184.89075pt>
 File: img/czy_inzynier.png Graphic file (type png)
 <use img/czy_inzynier.png>
 Package pdftex.def Info: img/czy_inzynier.png  used on input line 103.
 (pdftex.def)             Requested size: 438.17247pt x 132.92374pt.
-<img/poziom.png, id=1108, 604.05675pt x 172.84575pt>
+<img/poziom.png, id=1114, 604.05675pt x 172.84575pt>
 File: img/poziom.png Graphic file (type png)
 <use img/poziom.png>
 Package pdftex.def Info: img/poziom.png  used on input line 110.
 (pdftex.def)             Requested size: 438.17247pt x 125.38246pt.
-<img/bulldog.png, id=1109, 507.69675pt x 184.89075pt>
+<img/bulldog.png, id=1115, 507.69675pt x 184.89075pt>
 File: img/bulldog.png Graphic file (type png)
 <use img/bulldog.png>
 Package pdftex.def Info: img/bulldog.png  used on input line 117.
@@ -1905,19 +1977,11 @@ Package pdftex.def Info: img/bulldog.png  used on input line 117.
 [56 <./img/czy_inzynier.png>]
 
 [57 <./img/poziom.png> <./img/bulldog.png>]
-<img/wplyw.png, id=1127, 486.01575pt x 121.6545pt>
+<img/wplyw.png, id=1133, 486.01575pt x 121.6545pt>
 File: img/wplyw.png Graphic file (type png)
 <use img/wplyw.png>
 Package pdftex.def Info: img/wplyw.png  used on input line 127.
 (pdftex.def)             Requested size: 438.17247pt x 109.68108pt.
-
-Overfull \hbox (13.81503pt too wide) in paragraph at lines 134--144
- [][] 
- []
-
-
-Underfull \vbox (badness 3872) has occurred while \output is active []
-
 
 
 [58 <./img/wplyw.png>]
@@ -1926,27 +1990,27 @@ File: img/poziom.png Graphic file (type png)
 Package pdftex.def Info: img/poziom.png  used on input line 155.
 (pdftex.def)             Requested size: 438.17247pt x 125.38246pt.
 
+Underfull \vbox (badness 1102) has occurred while \output is active []
+
+
 
 [59]
 
 [60]
-Underfull \vbox (badness 3954) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [61]) (tex/6-podsumowanie.tex
 
 [62]
-Underfull \vbox (badness 1454) has occurred while \output is active []
-
-
 
 [63]
+Underfull \vbox (badness 4792) has occurred while \output is active []
+
+
 
 [64]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 [65])
 
@@ -1961,13 +2025,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [69]
 
-[70] (main.lof)
+[70]
+
+[71] (main.lof)
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
  (main.lot
 
-[71])
+[72])
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
@@ -1977,12 +2043,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[72]
+[73]
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.4pt on input line 94.
+(Font)              scaled to size 14.4pt on input line 82.
 
 
-[73] (main.aux)
+[74] (main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
@@ -1994,17 +2060,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44040 strings out of 469940
- 817893 string characters out of 5469409
- 1886743 words of memory out of 5000000
- 69343 multiletter control sequences out of 15000+600000
- 729716 words of font info for 296 fonts, out of 8000000 for 9000
+ 44842 strings out of 469940
+ 832472 string characters out of 5469409
+ 1900846 words of memory out of 5000000
+ 70125 multiletter control sequences out of 15000+600000
+ 726661 words of font info for 293 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 123i,12n,121p,1996b,2413s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 123i,17n,121p,1996b,2419s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/t1xtt.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on main.pdf (74 pages, 2582803 bytes).
+Output written on main.pdf (74 pages, 2517124 bytes).
 PDF statistics:
- 1496 PDF objects out of 1728 (max. 8388607)
+ 1506 PDF objects out of 1728 (max. 8388607)
  513 named destinations out of 1000 (max. 500000)
- 42550 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 40507 words of extra memory for PDF output out of 42996 (max. 10000000)
 

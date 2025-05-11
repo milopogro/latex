@@ -1237,23 +1237,23 @@
     \endentry
     \entry{ITPMMarchewka}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=47bceb71c90dcdeee5afcc6b47f2fb0a}{%
+        {{hash=850ea454f4b6eab949bc32cb1392049c}{%
            family={Marchewka},
            familyi={M\bibinitperiod},
-           given={Jack\bibnamedelima T.},
-           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+           given={J.},
+           giveni={J\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Northern Illinois University}%
       }
-      \strng{namehash}{47bceb71c90dcdeee5afcc6b47f2fb0a}
-      \strng{fullhash}{47bceb71c90dcdeee5afcc6b47f2fb0a}
-      \strng{fullhashraw}{47bceb71c90dcdeee5afcc6b47f2fb0a}
-      \strng{bibnamehash}{47bceb71c90dcdeee5afcc6b47f2fb0a}
-      \strng{authorbibnamehash}{47bceb71c90dcdeee5afcc6b47f2fb0a}
-      \strng{authornamehash}{47bceb71c90dcdeee5afcc6b47f2fb0a}
-      \strng{authorfullhash}{47bceb71c90dcdeee5afcc6b47f2fb0a}
-      \strng{authorfullhashraw}{47bceb71c90dcdeee5afcc6b47f2fb0a}
+      \strng{namehash}{850ea454f4b6eab949bc32cb1392049c}
+      \strng{fullhash}{850ea454f4b6eab949bc32cb1392049c}
+      \strng{fullhashraw}{850ea454f4b6eab949bc32cb1392049c}
+      \strng{bibnamehash}{850ea454f4b6eab949bc32cb1392049c}
+      \strng{authorbibnamehash}{850ea454f4b6eab949bc32cb1392049c}
+      \strng{authornamehash}{850ea454f4b6eab949bc32cb1392049c}
+      \strng{authorfullhash}{850ea454f4b6eab949bc32cb1392049c}
+      \strng{authorfullhashraw}{850ea454f4b6eab949bc32cb1392049c}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}

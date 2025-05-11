@@ -75,6 +75,7 @@
 \usepackage{colortbl}
 \usepackage[polish]{babel}
 \usepackage{newtxtext,newtxmath}
+\usepackage{pdfpages}
 \newcolumntype{C}{>{\centering\arraybackslash}m{2cm}}
 
 %--------------------------------------
