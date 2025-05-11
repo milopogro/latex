@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.11)  11 MAY 2025 15:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.11)  11 MAY 2025 15:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1749,6 +1749,9 @@ Package pdftex.def Info: img/wdr2_PL.png  used on input line 151.
 [15]
 
 [16 <./img/wdr2_PL.png>]
+Underfull \vbox (badness 2662) has occurred while \output is active []
+
+
 
 [17]
 Underfull \vbox (badness 2809) has occurred while \output is active []
@@ -1770,7 +1773,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [20{C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
-<img/plc_PL.png, id=562, 816.04875pt x 427.5975pt>
+<img/plc_PL.png, id=561, 816.04875pt x 427.5975pt>
 File: img/plc_PL.png Graphic file (type png)
 <use img/plc_PL.png>
 Package pdftex.def Info: img/plc_PL.png  used on input line 66.
@@ -1791,7 +1794,7 @@ Underfull \vbox (badness 3872) has occurred while \output is active []
 
 
 [23]
-Underfull \vbox (badness 3029) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -1801,7 +1804,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [25]
-<img/agile2.png, id=685, 636.57825pt x 188.50426pt>
+<img/agile2.png, id=684, 636.57825pt x 188.50426pt>
 File: img/agile2.png Graphic file (type png)
 <use img/agile2.png>
 Package pdftex.def Info: img/agile2.png  used on input line 129.
@@ -1817,7 +1820,7 @@ Underfull \vbox (badness 1043) has occurred while \output is active []
 
 
 [27]
-<img/waterfall_agile_PL.png, id=724, 853.38824pt x 476.982pt>
+<img/waterfall_agile_PL.png, id=723, 853.38824pt x 476.982pt>
 File: img/waterfall_agile_PL.png Graphic file (type png)
 <use img/waterfall_agile_PL.png>
 Package pdftex.def Info: img/waterfall_agile_PL.png  used on input line 165.
@@ -1852,7 +1855,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [33]
-<img/ryzyka3.png, id=813, 334.24875pt x 692.5875pt>
+<img/ryzyka3.png, id=812, 334.24875pt x 692.5875pt>
 File: img/ryzyka3.png Graphic file (type png)
 <use img/ryzyka3.png>
 Package pdftex.def Info: img/ryzyka3.png  used on input line 281.
@@ -1878,7 +1881,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <img/rola.png, id=925, 515.526pt x 337.86224pt>
 File: img/rola.png Graphic file (type png)
 <use img/rola.png>
-Package pdftex.def Info: img/rola.png  used on input line 29.
+Package pdftex.def Info: img/rola.png  used on input line 30.
 (pdftex.def)             Requested size: 398.33858pt x 261.07237pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1889,20 +1892,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <img/arras.png, id=948, 187.29974pt x 564.30824pt>
 File: img/arras.png Graphic file (type png)
 <use img/arras.png>
-Package pdftex.def Info: img/arras.png  used on input line 41.
+Package pdftex.def Info: img/arras.png  used on input line 42.
 (pdftex.def)             Requested size: 197.17627pt x 594.06522pt.
 
-Overfull \hbox (6.58044pt too wide) in paragraph at lines 51--51
+Overfull \hbox (6.58044pt too wide) in paragraph at lines 52--52
 []|\T1/ntxtlf/b/n/12 (-20) Poz.|  
  []
 
 
-Overfull \hbox (3.09425pt too wide) in paragraph at lines 49--70
+Overfull \hbox (3.09425pt too wide) in paragraph at lines 50--71
  [][] 
  []
-
-
-Underfull \vbox (badness 4556) has occurred while \output is active []
 
 
 
@@ -1917,7 +1917,7 @@ Underfull \vbox (badness 1038) has occurred while \output is active []
 
 [45]
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 90.
+(Font)              scaled to size 10.0pt on input line 91.
 
 
 [46]
@@ -2060,15 +2060,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44842 strings out of 469940
- 832472 string characters out of 5469409
- 1900846 words of memory out of 5000000
+ 44848 strings out of 469940
+ 832596 string characters out of 5469409
+ 1901846 words of memory out of 5000000
  70125 multiletter control sequences out of 15000+600000
- 726661 words of font info for 293 fonts, out of 8000000 for 9000
+ 726981 words of font info for 296 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  123i,17n,121p,1996b,2419s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/t1xtt.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on main.pdf (74 pages, 2517124 bytes).
+Output written on main.pdf (74 pages, 2504082 bytes).
 PDF statistics:
  1506 PDF objects out of 1728 (max. 8388607)
  513 named destinations out of 1000 (max. 500000)
