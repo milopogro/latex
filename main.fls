@@ -798,10 +798,6 @@ INPUT .\main.lot
 INPUT .\main.lot
 INPUT main.lot
 OUTPUT main.lot
-INPUT .\main.app
-INPUT .\main.app
-INPUT main.app
-OUTPUT main.app
 INPUT C:\Users\milo-\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
 INPUT main.aux
 INPUT .\main.out

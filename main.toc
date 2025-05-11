@@ -54,4 +54,3 @@
 \contentsline {section}{Bibliografia}{67}{section*.27}%
 \contentsline {section}{Spis rysunków}{72}{section*.27}%
 \contentsline {section}{Spis tabel}{73}{section*.27}%
-\contentsline {section}{Spis załączników}{73}{section*.28}%

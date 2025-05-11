@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.11)  11 MAY 2025 16:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.11)  11 MAY 2025 16:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1400,7 +1400,7 @@ Package hyperref Info: Link coloring ON on input line 20.
 
 
 pdfTeX warning: pdflatex (file ./img/strona_tytułowa.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/strona_tytułowa.pdf, id=228, 597.55246pt x 845.07724pt>
+<img/strona_tytułowa.pdf, id=224, 597.55246pt x 845.07724pt>
 File: img/strona_tytułowa.pdf Graphic file (type pdf)
 <use img/strona_tytułowa.pdf>
 Package pdftex.def Info: img/strona_tytułowa.pdf  used on input line 28.
@@ -1411,7 +1411,7 @@ pdfTeX warning: pdflatex (file ./img/strona_tytułowa.pdf): PDF inclusion: found
 
 
 pdfTeX warning: pdflatex (file ./img/strona_tytułowa.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/strona_tytułowa.pdf, id=230, page=1, 597.55246pt x 845.07724pt>
+<img/strona_tytułowa.pdf, id=226, page=1, 597.55246pt x 845.07724pt>
 File: img/strona_tytułowa.pdf Graphic file (type pdf)
 <use img/strona_tytułowa.pdf, page 1>
 Package pdftex.def Info: img/strona_tytułowa.pdf , page1 used on input line 28.
@@ -1607,19 +1607,19 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.95pt on input line 11.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 10.95pt on input line 11.
-<img/projekt.png, id=351, 598.03426pt x 449.88075pt>
+<img/projekt.png, id=346, 598.03426pt x 449.88075pt>
 File: img/projekt.png Graphic file (type png)
 <use img/projekt.png>
 Package pdftex.def Info: img/projekt.png  used on input line 12.
 (pdftex.def)             Requested size: 398.33858pt x 299.65433pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 10.95pt on input line 13.
-<img/organizacja_PL.png, id=356, 428.19975pt x 172.2435pt>
+<img/organizacja_PL.png, id=351, 428.19975pt x 172.2435pt>
 File: img/organizacja_PL.png Graphic file (type png)
 <use img/organizacja_PL.png>
 Package pdftex.def Info: img/organizacja_PL.png  used on input line 19.
 (pdftex.def)             Requested size: 426.79134pt x 171.68062pt.
-<img/projekt2.png, id=357, 662.475pt x 434.8245pt>
+<img/projekt2.png, id=352, 662.475pt x 434.8245pt>
 File: img/projekt2.png Graphic file (type png)
 <use img/projekt2.png>
 Package pdftex.def Info: img/projekt2.png  used on input line 26.
@@ -1703,12 +1703,12 @@ LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 
 
 [10{C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc} <./img/projekt2.png>]
-<img/projektyzacja.png, id=411, 460.119pt x 296.7888pt>
+<img/projektyzacja.png, id=406, 460.119pt x 296.7888pt>
 File: img/projektyzacja.png Graphic file (type png)
 <use img/projektyzacja.png>
 Package pdftex.def Info: img/projektyzacja.png  used on input line 56.
 (pdftex.def)             Requested size: 398.33858pt x 256.94974pt.
-<img/pmos_PL.png, id=412, 723.30225pt x 175.857pt>
+<img/pmos_PL.png, id=407, 723.30225pt x 175.857pt>
 File: img/pmos_PL.png Graphic file (type png)
 <use img/pmos_PL.png>
 Package pdftex.def Info: img/pmos_PL.png  used on input line 63.
@@ -1721,25 +1721,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [12 <./img/projektyzacja.png>]
-<img/pmi_rezultaty_PL.png, id=442, 651.6345pt x 303.534pt>
+<img/pmi_rezultaty_PL.png, id=437, 651.6345pt x 303.534pt>
 File: img/pmi_rezultaty_PL.png Graphic file (type png)
 <use img/pmi_rezultaty_PL.png>
 Package pdftex.def Info: img/pmi_rezultaty_PL.png  used on input line 75.
-(pdftex.def)             Requested size: 455.24408pt x 212.0555pt.
-
-Overfull \hbox (17.07161pt too wide) in paragraph at lines 75--76
- [][] 
- []
-
-
-Underfull \vbox (badness 1178) has occurred while \output is active []
-
+(pdftex.def)             Requested size: 426.79134pt x 198.8pt.
 
 
 [13 <./img/pmos_PL.png> <./img/pmi_rezultaty_PL.png>]
 
 [14]
-<img/wdr2_PL.png, id=465, 354.123pt x 457.71pt>
+<img/wdr2_PL.png, id=461, 354.123pt x 457.71pt>
 File: img/wdr2_PL.png Graphic file (type png)
 <use img/wdr2_PL.png>
 Package pdftex.def Info: img/wdr2_PL.png  used on input line 150.
@@ -1770,7 +1762,7 @@ LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 [19]
 
 [20{C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
-<img/plc_PL.png, id=563, 816.04875pt x 427.5975pt>
+<img/plc_PL.png, id=558, 816.04875pt x 427.5975pt>
 File: img/plc_PL.png Graphic file (type png)
 <use img/plc_PL.png>
 Package pdftex.def Info: img/plc_PL.png  used on input line 62.
@@ -1796,7 +1788,7 @@ Underfull \vbox (badness 2865) has occurred while \output is active []
 
 
 [24]
-<img/agile2.png, id=676, 636.57825pt x 188.50426pt>
+<img/agile2.png, id=671, 636.57825pt x 188.50426pt>
 File: img/agile2.png Graphic file (type png)
 <use img/agile2.png>
 Package pdftex.def Info: img/agile2.png  used on input line 125.
@@ -1809,7 +1801,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [25]
 
 [26 <./img/agile2.png>]
-<img/waterfall_agile_PL.png, id=717, 853.38824pt x 476.982pt>
+<img/waterfall_agile_PL.png, id=712, 853.38824pt x 476.982pt>
 File: img/waterfall_agile_PL.png Graphic file (type png)
 <use img/waterfall_agile_PL.png>
 Package pdftex.def Info: img/waterfall_agile_PL.png  used on input line 161.
@@ -1833,7 +1825,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [32]
-<img/ryzyka3.png, id=803, 334.24875pt x 692.5875pt>
+<img/ryzyka3.png, id=798, 334.24875pt x 692.5875pt>
 File: img/ryzyka3.png Graphic file (type png)
 <use img/ryzyka3.png>
 Package pdftex.def Info: img/ryzyka3.png  used on input line 273.
@@ -1864,7 +1856,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [39]
 
 [40]
-<img/rola.png, id=927, 515.526pt x 337.86224pt>
+<img/rola.png, id=922, 515.526pt x 337.86224pt>
 File: img/rola.png Graphic file (type png)
 <use img/rola.png>
 Package pdftex.def Info: img/rola.png  used on input line 30.
@@ -1875,7 +1867,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [41]
-<img/arras.png, id=950, 187.29974pt x 564.30824pt>
+<img/arras.png, id=945, 187.29974pt x 564.30824pt>
 File: img/arras.png Graphic file (type png)
 <use img/arras.png>
 Package pdftex.def Info: img/arras.png  used on input line 42.
@@ -1910,12 +1902,12 @@ Underfull \vbox (badness 1735) has occurred while \output is active []
 
 
 [51]
-<img/doswiadczenie.PNG, id=1086, 611.886pt x 197.538pt>
+<img/doswiadczenie.PNG, id=1081, 611.886pt x 197.538pt>
 File: img/doswiadczenie.PNG Graphic file (type png)
 <use img/doswiadczenie.PNG>
 Package pdftex.def Info: img/doswiadczenie.PNG  used on input line 22.
 (pdftex.def)             Requested size: 438.17247pt x 141.45862pt.
-<img/projekty.png, id=1087, 710.655pt x 211.992pt>
+<img/projekty.png, id=1082, 710.655pt x 211.992pt>
 File: img/projekty.png Graphic file (type png)
 <use img/projekty.png>
 Package pdftex.def Info: img/projekty.png  used on input line 29.
@@ -1935,17 +1927,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [55]
-<img/czy_inzynier.png, id=1114, 609.477pt x 184.89075pt>
+<img/czy_inzynier.png, id=1109, 609.477pt x 184.89075pt>
 File: img/czy_inzynier.png Graphic file (type png)
 <use img/czy_inzynier.png>
 Package pdftex.def Info: img/czy_inzynier.png  used on input line 106.
 (pdftex.def)             Requested size: 438.17247pt x 132.92374pt.
-<img/poziom.png, id=1115, 604.05675pt x 172.84575pt>
+<img/poziom.png, id=1110, 604.05675pt x 172.84575pt>
 File: img/poziom.png Graphic file (type png)
 <use img/poziom.png>
 Package pdftex.def Info: img/poziom.png  used on input line 113.
 (pdftex.def)             Requested size: 438.17247pt x 125.38246pt.
-<img/bulldog.png, id=1116, 507.69675pt x 184.89075pt>
+<img/bulldog.png, id=1111, 507.69675pt x 184.89075pt>
 File: img/bulldog.png Graphic file (type png)
 <use img/bulldog.png>
 Package pdftex.def Info: img/bulldog.png  used on input line 120.
@@ -1955,7 +1947,7 @@ Package pdftex.def Info: img/bulldog.png  used on input line 120.
 [56]
 
 [57 <./img/czy_inzynier.png> <./img/poziom.png> <./img/bulldog.png>]
-<img/wplyw.png, id=1135, 486.01575pt x 121.6545pt>
+<img/wplyw.png, id=1130, 486.01575pt x 121.6545pt>
 File: img/wplyw.png Graphic file (type png)
 <use img/wplyw.png>
 Package pdftex.def Info: img/wplyw.png  used on input line 130.
@@ -2020,15 +2012,11 @@ Underfull \vbox (badness 4792) has occurred while \output is active []
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
- (main.app)
-\tf@app=\write9
-\openout9 = `main.app'.
-
 
 
 [73]
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.4pt on input line 82.
+(Font)              scaled to size 14.4pt on input line 80.
 
 
 [74] (main.aux)
@@ -2037,23 +2025,23 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C5EC801DA2740F90DC76CD31DBE4E727;11808.
+(rerunfilecheck)             Checksum: B0BBA6FB553CFD160C44D8F4C2FFA621;11670.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44846 strings out of 469940
- 832542 string characters out of 5469409
- 1901846 words of memory out of 5000000
- 70123 multiletter control sequences out of 15000+600000
+ 44835 strings out of 469940
+ 832358 string characters out of 5469409
+ 1900846 words of memory out of 5000000
+ 70116 multiletter control sequences out of 15000+600000
  726919 words of font info for 296 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  123i,17n,121p,1638b,2419s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/t1xtt.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on main.pdf (74 pages, 2503706 bytes).
+Output written on main.pdf (74 pages, 2503015 bytes).
 PDF statistics:
- 1508 PDF objects out of 1728 (max. 8388607)
- 513 named destinations out of 1000 (max. 500000)
- 40507 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 1503 PDF objects out of 1728 (max. 8388607)
+ 512 named destinations out of 1000 (max. 500000)
+ 40499 words of extra memory for PDF output out of 42996 (max. 10000000)
 

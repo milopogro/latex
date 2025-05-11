@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1746974515.50734 -1
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1746974919.40829 -1
   "bibliografia.bib" 1746971230 21120 cebe6eda1171160e9998edd9d1df2150 ""
-  "main.bcf" 1746974514 119558 3c267e7703a9d4c54d47c4dd8e1a9a51 "pdflatex"
+  "main.bcf" 1746974918 119558 3c267e7703a9d4c54d47c4dd8e1a9a51 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1746974505.01916 "c:/Users/milo-/OneDrive/Dokumenty/Praca magisterska/latex/main.tex" "main.pdf" "main" 1746974515.50883 0
+["pdflatex"] 1746974907.15792 "c:/Users/milo-/OneDrive/Dokumenty/Praca magisterska/latex/main.tex" "main.pdf" "main" 1746974919.40936 0
   "C:/Users/milo-/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1746969864 166614 94900ba3f4ba1b33139fc2771743b649 ""
   "C:/Users/milo-/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1746961390 13157682 58f2c4f4094512c17db2733c2d5a5201 ""
   "C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc" 1736607166 3136 bbe665bd0bb471a2da1e8fd326cff9fa ""
@@ -276,7 +276,7 @@
   "C:/Users/milo-/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/milo-/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "C:/Users/milo-/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "c:/Users/milo-/OneDrive/Dokumenty/Praca magisterska/latex/main.tex" 1746970120 5431 089e3200c71b2d3ffa85978daf8133e4 ""
+  "c:/Users/milo-/OneDrive/Dokumenty/Praca magisterska/latex/main.tex" 1746974762 5347 9517eb4711c00b383f5cc50c1c03b9fc ""
   "eiti/eiti-thesis.cls" 1746969848 15109 eced1045f357df5345d734a712ad6b33 ""
   "img/agile2.png" 1742749843 143401 e0a9bad26df7b5827958463e466d4106 ""
   "img/arras.png" 1743360431 216128 2c3ffc76b6404985027e8d6230969798 ""
@@ -298,23 +298,21 @@
   "img/waterfall_agile_PL.png" 1742750757 535544 00b565e80d13caae7dcf432112b842fd ""
   "img/wdr2_PL.png" 1742742534 34405 d16ef73f3d098610cbd48c5cd156414b ""
   "img/wplyw.png" 1746949661 17357 da797464193eee08e766003f5cdcd21b ""
-  "main.app" 1746974514 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.aux" 1746974514 37497 2307772f213a5c4659a5b00f7c765d86 "pdflatex"
+  "main.aux" 1746974918 37393 32ef8f5a52e7d684ff7c57c432a936bf "pdflatex"
   "main.bbl" 1746970844 126371 af58a58efdf471103a7e38751e40ba45 "biber main"
-  "main.lof" 1746974514 2639 fff7a5e0a74cfe5b6abe594ac1ae8e42 "pdflatex"
-  "main.lot" 1746974514 1003 464546f4da7c0904a1967949c43b07f9 "pdflatex"
-  "main.out" 1746974514 11808 c5ec801da2740f90dc76cd31dbe4e727 "pdflatex"
-  "main.run.xml" 1746974514 2351 c92fc97b5bf430cb88a802effa17be8a "pdflatex"
-  "main.tex" 1746970120 5431 089e3200c71b2d3ffa85978daf8133e4 ""
-  "main.toc" 1746974514 6320 67019191f1b2cf9f400082bedabfd289 "pdflatex"
+  "main.lof" 1746974918 2639 fff7a5e0a74cfe5b6abe594ac1ae8e42 "pdflatex"
+  "main.lot" 1746974918 1003 5816163d2fcde8e8ab65e7d7c265b82f "pdflatex"
+  "main.out" 1746974918 11670 b0bba6fb553cfd160c44d8f4c2ffa621 "pdflatex"
+  "main.run.xml" 1746974918 2351 c92fc97b5bf430cb88a802effa17be8a "pdflatex"
+  "main.tex" 1746974762 5347 9517eb4711c00b383f5cc50c1c03b9fc ""
+  "main.toc" 1746974918 6257 bf409c34f0d8c3f631d84db10b9da546 "pdflatex"
   "tex/1-wstep.tex" 1746971620 4793 b2ca021d9e7bb64810a016df8734665d ""
-  "tex/2-charakterystyka-projektów.tex" 1746971957 14874 65fcfb161a94eacc57ffed20f67bdb4f ""
+  "tex/2-charakterystyka-projektów.tex" 1746974906 14874 6e64f818390b17e29d40ab796dfbbad1 ""
   "tex/3-specyfika-projektow-informatycznych.tex" 1746974125 42643 bd2432ab538481fa25beeabb4fc955ec ""
   "tex/4-kierownik-projektu.tex" 1746973350 22848 d8e2fb75e2efda8bada7a340c115b442 ""
   "tex/5-ankieta.tex" 1746974500 24950 fd5eaaf1cc05d9d5a6320f63bda14e5f ""
   "tex/6-podsumowanie.tex" 1746973767 9330 64c79dfed2b00fe4b499458a24333d4d ""
   (generated)
-  "main.app"
   "main.aux"
   "main.bcf"
   "main.lof"
