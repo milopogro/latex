@@ -12,18 +12,18 @@
 \contentsline {subsubsection}{\numberline {3.2.1\relax .\enspace }Cykl życia projektu}{19}{subsubsection.3.2.1}%
 \contentsline {subsubsection}{\numberline {3.2.2\relax .\enspace }Cykl życia produktu}{20}{subsubsection.3.2.2}%
 \contentsline {subsubsection}{\numberline {3.2.3\relax .\enspace }Integracja PLC i SDLC w projektach informatycznych}{21}{subsubsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.3\relax .\enspace }Modele SDLC}{22}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.3\relax .\enspace }Modele SDLC}{21}{subsection.3.3}%
 \contentsline {subsubsection}{\numberline {3.3.1\relax .\enspace }Model kaskadowy}{24}{subsubsection.3.3.1}%
 \contentsline {subsubsection}{\numberline {3.3.2\relax .\enspace }Agile}{25}{subsubsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.4\relax .\enspace }Różnorodne technologie}{28}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5\relax .\enspace }Specjaliści IT}{29}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.4\relax .\enspace }Różnorodne technologie}{27}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5\relax .\enspace }Specjaliści IT}{28}{subsection.3.5}%
 \contentsline {subsection}{\numberline {3.6\relax .\enspace }Ryzyka w projektach IT}{29}{subsection.3.6}%
-\contentsline {subsubsection}{\numberline {3.6.1\relax .\enspace }Czasowy model ryzyk}{32}{subsubsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.7\relax .\enspace }Ewaluacja projektów informatycznych}{34}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8\relax .\enspace }Ostatnie trendy w projektach informatycznych}{36}{subsection.3.8}%
+\contentsline {subsubsection}{\numberline {3.6.1\relax .\enspace }Czasowy model ryzyk}{31}{subsubsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.7\relax .\enspace }Ewaluacja projektów informatycznych}{33}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8\relax .\enspace }Ostatnie trendy w projektach informatycznych}{35}{subsection.3.8}%
 \contentsline {subsubsection}{\numberline {3.8.1\relax .\enspace }Globalizacja}{36}{subsubsection.3.8.1}%
-\contentsline {subsubsection}{\numberline {3.8.2\relax .\enspace }Outsourcing}{37}{subsubsection.3.8.2}%
-\contentsline {subsubsection}{\numberline {3.8.3\relax .\enspace }Zespoły zdalne}{38}{subsubsection.3.8.3}%
+\contentsline {subsubsection}{\numberline {3.8.2\relax .\enspace }Outsourcing}{36}{subsubsection.3.8.2}%
+\contentsline {subsubsection}{\numberline {3.8.3\relax .\enspace }Zespoły zdalne}{37}{subsubsection.3.8.3}%
 \contentsline {section}{\numberline {4\relax .\enspace }Kierownik projektu}{39}{section.4}%
 \contentsline {subsection}{\numberline {4.1\relax .\enspace }Kierownik projektu}{39}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2\relax .\enspace }Role i zadania kierownika projektu}{39}{subsection.4.2}%

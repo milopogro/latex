@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1746970841.16787 "main.bcf" "main.bbl" "main" 1746971462.53856 0
+["biber main"] 1746970841.16787 "main.bcf" "main.bbl" "main" 1746973365.30226 0
   "bibliografia.bib" 1746971230 21120 cebe6eda1171160e9998edd9d1df2150 ""
-  "main.bcf" 1746971461 119558 3c267e7703a9d4c54d47c4dd8e1a9a51 "pdflatex"
+  "main.bcf" 1746973364 119558 3c267e7703a9d4c54d47c4dd8e1a9a51 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1746971449.80723 "c:/Users/milo-/OneDrive/Dokumenty/Praca magisterska/latex/main.tex" "main.pdf" "main" 1746971462.53978 0
+["pdflatex"] 1746973351.69221 "c:/Users/milo-/OneDrive/Dokumenty/Praca magisterska/latex/main.tex" "main.pdf" "main" 1746973365.30418 0
   "C:/Users/milo-/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1746969864 166614 94900ba3f4ba1b33139fc2771743b649 ""
   "C:/Users/milo-/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1746961390 13157682 58f2c4f4094512c17db2733c2d5a5201 ""
   "C:/Users/milo-/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc" 1736607166 3136 bbe665bd0bb471a2da1e8fd326cff9fa ""
@@ -298,19 +298,19 @@
   "img/waterfall_agile_PL.png" 1742750757 535544 00b565e80d13caae7dcf432112b842fd ""
   "img/wdr2_PL.png" 1742742534 34405 d16ef73f3d098610cbd48c5cd156414b ""
   "img/wplyw.png" 1746949661 17357 da797464193eee08e766003f5cdcd21b ""
-  "main.app" 1746971461 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.aux" 1746971461 37495 85d00fed69d943057b77a5912677fb51 "pdflatex"
+  "main.app" 1746973364 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.aux" 1746973364 37497 2d1c2d39be489341729f02949c61760a "pdflatex"
   "main.bbl" 1746970844 126371 af58a58efdf471103a7e38751e40ba45 "biber main"
-  "main.lof" 1746971461 2639 0ff643f12524cbe1399284e84558ff7e "pdflatex"
-  "main.lot" 1746971461 1003 a8ce262337fdc58d10043d00e3b5539e "pdflatex"
-  "main.out" 1746971461 11808 c5ec801da2740f90dc76cd31dbe4e727 "pdflatex"
-  "main.run.xml" 1746971461 2351 c92fc97b5bf430cb88a802effa17be8a "pdflatex"
+  "main.lof" 1746973364 2639 0ff643f12524cbe1399284e84558ff7e "pdflatex"
+  "main.lot" 1746973364 1003 464546f4da7c0904a1967949c43b07f9 "pdflatex"
+  "main.out" 1746973364 11808 c5ec801da2740f90dc76cd31dbe4e727 "pdflatex"
+  "main.run.xml" 1746973364 2351 c92fc97b5bf430cb88a802effa17be8a "pdflatex"
   "main.tex" 1746970120 5431 089e3200c71b2d3ffa85978daf8133e4 ""
-  "main.toc" 1746971461 6320 55891b2484fc0151b93d6c71a81b6065 "pdflatex"
-  "tex/1-wstep.tex" 1743361826 4790 41dae5e0e955f945484dbff76843adbf ""
-  "tex/2-charakterystyka-projektów.tex" 1746971448 14881 70838645ca7c744d7fe69e8842ee0728 ""
-  "tex/3-specyfika-projektow-informatycznych.tex" 1746962048 43113 3b71a12e9325f3f3c4f50fd3db707051 ""
-  "tex/4-kierownik-projektu.tex" 1746971448 22858 422def65555d3e04f412eb586f44af75 ""
+  "main.toc" 1746973364 6320 67019191f1b2cf9f400082bedabfd289 "pdflatex"
+  "tex/1-wstep.tex" 1746971620 4793 b2ca021d9e7bb64810a016df8734665d ""
+  "tex/2-charakterystyka-projektów.tex" 1746971957 14874 65fcfb161a94eacc57ffed20f67bdb4f ""
+  "tex/3-specyfika-projektow-informatycznych.tex" 1746972470 42643 bd2432ab538481fa25beeabb4fc955ec ""
+  "tex/4-kierownik-projektu.tex" 1746973350 22848 d8e2fb75e2efda8bada7a340c115b442 ""
   "tex/5-ankieta.tex" 1746971448 25027 defbf55f65f2e24e3d83c757c54a8fcf ""
   "tex/6-podsumowanie.tex" 1746965455 9330 0852f12066397e37498a33f4e2c1429a ""
   (generated)
